@@ -1,4 +1,28 @@
 {
+  "Background": {
+    "$background": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "$neutral-light-1\n\nPlano de fundo da página padrão"
+    },
+    "$background-brand": {
+      "value": "#000000",
+      "type": "color",
+      "description": "$brand-primary-1"
+    },
+    "$background-overlay": {
+      "value": "#cccccc40",
+      "type": "color",
+      "description": "$neutral-light-3 / $opacity-light"
+    }
+  },
+  "Background Inverse": {
+    "$background-inverse": {
+      "value": "#000000",
+      "type": "color",
+      "description": "$neutral-dark-1"
+    }
+  },
   "Container": {
     "$container-primary": {
       "value": "#000000",
@@ -228,42 +252,6 @@
       "type": "color"
     }
   },
-  "Icon": {
-    "$icon-primary": {
-      "value": "#000000",
-      "type": "color"
-    },
-    "$icon-secondary": {
-      "value": "#a6a6a6",
-      "type": "color"
-    },
-    "$icon-accent": {
-      "value": "#000000",
-      "type": "color"
-    },
-    "$icon-disabled": {
-      "value": "#c4c4c4",
-      "type": "color"
-    }
-  },
-  "Icon Inverse": {
-    "$icon-inverse-primary": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "$icon-inverse-secondary": {
-      "value": "#cccccc",
-      "type": "color"
-    },
-    "$icon-inverse-accent": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "$icon-inverse-disabled": {
-      "value": "#525252",
-      "type": "color"
-    }
-  },
   "Border": {
     "$border-default": {
       "value": "#666666",
@@ -329,6 +317,42 @@
     },
     "$border-inverse-disabled": {
       "value": "#666666",
+      "type": "color"
+    }
+  },
+  "Icon": {
+    "$icon-primary": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "$icon-secondary": {
+      "value": "#a6a6a6",
+      "type": "color"
+    },
+    "$icon-accent": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "$icon-disabled": {
+      "value": "#c4c4c4",
+      "type": "color"
+    }
+  },
+  "Icon Inverse": {
+    "$icon-inverse-primary": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "$icon-inverse-secondary": {
+      "value": "#cccccc",
+      "type": "color"
+    },
+    "$icon-inverse-accent": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "$icon-inverse-disabled": {
+      "value": "#525252",
       "type": "color"
     }
   },
@@ -420,30 +444,6 @@
     "$feedback-inverse-warning-text": {
       "value": "#fdf7e6",
       "type": "color"
-    }
-  },
-  "Background": {
-    "$background": {
-      "value": "#ffffff",
-      "type": "color",
-      "description": "$neutral-light-1\n\nPlano de fundo da página padrão"
-    },
-    "$background-brand": {
-      "value": "#000000",
-      "type": "color",
-      "description": "$brand-primary-1"
-    },
-    "$background-overlay": {
-      "value": "#cccccc40",
-      "type": "color",
-      "description": "$neutral-light-3 / $opacity-light"
-    }
-  },
-  "Background Inverse": {
-    "$background-inverse": {
-      "value": "#000000",
-      "type": "color",
-      "description": "$neutral-dark-1"
     }
   },
   "Link": {
