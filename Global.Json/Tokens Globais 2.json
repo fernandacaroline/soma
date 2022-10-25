@@ -1,0 +1,853 @@
+{
+  "0": {
+    "Container": {
+      "$container-primary": {
+        "value": "#8179e2",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo primária"
+      },
+      "$container-primary-hover": {
+        "value": "#aca9c9",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo primária estado hover"
+      },
+      "$container-primary-active": {
+        "value": "#4c487e",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo primária estado ativo"
+      },
+      "$container-primary-selected": {
+        "value": "#4c487e",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo primária estado selecionado"
+      },
+      "$container-secondary": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo secundária "
+      },
+      "$container-secondary-hover": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo secundária estado hover"
+      },
+      "$container-secondary-active": {
+        "value": "#ebebeb",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo secundária  estado ativo"
+      },
+      "$container-secondary-selected": {
+        "value": "#8179e2",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo secundária  estado selecionado"
+      },
+      "$container-checked": {
+        "value": "#8179e2",
+        "type": "color",
+        "description": "\"value\"\n\nPara componentes com versões habilitadas e desabilitadas\nCheckbox\nRadio Button\nToggle"
+      },
+      "$container-disabled": {
+        "value": "#eaeaea",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo desabilitado"
+      }
+    },
+    "Container Inverse": {
+      "$container-inverse-primary": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo primária"
+      },
+      "$container-inverse-primary-hover": {
+        "value": "#d9d9d9",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo primária estado hover"
+      },
+      "$container-inverse-primary-active": {
+        "value": "#ebebeb",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo primária estado ativo"
+      },
+      "$container-inverse-primary-selected": {
+        "value": "#d9d9d9",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo primária estado selecionado"
+      },
+      "$container-inverse-secondary": {
+        "value": "#272424",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo secundária"
+      },
+      "$container-inverse-secondary-hover": {
+        "value": "#545454",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo secundária estado hover"
+      },
+      "$container-inverse-secondary-active": {
+        "value": "#3e3e3e",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo secundária  estado ativo"
+      },
+      "$container-inverse-secondary-selected": {
+        "value": "#3e3e3e",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo secundária  estado selecionado"
+      },
+      "$container-inverse-checked": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "\"value\"\n\nPara componentes com versões habilitadas e desabilitadas\nCheckbox\nRadio Button\nToggle"
+      },
+      "$container-inverse-disabled": {
+        "value": "#545454",
+        "type": "color",
+        "description": "\"value\"\n\nCor de fundo desabilitado"
+      }
+    },
+    "Text": {
+      "$text-primary": {
+        "value": "#272424",
+        "type": "color",
+        "description": "color-typography-2-pure\n\nTextos primários, \nTítulos \nInformações principais"
+      },
+      "$text-secondary": {
+        "value": "#757575",
+        "type": "color",
+        "description": "\"value\"\n\nSubtítulos\nInformações secundárias ao título\nLabel Input\nDescrição de produto\nCorpo de texto"
+      },
+      "$text-accent": {
+        "value": "#8179e2",
+        "type": "color",
+        "description": "\"value\"\n\nInformação em destaque {brand}\nItem em destaque no menu"
+      },
+      "$text-sale": {
+        "value": "#ff4141",
+        "type": "color",
+        "description": "\"value\"\n\nPreço com desconto"
+      },
+      "$text-support": {
+        "value": "#8b8b8b",
+        "type": "color",
+        "description": "color-typography-2-light\n\nPlaceholder\nLegendas\nFrases de suporte sem destaque"
+      },
+      "$text-disabled-on-color": {
+        "value": "#acacac",
+        "type": "color"
+      },
+      "$text-disabled": {
+        "value": "#b7b7b7",
+        "type": "color",
+        "description": "color-typography-1-dark\n\nTexto desabilitado"
+      },
+      "Title": {
+        "value": {
+          "fontFamily": "{fontFamilies.roboto}",
+          "fontWeight": "{fontWeights.roboto-1}",
+          "lineHeight": "{lineHeights.1}",
+          "fontSize": "{fontSize.3}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "$typestyle-tittle"
+      },
+      "Subtitle": {
+        "value": {
+          "fontFamily": "{fontFamilies.roboto}",
+          "fontWeight": "{fontWeights.roboto-0}",
+          "lineHeight": "{lineHeights.1}",
+          "fontSize": "{fontSize.3}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "$typestyle-subtittle"
+      },
+      "Body": {
+        "value": {
+          "fontFamily": "{fontFamilies.roboto}",
+          "fontWeight": "{fontWeights.roboto-0}",
+          "lineHeight": "{lineHeights.2}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "$typestyle-body"
+      },
+      "Body Small": {
+        "value": {
+          "fontFamily": "{fontFamilies.roboto}",
+          "fontWeight": "{fontWeights.roboto-0}",
+          "lineHeight": "{lineHeights.1}",
+          "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "$typestyle-body-sm"
+      },
+      "Caption": {
+        "value": {
+          "fontFamily": "{fontFamilies.roboto}",
+          "fontWeight": "{fontWeights.roboto-0}",
+          "lineHeight": "{lineHeights.1}",
+          "fontSize": "{fontSize.0}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "$typestyle-caption"
+      }
+    },
+    "Text Inverse": {
+      "$text-inverse-primary": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "color-typography-1-pure\n\nTextos primários, \nTítulos \nItens do header\nInformações principais"
+      },
+      "$text-inverse-secondary": {
+        "value": "#eeeeee",
+        "type": "color",
+        "description": "color-typography-1-medium\n\nSubtítulos\nInformações secundárias ao título\nLabel Input\nDescrição de produto\nCorpo de texto"
+      },
+      "$text-inverse-accent": {
+        "value": "#8179e2",
+        "type": "color",
+        "description": "\"value\"\n\nInformação em destaque {brand}\nItem em destaque no menu"
+      },
+      "text-inverse-sale": {
+        "value": "#ff4141",
+        "type": "color",
+        "description": "\"value\"\n\nPreço com desconto"
+      },
+      "$text-inverse-support": {
+        "value": "#f8f8f8",
+        "type": "color",
+        "description": "color-typography-1-light\n\nPlaceholder\nLegendas\nFrases de suporte sem destaque"
+      },
+      "$text-inverse-disabled-on-color": {
+        "value": "#a0a0a0",
+        "type": "color"
+      },
+      "$text-inverse-disabled": {
+        "value": "#979797",
+        "type": "color",
+        "description": "\"value\"\n\nTexto desabilitado"
+      }
+    },
+    "Icon": {
+      "$icon-primary": {
+        "value": "#272424",
+        "type": "color",
+        "description": "\"value\"\n\nIcones primários\nIcones usados acompanhados a textos primários\nElementos primários"
+      },
+      "$icon-secondary": {
+        "value": "#757575",
+        "type": "color",
+        "description": "\"value\"\n\nIcones secundários\nIcones usados acompanhados a textos secundários como\nElementos secundários"
+      },
+      "$icon-accent": {
+        "value": "#8179e2",
+        "type": "color",
+        "description": "\"value\"\n\nÍcones em destaque"
+      },
+      "$icon-disabled": {
+        "value": "#a7a7a7",
+        "type": "color",
+        "description": "\"value\"\n\nÍcone desabilitado"
+      }
+    },
+    "Icon Inverse": {
+      "$icon-inverse-primary": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "\"value\"\n\nIcones primários modo inverso\nElementos primários modo inverso"
+      },
+      "$icon-inverse-secondary": {
+        "value": "#d9d9d9",
+        "type": "color",
+        "description": "\"value\"\n\nIcones secundários modo inverso\nElementos primários modo inverso"
+      },
+      "$icon-inverse-accent": {
+        "value": "#ecebf4",
+        "type": "color",
+        "description": "\"value\"\n\nÍcones em destaque modo inverso"
+      },
+      "$icon-inverse-disabled": {
+        "value": "#afafaf",
+        "type": "color",
+        "description": "\"value\"\n\nÍcone desabilitado modo inverso"
+      }
+    },
+    "Border": {
+      "$border-default": {
+        "value": "#d4d4d4",
+        "type": "color",
+        "description": "\"Value\"\n\nToken para bordas e linhas padrões usado nos principais componentes no estado default"
+      },
+      "$border-card": {
+        "value": "#d9d9d9",
+        "type": "color",
+        "description": "\"value\"\n\nToken para componentes que atuam como cards com conteúdo interno"
+      },
+      "$border-accent": {
+        "value": "#8179e2",
+        "type": "color",
+        "description": "\"value\"\n\nBorda com cor de destaque"
+      },
+      "$border-subtle": {
+        "value": "#d9d9d9",
+        "type": "color",
+        "description": "\"value\"\n\nToken para linhas divisórias entre categorias, filtros e colunas."
+      },
+      "$border-hover": {
+        "value": "#272424",
+        "type": "color",
+        "description": "\"value\"\n\nToken para bordas e linhas padrões usado nos principais componentes no estado hover"
+      },
+      "$border-active": {
+        "value": "#171717",
+        "type": "color",
+        "description": "\"value\"\n\nToken para bordas e linhas padrões usado nos principais componentes no estado ativo"
+      },
+      "$border-selected": {
+        "value": "#8179e2",
+        "type": "color",
+        "description": "\"value\"\n\nToken para bordas e linhas no estado selecionado"
+      },
+      "$border-disabled": {
+        "value": "#c8c8c8",
+        "type": "color",
+        "description": "\"value\"\n\nBordas em componentes desabilitados"
+      }
+    },
+    "Border Inverse": {
+      "$border-inverse-default": {
+        "value": "#8d8d8d",
+        "type": "color",
+        "description": "neutral-light-1\n\nBordas no modo inverso"
+      },
+      "$border-inverse-card": {
+        "value": "#d9d9d9",
+        "type": "color",
+        "description": "\"value\"\n\nToken para componentes que atuam como cards com conteúdo interno modo inverso"
+      },
+      "$border-inverse-accent": {
+        "value": "#8179e2",
+        "type": "color",
+        "description": "\"value\"\n\nBorda com cor de destaque"
+      },
+      "$border-inverse-subtle": {
+        "value": "#3d3d3d",
+        "type": "color",
+        "description": "\"value\"\n\nToken para linhas divisórias entre categorias, filtros e colunas."
+      },
+      "$border-inverse-hover": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "\"value\"\n\nToken para bordas e linhas padrões usado nos principais componentes no estado hover modo inverso"
+      },
+      "$border-inverse-active": {
+        "value": "#dcdcdc",
+        "type": "color",
+        "description": "\"value\"\n\nToken para bordas e linhas padrões usado nos principais componentes no estado hover modo inverso"
+      },
+      "$border-inverse-selected": {
+        "value": "#ededed",
+        "type": "color",
+        "description": "\"value\"\n\nToken para bordas e linhas no estado selecionado"
+      },
+      "$border-inverse-disabled": {
+        "value": "#545454",
+        "type": "color",
+        "description": "\"value\"\n\nBordas e linhas em componentes desabilitados modo inverso"
+      }
+    },
+    "Feedback": {
+      "$feedback-error-container": {
+        "value": "#c52518",
+        "type": "color",
+        "description": "color-feedback-error-pure\n\nErro\nEstados inválidos para container e bordas"
+      },
+      "$feedback-error-container-hover": {
+        "value": "#a03127",
+        "type": "color",
+        "description": "\"value\"\n\nErro\nEstados inválidos para container e bordas no estado hover"
+      },
+      "$feedback-error-container-active": {
+        "value": "#4e1813",
+        "type": "color",
+        "description": "\"value\"\n\nErro\nEstados inválidos para container e bordas no estado ativo"
+      },
+      "$feedback-error-text": {
+        "value": "#c52518",
+        "type": "color",
+        "description": "\"value\"\n\nErro\nEstados inválidos para texto"
+      },
+      "$feedback-error-text-hover": {
+        "value": "#a03127",
+        "type": "color",
+        "description": "\"value\"\n\nErro\nEstados inválidos para texto no estado de hover"
+      },
+      "$feedback-error-text-active": {
+        "value": "#4e1813",
+        "type": "color",
+        "description": "\"value\"\n\nErro\nEstados inválidos para texto no estado ativo"
+      },
+      "$feedback-success-container": {
+        "value": "#148a6a",
+        "type": "color",
+        "description": "color-feedback-success-pure\n\nSuccess\nOn para containers"
+      },
+      "$feedback-success-text": {
+        "value": "#148a6a",
+        "type": "color",
+        "description": "\"value\"\n\nSuccess\nOn para textos"
+      },
+      "$feedback-warning-container": {
+        "value": "#e3cc6c",
+        "type": "color",
+        "description": "color-feedback-warning-pure\n\nAtenção\nCuidado"
+      },
+      "$feedback-warning-text": {
+        "value": "#e3cc6c",
+        "type": "color",
+        "description": "\"value\"\n\nAtenção\nOn para textos"
+      }
+    },
+    "Feedback Inverse": {
+      "$feedback-inverse-error-container": {
+        "value": "#c52518",
+        "type": "color",
+        "description": "color-feedback-error-light\n\nErro\nEstados inválidos para container e bordas"
+      },
+      "$feedback-inverse-error-container-hover": {
+        "value": "#a03127",
+        "type": "color",
+        "description": "\"value\"\n\nErro\nEstados inválidos para container e bordasno estado hover"
+      },
+      "$feedback-inverse-error-container-active": {
+        "value": "#4e1813",
+        "type": "color",
+        "description": "\"value\"\n\nErro\nEstados inválidos para container e bordas no estado ativo"
+      },
+      "$feedback-inverse-error-text": {
+        "value": "#ff4837",
+        "type": "color",
+        "description": "\"value\"\n\nErro\nEstados inválidos para texto"
+      },
+      "$feedback-inverse-error-text-hover": {
+        "value": "#ffb6af",
+        "type": "color",
+        "description": "\"value\"\n\nErro\nEstados inválidos para texto no estado de hover"
+      },
+      "$feedback-inverse-error-text-active": {
+        "value": "#ff6052",
+        "type": "color",
+        "description": "\"value\"\n\nErro\nEstados inválidos para texto no estado ativo"
+      },
+      "$feedback-inverse-success-container": {
+        "value": "#28cea1",
+        "type": "color",
+        "description": "color-feedback-success-light\n\nSuccess\nOn"
+      },
+      "$feedback-inverse-success-text": {
+        "value": "#28cea1",
+        "type": "color",
+        "description": "\"value\"\n\nSuccess\nOn para textos"
+      },
+      "$feedback-inverse-warning-container": {
+        "value": "#fcda4d",
+        "type": "color",
+        "description": "color-feedback-warning-light\n\nAtenção\nCuidado"
+      },
+      "$feedback-inverse-warning-text": {
+        "value": "#fcda4d",
+        "type": "color",
+        "description": "\"value\"\n\n"
+      }
+    },
+    "Background": {
+      "$background": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "neutral-light-1\n\nPlano de fundo da página padrão"
+      },
+      "$background-brand": {
+        "value": "#8179e2",
+        "type": "color",
+        "description": "brand-primary-1\n\nCor de fundo de recurso para uso da marca"
+      },
+      "$background-overlay": {
+        "value": "#666666cc",
+        "type": "color",
+        "description": "opacity-intense\n\nFundos Overlay"
+      }
+    },
+    "Background Inverse": {
+      "$background-inverse": {
+        "value": "#d9d9d9",
+        "type": "color",
+        "description": "neutral-dark-1\n\nFundos de alto contraste"
+      }
+    },
+    "Link": {
+      "$link-primary": {
+        "value": "#272424",
+        "type": "color",
+        "description": "\"value\"\n\nCor para link primário em links primários em menus, headers, e componentes principais"
+      },
+      "$link-primary-hover": {
+        "value": "#aca9c9",
+        "type": "color",
+        "description": "\"value\"\n\nCor para link no estado hover"
+      },
+      "$link-primary-visited": {
+        "value": "#4c487e",
+        "type": "color",
+        "description": "\"value\"\n\nLinks visitados\nEstado Ativo"
+      },
+      "$link-secondary": {
+        "value": "#8179e2",
+        "type": "color",
+        "description": "\"value\"\n\nCor para link secundário em corpos de texto com destaque"
+      },
+      "$link-secondary-hover": {
+        "value": "#aca9c9",
+        "type": "color",
+        "description": "\"value\"\n\nCor para link no estado hover secundário"
+      },
+      "$link-secondary-visited": {
+        "value": "#4c487e",
+        "type": "color",
+        "description": "\"value\"\n\nLinks visitados\nEstado Ativo"
+      }
+    },
+    "Link Inverse": {
+      "$link-inverse-primary": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "color-feedback-link-light\n\nCor para link default modo inverso"
+      },
+      "$link-inverse-primary-hover": {
+        "value": "#d9d9d9",
+        "type": "color",
+        "description": "Cor para link no estado hover modo inverso"
+      },
+      "$link-inverse-primary-visited": {
+        "value": "#8179e2",
+        "type": "color",
+        "description": "Links visitados\nEstado Ativo\nModo inverso"
+      },
+      "$link-inverse-secondary": {
+        "value": "#d9d6ff",
+        "type": "color",
+        "description": "\"value\"\n\nCor para link secundário em corpos de texto com destaque modo inverso"
+      },
+      "$link-inverse-secondary-hover": {
+        "value": "#bbb6ff",
+        "type": "color",
+        "description": "\"value\"\n\nCor para link no estado hover modo inverso"
+      },
+      "$link-inverse-secondary-visited": {
+        "value": "#8179e2",
+        "type": "color",
+        "description": "\"value\"\n\nLinks visitados\nEstado Ativo\nModo inverso"
+      }
+    },
+    "Opacity": {
+      "80% $opacity-intense": {
+        "value": "#ffffffcc",
+        "type": "color"
+      }
+    },
+    "Gradient": {
+      "Linear Shadow": {
+        "value": "linear-gradient(180deg, #00000000 0%, #0000004d 100%)",
+        "type": "color"
+      }
+    },
+    "Shadow": {
+      "Light": {
+        "value": {
+          "color": "#00000014",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 0,
+          "blur": 16,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      },
+      "Medium": {
+        "value": {
+          "color": "#00000014",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 0,
+          "blur": 24,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      },
+      "Intense": {
+        "value": {
+          "color": "#0000003d",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 0,
+          "blur": 24,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      }
+    },
+    "fontFamilies": {
+      "roboto": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "0": {
+        "value": "110%",
+        "type": "lineHeights"
+      },
+      "1": {
+        "value": "104%",
+        "type": "lineHeights"
+      },
+      "2": {
+        "value": "180%",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "roboto-0": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "roboto-1": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "roboto-2": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "roboto-3": {
+        "value": "Medium",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "value": "10",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": "18",
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "6": {
+        "value": "32",
+        "type": "fontSizes"
+      },
+      "7": {
+        "value": "48",
+        "type": "fontSizes"
+      },
+      "8": {
+        "value": "56",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "0%",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      }
+    },
+    "Display": {
+      "Display Large": {
+        "value": {
+          "fontFamily": "{fontFamilies.roboto}",
+          "fontWeight": "{fontWeights.roboto-0}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.8}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "$typestyle-display-lg"
+      },
+      "Display Medium": {
+        "value": {
+          "fontFamily": "{fontFamilies.roboto}",
+          "fontWeight": "{fontWeights.roboto-0}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.7}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "$typestyle-display-md"
+      },
+      "Display Small": {
+        "value": {
+          "fontFamily": "{fontFamilies.roboto}",
+          "fontWeight": "{fontWeights.roboto-0}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.6}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "$typestyle-display-sm"
+      }
+    },
+    "Headline": {
+      "Headline Large": {
+        "value": {
+          "fontFamily": "{fontFamilies.roboto}",
+          "fontWeight": "{fontWeights.roboto-1}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.5}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "$typestyle-headline-lg"
+      },
+      "Headline Medium": {
+        "value": {
+          "fontFamily": "{fontFamilies.roboto}",
+          "fontWeight": "{fontWeights.roboto-2}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.5}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "$typestyle-headline-md"
+      },
+      "Headline Small": {
+        "value": {
+          "fontFamily": "{fontFamilies.roboto}",
+          "fontWeight": "{fontWeights.roboto-1}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.4}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "$typestyle-headline-sm"
+      },
+      "Subheadline": {
+        "value": {
+          "fontFamily": "{fontFamilies.roboto}",
+          "fontWeight": "{fontWeights.roboto-0}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.4}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "$typestyle-subheadline"
+      }
+    },
+    "Button": {
+      "Medium": {
+        "value": {
+          "fontFamily": "{fontFamilies.roboto}",
+          "fontWeight": "{fontWeights.roboto-3}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.uppercase}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "$typestyle-button-md"
+      },
+      "Small": {
+        "value": {
+          "fontFamily": "{fontFamilies.roboto}",
+          "fontWeight": "{fontWeights.roboto-3}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.uppercase}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "$typestyle-button-sm"
+      }
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      },
+      "uppercase": {
+        "value": "uppercase",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    }
+  }
+}
