@@ -941,8 +941,7 @@
   },
   "$spacing-1": {
     "value": "1",
-    "type": "spacing",
-    "description": "Grupo de variáveis de espaçamentos utilizadas para espaçar horizontalmente os componentes e ditar ritmo vertical nas telas utilizando o design system."
+    "type": "spacing"
   },
   "$spacing-0": {
     "value": "0",
@@ -952,31 +951,31 @@
     "value": "2",
     "type": "spacing"
   },
-  "spacing-4": {
+  "$spacing-4": {
     "value": "4",
     "type": "spacing"
   },
-  "spacing-8": {
+  "$spacing-8": {
     "value": "8",
     "type": "spacing"
   },
-  "spacing-12": {
+  "$spacing-12": {
     "value": "12",
     "type": "spacing"
   },
-  "spacing-16": {
+  "$spacing-16": {
     "value": "16",
     "type": "spacing"
   },
-  "spacing-24": {
+  "$spacing-24": {
     "value": "24",
     "type": "spacing"
   },
-  "spacing-32": {
+  "$spacing-32": {
     "value": "32",
     "type": "spacing"
   },
-  "spacing-40": {
+  "$spacing-40": {
     "value": "40",
     "type": "spacing"
   },
