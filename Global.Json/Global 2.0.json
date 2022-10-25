@@ -577,46 +577,44 @@
       "type": "color"
     }
   },
+  "$shadow-light": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "16",
+      "spread": "0",
+      "color": "{Background Inverse.$background-inverse}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
   "Gradient": {
     "Linear Shadow": {
       "value": "linear-gradient(180deg, #00000000 0%, #0000004d 100%)",
       "type": "color"
     }
   },
-  "Shadow": {
-    "Light": {
-      "value": {
-        "color": "#00000014",
-        "type": "dropShadow",
-        "x": 0,
-        "y": 0,
-        "blur": 16,
-        "spread": 0
-      },
-      "type": "boxShadow"
+  "$shadow-md": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "24",
+      "spread": "0",
+      "color": "{Background Inverse.$background-inverse}",
+      "type": "dropShadow"
     },
-    "Medium": {
-      "value": {
-        "color": "#00000014",
-        "type": "dropShadow",
-        "x": 0,
-        "y": 0,
-        "blur": 24,
-        "spread": 0
-      },
-      "type": "boxShadow"
+    "type": "boxShadow"
+  },
+  "$shadow-intense": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "24",
+      "spread": "0",
+      "color": "{Background Inverse.$background-inverse}",
+      "type": "dropShadow"
     },
-    "Intense": {
-      "value": {
-        "color": "#0000003d",
-        "type": "dropShadow",
-        "x": 0,
-        "y": 0,
-        "blur": 24,
-        "spread": 0
-      },
-      "type": "boxShadow"
-    }
+    "type": "boxShadow"
   },
   "fontFamilies": {
     "roboto": {
@@ -862,5 +860,144 @@
       "value": "none",
       "type": "textDecoration"
     }
+  },
+  "$radius-default": {
+    "value": "0",
+    "type": "borderRadius",
+    "description": "Valor de borda principal {Em casos em que a marca não tem valores small, medium ou large utilizar a escala default."
+  },
+  "$radius-small": {
+    "value": "4",
+    "type": "borderRadius"
+  },
+  "$radius-medium": {
+    "value": "8",
+    "type": "borderRadius"
+  },
+  "$radius-large": {
+    "value": "24",
+    "type": "borderRadius"
+  },
+  "$border-width-default": {
+    "value": "1",
+    "type": "borderWidth",
+    "description": "Border Width Default\n"
+  },
+  "$border-width-sm": {
+    "value": "0.5",
+    "type": "borderWidth",
+    "description": "Border Width Small"
+  },
+  "$border-width-md": {
+    "value": "1",
+    "type": "borderWidth",
+    "description": "Border Width Medium\n"
+  },
+  "$border-width-lg": {
+    "value": "2",
+    "type": "borderWidth",
+    "description": "Border Width Large"
+  },
+  "$border-width-xlg": {
+    "value": "4",
+    "type": "borderWidth",
+    "description": "Border Width X Large"
+  },
+  "$opacity-none": {
+    "value": "0",
+    "type": "opacity",
+    "description": "Opacity: None\nTorna a opacidade do elemento igual a zero."
+  },
+  "$opacity-light": {
+    "value": "20%",
+    "type": "opacity",
+    "description": "Opacity Light\nElemento com opacidade baixa"
+  },
+  "$opacity-medium": {
+    "value": "40%",
+    "type": "opacity",
+    "description": "Elemento com média opacidade"
+  },
+  "$opacity-intense": {
+    "value": "60%",
+    "type": "opacity",
+    "description": "Elemento com opacidade alta"
+  },
+  "$opacity-semi-opaque": {
+    "value": "80%",
+    "type": "opacity",
+    "description": "Elemento com opacidade Semi-Opaca"
+  },
+  "$shadow-default": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "8",
+      "spread": "0",
+      "color": "{Background Inverse.$background-inverse}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "$spacing-1": {
+    "value": "1",
+    "type": "spacing",
+    "description": "Grupo de variáveis de espaçamentos utilizadas para espaçar horizontalmente os componentes e ditar ritmo vertical nas telas utilizando o design system."
+  },
+  "$spacing-0": {
+    "value": "0",
+    "type": "spacing"
+  },
+  "$spacing-2": {
+    "value": "2",
+    "type": "spacing"
+  },
+  "spacing-4": {
+    "value": "4",
+    "type": "spacing"
+  },
+  "spacing-8": {
+    "value": "8",
+    "type": "spacing"
+  },
+  "spacing-12": {
+    "value": "12",
+    "type": "spacing"
+  },
+  "spacing-16": {
+    "value": "16",
+    "type": "spacing"
+  },
+  "spacing-24": {
+    "value": "24",
+    "type": "spacing"
+  },
+  "spacing-32": {
+    "value": "32",
+    "type": "spacing"
+  },
+  "spacing-40": {
+    "value": "40",
+    "type": "spacing"
+  },
+  "$spacing-48": {
+    "value": "48",
+    "type": "spacing"
+  },
+  "$spacing-56": {
+    "value": "56",
+    "type": "spacing"
+  },
+  "$spacing-64": {
+    "value": "64",
+    "type": "spacing"
+  },
+  "$spacing-72": {
+    "value": "72",
+    "type": "spacing"
+  },
+  "$spacing-80": {
+    "value": "80",
+    "type": "spacing"
   }
 }
