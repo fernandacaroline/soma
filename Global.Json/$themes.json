@@ -243,5 +243,14 @@
       "Shadow.Intense": "S:2681a05006157220aac661a9f8c88a1936f80aa1,",
       "Link.$link-secondary-visited": "S:00f098b4ded70b61072dab3f4eb1fcdcf663b17b,"
     }
+  },
+  {
+    "id": "9f085ba8102b0b85a422a193da211a3264ec14e3",
+    "name": "Components",
+    "selectedTokenSets": {
+      "Global 2.0": "enabled",
+      "Cris Barros": "disabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
