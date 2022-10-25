@@ -1,17 +1,12 @@
 [
   {
     "id": "b38c9d96e86dfe4af56a32a07fdc731642a63398",
-    "name": "Light",
+    "name": "Cris Barros",
     "selectedTokenSets": {
-      "Global 2.0": "source",
+      "Global 2.0": "disabled",
       "Cris Barros": "enabled"
     },
     "$figmaStyleReferences": {
-      "Text.Title": "S:2819299a182735653fed5671e004117a0a910c62,",
-      "Text.Subtitle": "S:7738e335d4961c1352b5eb825f4c8a5d7e752d5e,",
-      "Text.Body": "S:f37c26bc7072ee2ab21cf906a8aacec6bb16ae8d,",
-      "Text.Body Small": "S:cfe7185f05ac1ad237393993de75474cc4f44428,",
-      "Text.Caption": "S:7df37aef1da494013f686f758468c3de40cf506c,",
       "Display.Display Large": "S:097e6aa883faef5d267341e11b802a32d9e917d3,",
       "Display.Display Medium": "S:b2fec54221112bff79635e4122a5de56005de82e,",
       "Display.Display Small": "S:c9d40bd41aa881c18fcf222d5b8d34307100dd20,",
@@ -21,6 +16,11 @@
       "Headline.Subheadline": "S:397edbd026742db7aa27caa946ce0717166fa4ab,",
       "Button.Medium": "S:9139769f2c93972426261ab570a69ba53c4de8b0,",
       "Button.Small": "S:4ac314a6f0e43d5130d979838e00f3f3433f46fd,",
+      "Text.Title": "S:2819299a182735653fed5671e004117a0a910c62,",
+      "Text.Subtitle": "S:7738e335d4961c1352b5eb825f4c8a5d7e752d5e,",
+      "Text.Body": "S:f37c26bc7072ee2ab21cf906a8aacec6bb16ae8d,",
+      "Text.Body Small": "S:cfe7185f05ac1ad237393993de75474cc4f44428,",
+      "Text.Caption": "S:7df37aef1da494013f686f758468c3de40cf506c,",
       "Container.$container-primary": "S:fa4c22ba7ce758669e027912193542556f2255a9,",
       "Container.$container-primary-hover": "S:c36687191ac1cfdf2d3f0a615da0cc9e2b72fa0e,",
       "Container.$container-primary-active": "S:298df76f4b8341876b28f9aca6d3b7e085cd5e71,",
