@@ -757,7 +757,7 @@
   "paragraph-spacing-default": {
       "value": "0",
       "type": "paragraphSpacing"
-    }
+    
   },
   "Display": {
     "Display Large": {
