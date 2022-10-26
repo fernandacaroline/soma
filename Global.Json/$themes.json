@@ -12,15 +12,10 @@
       "Text.Body": "S:f37c26bc7072ee2ab21cf906a8aacec6bb16ae8d,",
       "Text.Body Small": "S:cfe7185f05ac1ad237393993de75474cc4f44428,",
       "Text.Caption": "S:7df37aef1da494013f686f758468c3de40cf506c,",
-      "Display.Display Large": "S:097e6aa883faef5d267341e11b802a32d9e917d3,",
-      "Display.Display Medium": "S:b2fec54221112bff79635e4122a5de56005de82e,",
-      "Display.Display Small": "S:c9d40bd41aa881c18fcf222d5b8d34307100dd20,",
       "Headline.Headline Large": "S:9937155e740fa7ab99f4aa0ec4f775446c2988b2,",
       "Headline.Headline Medium": "S:7060303b9147deebf8519c323e5334211de86655,",
       "Headline.Headline Small": "S:2164664871e091bf96eb8198bcb308d7e541020d,",
       "Headline.Subheadline": "S:397edbd026742db7aa27caa946ce0717166fa4ab,",
-      "Button.Medium": "S:9139769f2c93972426261ab570a69ba53c4de8b0,",
-      "Button.Small": "S:4ac314a6f0e43d5130d979838e00f3f3433f46fd,",
       "Background.$background": "S:61964d3e6434d18b15cd3ddf6bdd1de251a499b5,",
       "Background.$background-brand": "S:cd2debdcf904c4a65de50b5188bf9cf9917435fe,",
       "Background.$background-overlay": "S:7119659da198986b47823cb89f7330f81dbb4965,",
@@ -118,7 +113,12 @@
       "Gradient.Linear Shadow": "S:56bee75710f36856c991158abf5e31f00c384e3e,",
       "shadow-light": "S:d5852fd3a268db021a0255a12a0c19fab23a0c81,",
       "shadow-md": "S:0c2737fa0243b95ff59e865d29be143f6e1a9fae,",
-      "shadow-intense": "S:2681a05006157220aac661a9f8c88a1936f80aa1,"
+      "shadow-intense": "S:2681a05006157220aac661a9f8c88a1936f80aa1,",
+      "display.display-large": "S:097e6aa883faef5d267341e11b802a32d9e917d3,",
+      "display.display-medium": "S:b2fec54221112bff79635e4122a5de56005de82e,",
+      "display.display-small": "S:c9d40bd41aa881c18fcf222d5b8d34307100dd20,",
+      "button.medium": "S:9139769f2c93972426261ab570a69ba53c4de8b0,",
+      "button.small": "S:4ac314a6f0e43d5130d979838e00f3f3433f46fd,"
     }
   },
   {
@@ -134,15 +134,10 @@
       "Text.Body": "S:f37c26bc7072ee2ab21cf906a8aacec6bb16ae8d,",
       "Text.Body Small": "S:cfe7185f05ac1ad237393993de75474cc4f44428,",
       "Text.Caption": "S:7df37aef1da494013f686f758468c3de40cf506c,",
-      "Display.Display Large": "S:097e6aa883faef5d267341e11b802a32d9e917d3,",
-      "Display.Display Medium": "S:b2fec54221112bff79635e4122a5de56005de82e,",
-      "Display.Display Small": "S:c9d40bd41aa881c18fcf222d5b8d34307100dd20,",
       "Headline.Headline Large": "S:9937155e740fa7ab99f4aa0ec4f775446c2988b2,",
       "Headline.Headline Medium": "S:7060303b9147deebf8519c323e5334211de86655,",
       "Headline.Headline Small": "S:2164664871e091bf96eb8198bcb308d7e541020d,",
       "Headline.Subheadline": "S:397edbd026742db7aa27caa946ce0717166fa4ab,",
-      "Button.Medium": "S:9139769f2c93972426261ab570a69ba53c4de8b0,",
-      "Button.Small": "S:4ac314a6f0e43d5130d979838e00f3f3433f46fd,",
       "Container.$container-primary": "S:fa4c22ba7ce758669e027912193542556f2255a9,",
       "Container.$container-primary-hover": "S:c36687191ac1cfdf2d3f0a615da0cc9e2b72fa0e,",
       "Container.$container-primary-active": "S:298df76f4b8341876b28f9aca6d3b7e085cd5e71,",
@@ -241,7 +236,12 @@
       "Link.$link-secondary-visited": "S:00f098b4ded70b61072dab3f4eb1fcdcf663b17b,",
       "shadow-light": "S:d5852fd3a268db021a0255a12a0c19fab23a0c81,",
       "shadow-md": "S:0c2737fa0243b95ff59e865d29be143f6e1a9fae,",
-      "shadow-intense": "S:2681a05006157220aac661a9f8c88a1936f80aa1,"
+      "shadow-intense": "S:2681a05006157220aac661a9f8c88a1936f80aa1,",
+      "display.display-large": "S:097e6aa883faef5d267341e11b802a32d9e917d3,",
+      "display.display-medium": "S:b2fec54221112bff79635e4122a5de56005de82e,",
+      "display.display-small": "S:c9d40bd41aa881c18fcf222d5b8d34307100dd20,",
+      "button.medium": "S:9139769f2c93972426261ab570a69ba53c4de8b0,",
+      "button.small": "S:4ac314a6f0e43d5130d979838e00f3f3433f46fd,"
     }
   },
   {
