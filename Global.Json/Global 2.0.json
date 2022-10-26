@@ -706,7 +706,61 @@
     "value": "72",
     "type": "fontSizes"
   },
-  
+  "font-size-ul": {
+    "value": "96",
+    "type": "fontSizes"
+  },
+
+
+  "line-height-xxus": {
+    "value": "90%",
+    "type": "letterSpacing"
+  },
+  "line-height-xus": {
+    "value": "100%",
+    "type": "letterSpacing"
+  },
+  "line-height-us": {
+      "value": "110%",
+      "type": "letterSpacing"
+  },
+  "line-height-xxs": {
+    "value": "120%",
+    "type": "letterSpacing"
+  },
+  "line-height-xs": {
+    "value": "130%",
+    "type": "letterSpacing"
+  },
+  "line-height-sm": {
+    "value": "140%",
+    "type": "letterSpacing"
+  },
+  "line-height-md": {
+    "value": "150%",
+    "type": "letterSpacing"
+  },
+  "line-height-lg": {
+    "value": "160%",
+    "type": "letterSpacing"
+  },
+  "line-height-xl": {
+    "value": "170%",
+    "type": "letterSpacing"
+  },
+  "line-height-xxl": {
+    "value": "180%",
+    "type": "letterSpacing"
+  },
+  "line-height-xxxl": {
+    "value": "190%",
+    "type": "letterSpacing"
+  },
+  "line-height-ul": {
+    "value": "200%",
+    "type": "letterSpacing"
+  },
+
   "letterSpacing": {
     "0": {
       "value": "0%",
