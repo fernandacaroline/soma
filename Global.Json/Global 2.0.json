@@ -998,5 +998,55 @@
   "$spacing-80": {
     "value": "80",
     "type": "spacing"
+  },
+  "Colors Value": {
+    " Brand": {
+      "$brand-primary-1": {
+        "value": "#8179E2",
+        "type": "color"
+      },
+      " $brand-primary-2": {
+        "value": "#ACA9C9",
+        "type": "color"
+      },
+      " $brand-primary-3": {
+        "value": "#4C487E",
+        "type": "color"
+      }
+    },
+    "Neutral": {
+      " $neutral-light-1": {
+        "value": "#fff",
+        "type": "color"
+      },
+      "$neutral-light-2": {
+        "value": "#D6D6D6",
+        "type": "color"
+      },
+      "$neutral-light-3": {
+        "value": "#BDBDBD",
+        "type": "color"
+      },
+      "$neutral-light-4": {
+        "value": "#a7a7a7",
+        "type": "color"
+      },
+      "$neutral-dark-1": {
+        "value": "#171717",
+        "type": "color"
+      },
+      "$neutral-dark-2": {
+        "value": "#545454",
+        "type": "color"
+      },
+      "$neutral-dark-3": {
+        "value": "#7d7d7d",
+        "type": "color"
+      },
+      "$neutral-dark-4": {
+        "value": "#a5a5a5",
+        "type": "color"
+      }
+    }
   }
 }
