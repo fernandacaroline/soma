@@ -583,7 +583,7 @@
       "y": "0",
       "blur": "16",
       "spread": "0",
-      "color": "{Background Inverse.$background-inverse}",
+      "color": "{background.inverse.$default-inverse}",
       "type": "dropShadow"
     },
     "type": "boxShadow"
@@ -600,7 +600,7 @@
       "y": "0",
       "blur": "24",
       "spread": "0",
-      "color": "{Background Inverse.$background-inverse}",
+      "color": "{background.inverse.$default-inverse}",
       "type": "dropShadow"
     },
     "type": "boxShadow"
@@ -611,7 +611,7 @@
       "y": "0",
       "blur": "24",
       "spread": "0",
-      "color": "{Background Inverse.$background-inverse}",
+      "color": "{background.inverse.$default-inverse}",
       "type": "dropShadow"
     },
     "type": "boxShadow"
@@ -982,7 +982,7 @@
       "y": "0",
       "blur": "8",
       "spread": "0",
-      "color": "{Background Inverse.$background-inverse}",
+      "color": "{background.inverse.$default-inverse}",
       "type": "dropShadow"
     },
     "type": "boxShadow"
