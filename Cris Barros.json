@@ -254,11 +254,11 @@
         "description": "$color-typography-1-light"
       },
       "disabled-on-color": {
-        "value": "#cccccc",
+        "value": "{role.neutral.light-3}",
         "type": "color"
       },
       "disabled": {
-        "value": "#cccccc",
+        "value": "{role.neutral.light-3}",
         "type": "color",
         "description": "\"value\"\n\nTexto desabilitado"
       }
@@ -367,7 +367,7 @@
         "description": "\"value\"\n\nIcones primários modo inverso\nElementos primários modo inverso"
       },
       "secondary": {
-        "value": "#cccccc",
+        "value": "{role.neutral.light-3}",
         "type": "color",
         "description": "\"value\"\n\nIcones secundários modo inverso\nElementos primários modo inverso"
       },
