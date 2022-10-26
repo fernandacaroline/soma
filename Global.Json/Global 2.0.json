@@ -215,7 +215,7 @@
       "description": "$typestyle-caption"
     }
   },
-  "text-inverse": {
+  "text.inverse": {
     "$text-inverse-primary": {
       "value": "$role.neutral.light-1",
       "type": "color",
@@ -273,7 +273,7 @@
       "description": "Ícone desabilitado"
     }
   },
-  "icon-inverse": {
+  "icon.inverse": {
     "$icon-inverse-primary": {
       "value": "$role.neutral.light-1",
       "type": "color",
@@ -337,7 +337,7 @@
       "description": "Bordas em componentes desabilitados"
     }
   },
-  "border-inverse": {
+  "border.inverse": {
     "$border-inverse-default": {
       "value": "$role.neutral.light-5",
       "type": "color",
@@ -431,7 +431,7 @@
       "description": "Atenção\nOn para textos"
     }
   },
-  "feedback-inverse": {
+  "feedback.inverse": {
     "$feedback-inverse-negative-container": {
       "value": "$role.feedback.negative-1",
       "type": "color",
@@ -500,7 +500,7 @@
       "description": "opacity-intense\n\nFundos Overlay"
     }
   },
-  "Background Inverse": {
+  "background.inverse": {
     "$background-inverse": {
       "value": "$role.neutral.dark-1",
       "type": "color",
@@ -539,7 +539,7 @@
       "description": "Links visitados\nEstado Ativo"
     }
   },
-  "link-inverse": {
+  "link.inverse": {
     "$link-inverse-primary": {
       "value": "$role.neutral.light-1",
       "type": "color",
