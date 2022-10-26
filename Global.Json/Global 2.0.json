@@ -103,7 +103,7 @@
       "description": "Cor de fundo desabilitado"
     }
   },
-  "Text": {
+  "text": {
     "$text-primary": {
       "value": "$role.neutral.dark-1",
       "type": "color",
@@ -215,7 +215,7 @@
       "description": "$typestyle-caption"
     }
   },
-  "Text Inverse": {
+  "text-inverse": {
     "$text-inverse-primary": {
       "value": "$role.neutral.light-1",
       "type": "color",
@@ -251,7 +251,7 @@
       "description": "Texto desabilitado"
     }
   },
-  "Icon": {
+  "icon": {
     "$icon-primary": {
       "value": "$role.neutral.dark-1",
       "type": "color",
@@ -273,7 +273,7 @@
       "description": "Ícone desabilitado"
     }
   },
-  "Icon Inverse": {
+  "icon-inverse": {
     "$icon-inverse-primary": {
       "value": "$role.neutral.light-1",
       "type": "color",
@@ -295,7 +295,7 @@
       "description": "Ícone desabilitado modo inverso"
     }
   },
-  "Border": {
+  "border": {
     "$border-default": {
       "value": "$role.neutral.light-3",
       "type": "color",
@@ -337,7 +337,7 @@
       "description": "Bordas em componentes desabilitados"
     }
   },
-  "Border Inverse": {
+  "border-inverse": {
     "$border-inverse-default": {
       "value": "$role.neutral.light-5",
       "type": "color",
@@ -379,7 +379,7 @@
       "description": "Bordas e linhas em componentes desabilitados modo inverso"
     }
   },
-  "Feedback": {
+  "feedback": {
     "$feedback-negative-container": {
       "value": "$role.feedback.negative-1",
       "type": "color",
@@ -431,7 +431,7 @@
       "description": "Atenção\nOn para textos"
     }
   },
-  "Feedback Inverse": {
+  "feedback-inverse": {
     "$feedback-inverse-negative-container": {
       "value": "$role.feedback.negative-1",
       "type": "color",
@@ -483,7 +483,7 @@
       "description": ""
     }
   },
-  "Background": {
+  "background": {
     "$background": {
       "value": "$role.neutral.light-1",
       "type": "color",
@@ -507,7 +507,7 @@
       "description": "Fundos de alto contraste"
     }
   },
-  "Link": {
+  "link": {
     "$link-primary": {
       "value": "$role.neutral.dark-1",
       "type": "color",
@@ -539,7 +539,7 @@
       "description": "Links visitados\nEstado Ativo"
     }
   },
-  "Link Inverse": {
+  "link-inverse": {
     "$link-inverse-primary": {
       "value": "$role.neutral.light-1",
       "type": "color",
@@ -571,7 +571,7 @@
       "description": "Links visitados\nEstado Ativo\nModo inverso"
     }
   },
-  "Opacity": {
+  "opacity": {
     "80% $opacity-intense": {
       "value": "$role.neutral.light-1",
       "type": "color"
@@ -588,7 +588,7 @@
     },
     "type": "boxShadow"
   },
-  "Gradient": {
+  "gradient": {
     "Linear Shadow": {
       "value": "linear-gradient(180deg, #00000000 0%, #0000004d 100%)",
       "type": "color"
