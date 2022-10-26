@@ -756,8 +756,7 @@
   },
   "paragraph-spacing": {
     "default": {
-      "value": "0",
-      "type": "paragraphSpacing"
+      "value": "0"
     }
   },
   "Display": {
