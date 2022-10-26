@@ -256,8 +256,6 @@
       "role.feedback.information-3": "S:73bb85cbf68a321761c030a118a3807637ef89df,",
       "icon.inverse.$primary": "S:f7c28391fe52131d393b815b3849a474e2e242d7,",
       "border.inverse.$default": "S:016cecba2630e7e541aa3de4db8170651269186a,",
-      "background.$default": "S:1aaa4858a2fbdd897bf4efa1965f1308ed8c0e9f,",
-      "background.inverse.$default-inverse": "S:80708d1a62f833ee8d095ec503a6719e98c01741,",
       "link.primary-hover": "S:4601831415497125d35e8c43934b4a4483947a1f,",
       "text.typestyle-tittle": "S:33ca562303854cef88de96ac98e46f65d9a64bdb,",
       "text.typestyle-subtittle": "S:f193a3428eee4af3346dcd6ce9886e314613a9f8,",
@@ -267,7 +265,9 @@
       "shadow-light": "S:43fd26d163adf3bd7be042187a85d248d5bb6d36,",
       "shadow-md": "S:5544b69a4a8719781b94f8700acbcdc8be64b023,",
       "shadow-intense": "S:bbf49f5b490fcd3f304c724721417ba5134f1e83,",
-      "shadow-default": "S:ef46f6176bf2af0be569acf8eaec179c317e8b79,"
+      "shadow-default": "S:ef46f6176bf2af0be569acf8eaec179c317e8b79,",
+      "background.default": "S:1aaa4858a2fbdd897bf4efa1965f1308ed8c0e9f,",
+      "background.inverse.default-inverse": "S:80708d1a62f833ee8d095ec503a6719e98c01741,"
     }
   }
 ]
