@@ -618,15 +618,15 @@
   },
   "font-family-primary": {
     "value": "Roboto",
-    "type": "fontFamily"
+    "type": "fontFamilies"
   },
   "font-family-secondary": {
     "value": "Roboto",
-    "type": "fontFamily"
+    "type": "fontFamilies"
   },
   "font-family-terciary": {
     "value": "Roboto",
-    "type": "fontFamily"
+    "type": "fontFamilies"
   },
   "weight": {
     "regular": {
@@ -1154,9 +1154,5 @@
         "type": "color"
       }
     }
-  },
-  "teste": {
-    "value": "roboto",
-    "type": "fontFamilies"
   }
 }
