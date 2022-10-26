@@ -616,10 +616,20 @@
     },
     "type": "boxShadow"
   },
-  "fontFamilies": {
-    "roboto": {
+  "font-family": {
+    "primary": {
       "value": "Roboto",
-      "type": "fontFamilies"
+      "type": "font-family"
+  },
+  "font-family": {
+    "secondary": {
+      "value": "Roboto",
+      "type": "font-family"
+  },
+  "font-family": {
+    "terciary": {
+      "value": "Roboto",
+      "type": "font-family"
     }
   },
   "lineHeights": {
