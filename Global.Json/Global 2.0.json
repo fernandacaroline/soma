@@ -714,51 +714,51 @@
 
   "line-height-xxus": {
     "value": "90%",
-    "type": "letterSpacing"
+    "type": "lineHeights"
   },
   "line-height-xus": {
     "value": "100%",
-    "type": "letterSpacing"
+    "type": "lineHeights"
   },
   "line-height-us": {
       "value": "110%",
-      "type": "letterSpacing"
+      "type": "lineHeights"
   },
   "line-height-xxs": {
     "value": "120%",
-    "type": "letterSpacing"
+    "type": "lineHeights"
   },
   "line-height-xs": {
     "value": "130%",
-    "type": "letterSpacing"
+    "type": "lineHeights"
   },
   "line-height-sm": {
     "value": "140%",
-    "type": "letterSpacing"
+    "type": "lineHeights"
   },
   "line-height-md": {
     "value": "150%",
-    "type": "letterSpacing"
+    "type": "lineHeights"
   },
   "line-height-lg": {
     "value": "160%",
-    "type": "letterSpacing"
+    "type": "lineHeights"
   },
   "line-height-xl": {
     "value": "170%",
-    "type": "letterSpacing"
+    "type": "lineHeights"
   },
   "line-height-xxl": {
     "value": "180%",
-    "type": "letterSpacing"
+    "type": "lineHeights"
   },
   "line-height-xxxl": {
     "value": "190%",
-    "type": "letterSpacing"
+    "type": "lineHeights"
   },
   "line-height-ul": {
     "value": "200%",
-    "type": "letterSpacing"
+    "type": "lineHeights"
   },
 
   "letterSpacing": {
