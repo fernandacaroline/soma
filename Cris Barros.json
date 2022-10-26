@@ -28,89 +28,61 @@
         "type": "color"
       },
       "light-3": {
-        "value": "#D6D6D6",
-        "type": "color"
-      },
-      "light-4": {
-        "value": "#BDBDBD",
-        "type": "color"
-      },
-      "light-5": {
-        "value": "#a7a7a7",
+        "value": "#cccccc",
         "type": "color"
       },
       "dark-1": {
-        "value": "#171717",
+        "value": "#000000",
         "type": "color"
       },
       "dark-2": {
-        "value": "#545454",
+        "value": "#666666",
         "type": "color"
       },
       "dark-3": {
-        "value": "#7d7d7d",
-        "type": "color"
-      },
-      "dark-4": {
-        "value": "#a5a5a5",
+        "value": "#525252",
         "type": "color"
       },
       "light-2": {
-        "value": "#eaeaea",
-        "type": "color"
-      },
-      "dark-5": {
-        "value": "#7B7B7B",
+        "value": "#f2f2f2",
         "type": "color"
       }
     },
     "feedback": {
       "negative-1": {
-        "value": "#C52518",
+        "value": "#E8443A",
         "type": "color"
       },
       "negative-2": {
-        "value": "#A03127",
+        "value": "#D12A1F",
         "type": "color"
       },
       "negative-3": {
-        "value": "#4E1813",
+        "value": "#FFEFEE",
         "type": "color"
       },
       "positive-1": {
-        "value": "#148A6A",
+        "value": "#06873A",
         "type": "color"
       },
       "positive-2": {
-        "value": "#28CEA1",
+        "value": "#0A6930",
         "type": "color"
       },
       "positive-3": {
-        "value": "#09644B",
+        "value": "#5FDF8E",
         "type": "color"
       },
       "warning-1": {
-        "value": "#FCDA4D",
+        "value": "#EDB831",
         "type": "color"
       },
       "warning-2": {
-        "value": "#CBB144",
+        "value": "#AF7E00",
         "type": "color"
       },
       "warning-3": {
-        "value": "#9E8418",
-        "type": "color"
-      },
-      "information-1": {
-        "value": "#2989CF",
-        "type": "color"
-      },
-      "information-2": {
-        "value": "#61AADE",
-        "type": "color"
-      },
-      "information-3": {
-        "value": "#2989CF",
+        "value": "#FDF7E6",
         "type": "color"
       }
     }
