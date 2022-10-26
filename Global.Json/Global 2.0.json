@@ -754,9 +754,9 @@
       "type": "letterSpacing"
     }
   },
-  "paragraph-spacing": {
-    "default": {
-      "value": "0"
+  "paragraph-spacing-default": {
+      "value": "0",
+      "type": "paragraphSpacing"
     }
   },
   "Display": {
