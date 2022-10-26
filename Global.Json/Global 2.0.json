@@ -1,51 +1,51 @@
 {
-  "Container": {
-    "$container-primary": {
+  "container": {
+    "primary": {
       "value": "{role.brand.primary-1}",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo primária"
     },
-    "$container-primary-hover": {
+    "primary-hover": {
       "value": "{role.brand.primary-2}",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo primária estado hover"
     },
-    "$container-primary-active": {
+    "primary-active": {
       "value": "$role.brand.primary-3",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo primária estado ativo"
     },
-    "$container-primary-selected": {
+    "primary-selected": {
       "value": "$role.brand.primary-2",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo primária estado selecionado"
     },
-    "$container-secondary": {
+    "secondary": {
       "value": "$role.neutral.light-1",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo secundária "
     },
-    "$container-secondary-hover": {
+    "secondary-hover": {
       "value": "{role.neutral.light-3}",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo secundária estado hover"
     },
-    "$container-secondary-active": {
+    "secondary-active": {
       "value": "{role.neutral.light-3}",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo secundária  estado ativo"
     },
-    "$container-secondary-selected": {
+    "secondary-selected": {
       "value": "$role.brand.primary-1",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo secundária  estado selecionado"
     },
-    "$container-checked": {
+    "checked": {
       "value": "$role.brand.primary-1",
       "type": "color",
       "description": "\"value\"\n\nPara componentes com versões habilitadas e desabilitadas\nCheckbox\nRadio Button\nToggle"
     },
-    "$container-disabled": {
+    "disabled": {
       "value": "$role.neutral.light-2",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo desabilitado"
@@ -995,7 +995,7 @@
     "value": "72",
     "type": "spacing"
   },
-  "$spacing-80": {
+  "spacing-80": {
     "value": "80",
     "type": "spacing"
   },
