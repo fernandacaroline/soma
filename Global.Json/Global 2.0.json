@@ -141,12 +141,12 @@
     },
     "$typestyle-tittle": {
       "value": {
-        "fontFamily": "{fontFamilies.roboto}",
+        "fontFamily": "{font-family-primary}",
         "fontWeight": "{weight.bold}",
-        "lineHeight": "{lineHeights.1}",
-        "fontSize": "{fontSize.3}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
+        "lineHeight": "{line-height-us}",
+        "fontSize": "{font-size-xxs}",
+        "letterSpacing": "{letter-spacing-default}",
+        "paragraphSpacing": "{paragraph-spacing-default}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{text-case-default}",
         "textDecoration": "{text-decoration-none}"
@@ -742,7 +742,7 @@
     "value": "200%",
     "type": "lineHeights"
   },
-  "letter-spaacing-default": {
+  "letter-spacing-default": {
     "value": "0%",
     "type": "letterSpacing"
   },
