@@ -78,64 +78,64 @@
       "description": "\"value\"\n\nCor de fundo secundária"
     },
     "$container-inverse-secondary-hover": {
-      "value": "#545454",
+      "value": "$role.neutral.dark-3",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo secundária estado hover"
     },
     "$container-inverse-secondary-active": {
-      "value": "#3e3e3e",
+      "value": "$role.neutral.dark-2",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo secundária  estado ativo"
     },
     "$container-inverse-secondary-selected": {
-      "value": "#3e3e3e",
+      "value": "$role.neutral.dark-2",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo secundária  estado selecionado"
     },
     "$container-inverse-checked": {
-      "value": "#ffffff",
+      "value": "$role.neutral.light-1",
       "type": "color",
       "description": "\"value\"\n\nPara componentes com versões habilitadas e desabilitadas\nCheckbox\nRadio Button\nToggle"
     },
     "$container-inverse-disabled": {
-      "value": "#545454",
+      "value": "$role.neutral.dark-2",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo desabilitado"
     }
   },
   "Text": {
     "$text-primary": {
-      "value": "#272424",
+      "value": "$role.neutral.dark-1",
       "type": "color",
-      "description": "color-typography-2-pure\n\nTextos primários, \nTítulos \nInformações principais"
+      "description": "Textos primários, \nTítulos \nInformações principais"
     },
     "$text-secondary": {
-      "value": "#757575",
+      "value": "$role.neutral.dark-2",
       "type": "color",
       "description": "\"value\"\n\nSubtítulos\nInformações secundárias ao título\nLabel Input\nDescrição de produto\nCorpo de texto"
     },
     "$text-accent": {
-      "value": "#8179e2",
+      "value": "$role.brand.primary-1",
       "type": "color",
       "description": "\"value\"\n\nInformação em destaque {brand}\nItem em destaque no menu"
     },
     "$text-sale": {
-      "value": "#ff4141",
+      "value": "$role.feedback.negative-1",
       "type": "color",
       "description": "\"value\"\n\nPreço com desconto"
     },
     "$text-support": {
-      "value": "#8b8b8b",
+      "value": "$role.neutral.dark-5",
       "type": "color",
       "description": "color-typography-2-light\n\nPlaceholder\nLegendas\nFrases de suporte sem destaque"
     },
     "$text-disabled-on-color": {
-      "value": "#acacac",
+      "value": "$role.neutral.dark-3",
       "type": "color",
       "description": "\"value\"\n\nTexto desabilitado com aplicação de fundo com cor"
     },
     "$text-disabled": {
-      "value": "#b7b7b7",
+      "value": "$role.neutral.dark-5",
       "type": "color",
       "description": "color-typography-1-dark\n\nTexto desabilitado"
     },
@@ -1049,6 +1049,10 @@
       },
       "light-2": {
         "value": "#eaeaea",
+        "type": "color"
+      },
+      "dark-5": {
+        "value": "#7B7B7B",
         "type": "color"
       }
     },
