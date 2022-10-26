@@ -111,7 +111,6 @@
       "background.default": "S:61964d3e6434d18b15cd3ddf6bdd1de251a499b5,",
       "background.brand": "S:cd2debdcf904c4a65de50b5188bf9cf9917435fe,",
       "background.overlay": "S:7119659da198986b47823cb89f7330f81dbb4965,",
-      "background.inverse.inverse": "S:a5f200bba3ae9347f4b46338727288b5a4c12c7c,",
       "link.primary": "S:776134e9425392809c84e002365f70e19b464bb3,",
       "link.primary-hover": "S:afd52695e82378521892b1d17a227923f7f8c955,",
       "link.primary-visited": "S:658c1c90ccf88ce9210b5a87b672ac635e29439a,",
@@ -127,7 +126,8 @@
       "gradient.Linear Shadow": "S:56bee75710f36856c991158abf5e31f00c384e3e,",
       "Shadow.Light": "S:d5852fd3a268db021a0255a12a0c19fab23a0c81,",
       "Shadow.Medium": "S:0c2737fa0243b95ff59e865d29be143f6e1a9fae,",
-      "Shadow.Intense": "S:2681a05006157220aac661a9f8c88a1936f80aa1,"
+      "Shadow.Intense": "S:2681a05006157220aac661a9f8c88a1936f80aa1,",
+      "background.inverse.default": "S:a5f200bba3ae9347f4b46338727288b5a4c12c7c,"
     }
   }
 ]
