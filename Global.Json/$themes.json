@@ -3,7 +3,8 @@
     "id": "fab4dca30de83df589e524f0e26059be9b5a703a",
     "name": "Global Light",
     "selectedTokenSets": {
-      "Global 2.0": "enabled"
+      "Global 2.0": "enabled",
+      "Cris Barros": "disabled"
     },
     "$figmaStyleReferences": {}
   }
