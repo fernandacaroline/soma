@@ -995,7 +995,7 @@
     "value": "72",
     "type": "spacing"
   },
-  "spacing-80": {
+  "$spacing-80": {
     "value": "80",
     "type": "spacing"
   },
