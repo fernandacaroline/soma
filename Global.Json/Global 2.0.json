@@ -616,21 +616,19 @@
     },
     "type": "boxShadow"
   },
-  "font-family": {
-    "primary": {
+  "font-family-primary": {
       "value": "Roboto",
-      "type": "font-family"
+      "type": "fontFamily"
     },
-    "secondary": {
+    "font-family-secondary": {
       "value": "Roboto",
-      "type": "font-family"
+      "type": "fontFamily"
     },
-    "terciary": {
+    "font-family-terciary": {
       "value": "Roboto",
-      "type": "font-family"
-    }
+      "type": "fontFamily"
+    },
  
-  },
   "weight": {
     "regular": {
       "value": "Regular",
