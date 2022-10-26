@@ -1,4 +1,112 @@
 {
+  "role": {
+    "brand": {
+      "primary-1": {
+        "value": "#8179E2",
+        "type": "color"
+      },
+      "primary-2": {
+        "value": "#ACA9C9",
+        "type": "color"
+      },
+      "primary-3": {
+        "value": "#4C487E",
+        "type": "color"
+      }
+    },
+    "neutral": {
+      "light-1": {
+        "value": "#fff",
+        "type": "color"
+      },
+      "light-3": {
+        "value": "#D6D6D6",
+        "type": "color"
+      },
+      "light-4": {
+        "value": "#BDBDBD",
+        "type": "color"
+      },
+      "light-5": {
+        "value": "#a7a7a7",
+        "type": "color"
+      },
+      "dark-1": {
+        "value": "#171717",
+        "type": "color"
+      },
+      "dark-2": {
+        "value": "#545454",
+        "type": "color"
+      },
+      "dark-3": {
+        "value": "#7d7d7d",
+        "type": "color"
+      },
+      "dark-4": {
+        "value": "#a5a5a5",
+        "type": "color"
+      },
+      "light-2": {
+        "value": "#eaeaea",
+        "type": "color"
+      },
+      "dark-5": {
+        "value": "#7B7B7B",
+        "type": "color"
+      }
+    },
+    "feedback": {
+      "negative-1": {
+        "value": "#C52518",
+        "type": "color"
+      },
+      "negative-2": {
+        "value": "#A03127",
+        "type": "color"
+      },
+      "negative-3": {
+        "value": "#4E1813",
+        "type": "color"
+      },
+      "positive-1": {
+        "value": "#148A6A",
+        "type": "color"
+      },
+      "positive-2": {
+        "value": "#28CEA1",
+        "type": "color"
+      },
+      "positive-3": {
+        "value": "#09644B",
+        "type": "color"
+      },
+      "warning-1": {
+        "value": "#FCDA4D",
+        "type": "color"
+      },
+      "warning-2": {
+        "value": "#CBB144",
+        "type": "color"
+      },
+      "warning-3": {
+        "value": "#9E8418",
+        "type": "color"
+      },
+      "information-1": {
+        "value": "#2989CF",
+        "type": "color"
+      },
+      "information-2": {
+        "value": "#61AADE",
+        "type": "color"
+      },
+      "information-3": {
+        "value": "#2989CF",
+        "type": "color"
+      }
+    }
+  },
   "container": {
     "primary": {
       "value": "{role.brand.primary-1}",
@@ -1040,114 +1148,6 @@
   "spacing-80": {
     "value": "80",
     "type": "spacing"
-  },
-  "role": {
-    "brand": {
-      "primary-1": {
-        "value": "#8179E2",
-        "type": "color"
-      },
-      "primary-2": {
-        "value": "#ACA9C9",
-        "type": "color"
-      },
-      "primary-3": {
-        "value": "#4C487E",
-        "type": "color"
-      }
-    },
-    "neutral": {
-      "light-1": {
-        "value": "#fff",
-        "type": "color"
-      },
-      "light-3": {
-        "value": "#D6D6D6",
-        "type": "color"
-      },
-      "light-4": {
-        "value": "#BDBDBD",
-        "type": "color"
-      },
-      "light-5": {
-        "value": "#a7a7a7",
-        "type": "color"
-      },
-      "dark-1": {
-        "value": "#171717",
-        "type": "color"
-      },
-      "dark-2": {
-        "value": "#545454",
-        "type": "color"
-      },
-      "dark-3": {
-        "value": "#7d7d7d",
-        "type": "color"
-      },
-      "dark-4": {
-        "value": "#a5a5a5",
-        "type": "color"
-      },
-      "light-2": {
-        "value": "#eaeaea",
-        "type": "color"
-      },
-      "dark-5": {
-        "value": "#7B7B7B",
-        "type": "color"
-      }
-    },
-    "feedback": {
-      "negative-1": {
-        "value": "#C52518",
-        "type": "color"
-      },
-      "negative-2": {
-        "value": "#A03127",
-        "type": "color"
-      },
-      "negative-3": {
-        "value": "#4E1813",
-        "type": "color"
-      },
-      "positive-1": {
-        "value": "#148A6A",
-        "type": "color"
-      },
-      "positive-2": {
-        "value": "#28CEA1",
-        "type": "color"
-      },
-      "positive-3": {
-        "value": "#09644B",
-        "type": "color"
-      },
-      "warning-1": {
-        "value": "#FCDA4D",
-        "type": "color"
-      },
-      "warning-2": {
-        "value": "#CBB144",
-        "type": "color"
-      },
-      "warning-3": {
-        "value": "#9E8418",
-        "type": "color"
-      },
-      "information-1": {
-        "value": "#2989CF",
-        "type": "color"
-      },
-      "information-2": {
-        "value": "#61AADE",
-        "type": "color"
-      },
-      "information-3": {
-        "value": "#2989CF",
-        "type": "color"
-      }
-    }
   },
   "text-decoration-underline": {
     "value": "underline",
