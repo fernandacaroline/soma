@@ -1,79 +1,79 @@
 {
   "Container": {
     "$container-primary": {
-      "value": "#8179e2",
+      "value": "{role.brand.primary-1}",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo primária"
     },
     "$container-primary-hover": {
-      "value": "#aca9c9",
+      "value": "{role.brand.primary-2}",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo primária estado hover"
     },
     "$container-primary-active": {
-      "value": "#4c487e",
+      "value": "$role.brand.primary-3",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo primária estado ativo"
     },
     "$container-primary-selected": {
-      "value": "#4c487e",
+      "value": "$role.brand.primary-2",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo primária estado selecionado"
     },
     "$container-secondary": {
-      "value": "#ffffff",
+      "value": "$role.neutral.light-1",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo secundária "
     },
     "$container-secondary-hover": {
-      "value": "#ffffff",
+      "value": "{role.neutral.light-3}",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo secundária estado hover"
     },
     "$container-secondary-active": {
-      "value": "#ebebeb",
+      "value": "{role.neutral.light-3}",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo secundária  estado ativo"
     },
     "$container-secondary-selected": {
-      "value": "#8179e2",
+      "value": "$role.brand.primary-1",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo secundária  estado selecionado"
     },
     "$container-checked": {
-      "value": "#8179e2",
+      "value": "$role.brand.primary-1",
       "type": "color",
       "description": "\"value\"\n\nPara componentes com versões habilitadas e desabilitadas\nCheckbox\nRadio Button\nToggle"
     },
     "$container-disabled": {
-      "value": "#eaeaea",
+      "value": "$role.neutral.light-2",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo desabilitado"
     }
   },
   "Container Inverse": {
     "$container-inverse-primary": {
-      "value": "#ffffff",
+      "value": "$role.neutral.light-1",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo primária"
     },
     "$container-inverse-primary-hover": {
-      "value": "#d9d9d9",
+      "value": "$role.neutral.light-3",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo primária estado hover"
     },
     "$container-inverse-primary-active": {
-      "value": "#ebebeb",
+      "value": "$role.neutral.light-4",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo primária estado ativo"
     },
     "$container-inverse-primary-selected": {
-      "value": "#d9d9d9",
+      "value": "$role.neutral.light-5",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo primária estado selecionado"
     },
     "$container-inverse-secondary": {
-      "value": "#272424",
+      "value": "$role.neutral.dark-1",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo secundária"
     },
@@ -999,52 +999,106 @@
     "value": "80",
     "type": "spacing"
   },
-  "Colors Value": {
-    " Brand": {
-      "$brand-primary-1": {
+  "role": {
+    "brand": {
+      "primary-1": {
         "value": "#8179E2",
         "type": "color"
       },
-      " $brand-primary-2": {
+      "primary-2": {
         "value": "#ACA9C9",
         "type": "color"
       },
-      " $brand-primary-3": {
+      "primary-3": {
         "value": "#4C487E",
         "type": "color"
       }
     },
-    "Neutral": {
-      " $neutral-light-1": {
+    "neutral": {
+      "light-1": {
         "value": "#fff",
         "type": "color"
       },
-      "$neutral-light-2": {
+      "light-3": {
         "value": "#D6D6D6",
         "type": "color"
       },
-      "$neutral-light-3": {
+      "light-4": {
         "value": "#BDBDBD",
         "type": "color"
       },
-      "$neutral-light-4": {
+      "light-5": {
         "value": "#a7a7a7",
         "type": "color"
       },
-      "$neutral-dark-1": {
+      "dark-1": {
         "value": "#171717",
         "type": "color"
       },
-      "$neutral-dark-2": {
+      "dark-2": {
         "value": "#545454",
         "type": "color"
       },
-      "$neutral-dark-3": {
+      "dark-3": {
         "value": "#7d7d7d",
         "type": "color"
       },
-      "$neutral-dark-4": {
+      "dark-4": {
         "value": "#a5a5a5",
+        "type": "color"
+      },
+      "light-2": {
+        "value": "#eaeaea",
+        "type": "color"
+      }
+    },
+    "feedback": {
+      "negative-1": {
+        "value": "#C52518",
+        "type": "color"
+      },
+      "negative-2": {
+        "value": "#A03127",
+        "type": "color"
+      },
+      "negative-3": {
+        "value": "#4E1813",
+        "type": "color"
+      },
+      "positive-1": {
+        "value": "#148A6A",
+        "type": "color"
+      },
+      "positive-2": {
+        "value": "#28CEA1",
+        "type": "color"
+      },
+      "positive-3": {
+        "value": "#09644B",
+        "type": "color"
+      },
+      "warning-1": {
+        "value": "#FCDA4D",
+        "type": "color"
+      },
+      "warning-2": {
+        "value": "#CBB144",
+        "type": "color"
+      },
+      "warning-3": {
+        "value": "#9E8418",
+        "type": "color"
+      },
+      "information-1": {
+        "value": "#2989CF",
+        "type": "color"
+      },
+      "information-2": {
+        "value": "#61AADE",
+        "type": "color"
+      },
+      "information-3": {
+        "value": "#2989CF",
         "type": "color"
       }
     }
