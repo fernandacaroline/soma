@@ -51,12 +51,12 @@
       "description": "Cor de fundo desabilitado"
     },
     "inverse": {
-      "$primary": {
+      "primary": {
         "value": "$role.neutral.light-1",
         "type": "color",
         "description": "Cor de fundo primária"
       },
-      "$primary-hover": {
+      "primary-hover": {
         "value": "$role.neutral.light-3",
         "type": "color",
         "description": "Cor de fundo primária estado hover"
