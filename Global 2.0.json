@@ -114,17 +114,17 @@
       "description": "Cor de fundo primária"
     },
     "primary-hover": {
-      "value": "{role.brand.secondary-1}",
+      "value": "{role.brand.primary-2}",
       "type": "color",
       "description": "Cor de fundo primária estado hover"
     },
     "primary-active": {
-      "value": "{role.brand.secondary-2}",
+      "value": "{role.brand.primary-2}",
       "type": "color",
       "description": "Cor de fundo primária estado ativo"
     },
     "primary-selected": {
-      "value": "{role.brand.secondary-1}",
+      "value": "{role.brand.primary-3}",
       "type": "color",
       "description": "Cor de fundo primária estado selecionado"
     },
@@ -622,12 +622,12 @@
       "description": "Cor para link primário em links primários em menus, headers, e componentes principais"
     },
     "primary-hover": {
-      "value": "{role.brand.secondary-1}",
+      "value": "{role.brand.primary-2}",
       "type": "color",
       "description": "Cor para link no estado hover"
     },
     "primary-visited": {
-      "value": "{role.brand.secondary-2}",
+      "value": "{role.brand.primary-3}",
       "type": "color",
       "description": "Links visitados\nEstado Ativo"
     },
@@ -637,12 +637,12 @@
       "description": "Cor para link secundário em corpos de texto com destaque"
     },
     "secondary-hover": {
-      "value": "{role.brand.secondary-1}",
+      "value": "{role.brand.primary-2}",
       "type": "color",
       "description": "Cor para link no estado hover secundário"
     },
     "secondary-visited": {
-      "value": "{role.brand.secondary-2}",
+      "value": "{role.brand.primary-3}",
       "type": "color",
       "description": "Links visitados\nEstado Ativo"
     },
@@ -653,12 +653,12 @@
         "description": "Cor para link default modo inverso"
       },
       "primary-hover": {
-        "value": "{role.brand.secondary-1}",
+        "value": "{role.brand.primary-2}",
         "type": "color",
         "description": "Cor para link no estado hover modo inverso"
       },
       "primary-visited": {
-        "value": "{role.brand.secondary-2}",
+        "value": "{role.brand.primary-2}",
         "type": "color",
         "description": "Links visitados\nEstado Ativo\nModo inverso"
       },
@@ -668,12 +668,12 @@
         "description": "Cor para link secundário em corpos de texto com destaque modo inverso"
       },
       "secondary-hover": {
-        "value": "{role.brand.secondary-1}",
+        "value": "{role.brand.primary-2}",
         "type": "color",
         "description": "Cor para link no estado hover modo inverso"
       },
       "secondary-visited": {
-        "value": "{role.brand.secondary-1}",
+        "value": "{role.brand.primary-2}",
         "type": "color",
         "description": "Links visitados\nEstado Ativo\nModo inverso"
       }
