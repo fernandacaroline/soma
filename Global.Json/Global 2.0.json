@@ -1,140 +1,140 @@
 {
   "container": {
-    "container-primary": {
+    "primary": {
       "value": "{role.brand.primary-1}",
       "type": "color",
       "description": "Cor de fundo primária"
     },
-    "container-primary-hover": {
+    "primary-hover": {
       "value": "{role.brand.primary-2}",
       "type": "color",
       "description": "Cor de fundo primária estado hover"
     },
-    "container-primary-active": {
+    "primary-active": {
       "value": "$role.brand.primary-3",
       "type": "color",
       "description": "Cor de fundo primária estado ativo"
     },
-    "container-primary-selected": {
+    "primary-selected": {
       "value": "$role.brand.primary-2",
       "type": "color",
       "description": "Cor de fundo primária estado selecionado"
     },
-    "container-secondary": {
+    "secondary": {
       "value": "$role.neutral.light-1",
       "type": "color",
       "description": "Cor de fundo secundária "
     },
-    "container-secondary-hover": {
+    "secondary-hover": {
       "value": "{role.neutral.light-3}",
       "type": "color",
       "description": "Cor de fundo secundária estado hover"
     },
-    "container-secondary-active": {
+    "secondary-active": {
       "value": "{role.neutral.light-3}",
       "type": "color",
       "description": "Cor de fundo secundária  estado ativo"
     },
-    "container-secondary-selected": {
+    "secondary-selected": {
       "value": "$role.brand.primary-1",
       "type": "color",
       "description": "Cor de fundo secundária  estado selecionado"
     },
-    "container-checked": {
+    "checked": {
       "value": "$role.brand.primary-1",
       "type": "color",
       "description": "Para componentes com versões habilitadas e desabilitadas\nCheckbox\nRadio Button\nToggle"
     },
-    "container-disabled": {
+    "disabled": {
       "value": "$role.neutral.light-2",
       "type": "color",
       "description": "Cor de fundo desabilitado"
     }
   },
   "container.inverse": {
-    "$container-inverse-primary": {
+    "$primary": {
       "value": "$role.neutral.light-1",
       "type": "color",
       "description": "Cor de fundo primária"
     },
-    "$container-inverse-primary-hover": {
+    "$primary-hover": {
       "value": "$role.neutral.light-3",
       "type": "color",
       "description": "Cor de fundo primária estado hover"
     },
-    "$container-inverse-primary-active": {
+    "$primary-active": {
       "value": "$role.neutral.light-4",
       "type": "color",
       "description": "\"value\"\n\nCor de fundo primária estado ativo"
     },
-    "$container-inverse-primary-selected": {
+    "$primary-selected": {
       "value": "$role.neutral.light-5",
       "type": "color",
       "description": "Cor de fundo primária estado selecionado"
     },
-    "$container-inverse-secondary": {
+    "$secondary": {
       "value": "$role.neutral.dark-1",
       "type": "color",
       "description": "Cor de fundo secundária"
     },
-    "$container-inverse-secondary-hover": {
+    "$secondary-hover": {
       "value": "$role.neutral.dark-3",
       "type": "color",
       "description": "Cor de fundo secundária estado hover"
     },
-    "$container-inverse-secondary-active": {
+    "$secondary-active": {
       "value": "$role.neutral.dark-2",
       "type": "color",
       "description": "Cor de fundo secundária  estado ativo"
     },
-    "$container-inverse-secondary-selected": {
+    "$secondary-selected": {
       "value": "$role.neutral.dark-2",
       "type": "color",
       "description": "Cor de fundo secundária  estado selecionado"
     },
-    "$container-inverse-checked": {
+    "$checked": {
       "value": "$role.neutral.light-1",
       "type": "color",
       "description": "Para componentes com versões habilitadas e desabilitadas\nCheckbox\nRadio Button\nToggle"
     },
-    "$container-inverse-disabled": {
+    "$disabled": {
       "value": "$role.neutral.dark-2",
       "type": "color",
       "description": "Cor de fundo desabilitado"
     }
   },
   "text": {
-    "$text-primary": {
+    "$primary": {
       "value": "$role.neutral.dark-1",
       "type": "color",
       "description": "Textos primários, \nTítulos \nInformações principais"
     },
-    "$text-secondary": {
+    "$secondary": {
       "value": "$role.neutral.dark-2",
       "type": "color",
       "description": "Subtítulos\nInformações secundárias ao título\nLabel Input\nDescrição de produto\nCorpo de texto"
     },
-    "$text-accent": {
+    "$accent": {
       "value": "$role.brand.primary-1",
       "type": "color",
       "description": "Informação em destaque {brand}\nItem em destaque no menu"
     },
-    "$text-sale": {
+    "$sale": {
       "value": "$role.feedback.negative-1",
       "type": "color",
       "description": "Preço com desconto"
     },
-    "$text-support": {
+    "$support": {
       "value": "$role.neutral.dark-5",
       "type": "color",
       "description": "Placeholder\nLegendas\nFrases de suporte sem destaque"
     },
-    "$text-disabled-on-color": {
+    "$disabled-on-color": {
       "value": "$role.neutral.dark-3",
       "type": "color",
       "description": "Texto desabilitado com aplicação de fundo com cor"
     },
-    "$text-disabled": {
+    "$disabled": {
       "value": "$role.neutral.dark-5",
       "type": "color",
       "description": "color-typography-1-dark\n\nTexto desabilitado"
@@ -216,356 +216,356 @@
     }
   },
   "text.inverse": {
-    "$text-inverse-primary": {
+    "$primary": {
       "value": "$role.neutral.light-1",
       "type": "color",
       "description": "Textos primários, \nTítulos \nItens do header\nInformações principais"
     },
-    "$text-inverse-secondary": {
+    "$secondary": {
       "value": "$role.neutral.light-3",
       "type": "color",
       "description": "ubtítulos\nInformações secundárias ao título\nLabel Input\nDescrição de produto\nCorpo de texto"
     },
-    "$text-inverse-accent": {
+    "$accent": {
       "value": "$role.brand.primary-1",
       "type": "color",
       "description": "Informação em destaque {brand}\nItem em destaque no menu"
     },
-    "text-inverse-sale": {
+    "sale": {
       "value": "$role.feedback.negative-2",
       "type": "color",
       "description": "Preço com desconto"
     },
-    "$text-inverse-support": {
+    "$support": {
       "value": "$role.neutral.light-4",
       "type": "color",
       "description": "Placeholder\nLegendas\nFrases de suporte sem destaque"
     },
-    "$text-inverse-disabled-on-color": {
+    "$disabled-on-color": {
       "value": "$role.neutral.dark-3",
       "type": "color"
     },
-    "$text-inverse-disabled": {
+    "$disabled": {
       "value": "$role.neutral.light-4",
       "type": "color",
       "description": "Texto desabilitado"
     }
   },
   "icon": {
-    "$icon-primary": {
+    "$primary": {
       "value": "$role.neutral.dark-1",
       "type": "color",
       "description": "Icones primários\nIcones usados acompanhados a textos primários\nElementos primários"
     },
-    "$icon-secondary": {
+    "$secondary": {
       "value": "$role.neutral.dark-2",
       "type": "color",
       "description": "Icones secundários\nIcones usados acompanhados a textos secundários como\nElementos secundários"
     },
-    "$icon-accent": {
+    "$accent": {
       "value": "$role.brand.primary-1",
       "type": "color",
       "description": "Ícones em destaque"
     },
-    "$icon-disabled": {
+    "$disabled": {
       "value": "$role.neutral.dark-5",
       "type": "color",
       "description": "Ícone desabilitado"
     }
   },
   "icon.inverse": {
-    "$icon-inverse-primary": {
+    "$primary": {
       "value": "$role.neutral.light-1",
       "type": "color",
       "description": "Icones primários modo inverso\nElementos primários modo inverso"
     },
-    "$icon-inverse-secondary": {
+    "$secondary": {
       "value": "$role.neutral.light-3",
       "type": "color",
       "description": "Icones secundários modo inverso\nElementos primários modo inverso"
     },
-    "$icon-inverse-accent": {
+    "$accent": {
       "value": "$role.brand.primary-1",
       "type": "color",
       "description": "Ícones em destaque modo inverso"
     },
-    "$icon-inverse-disabled": {
+    "$disabled": {
       "value": "$role.neutral.light-5",
       "type": "color",
       "description": "Ícone desabilitado modo inverso"
     }
   },
   "border": {
-    "$border-default": {
+    "$default": {
       "value": "$role.neutral.light-3",
       "type": "color",
       "description": "Token para bordas e linhas padrões usado nos principais componentes no estado default"
     },
-    "$border-card": {
+    "$card": {
       "value": "$role.neutral.light-3",
       "type": "color",
       "description": "Token para componentes que atuam como cards com conteúdo interno"
     },
-    "$border-accent": {
+    "$accent": {
       "value": "$role.brand.primary-1",
       "type": "color",
       "description": "Borda com cor de destaque"
     },
-    "$border-subtle": {
+    "$subtle": {
       "value": "$role.neutral.light-2",
       "type": "color",
       "description": "Token para linhas divisórias entre categorias, filtros e colunas."
     },
-    "$border-hover": {
+    "$hover": {
       "value": "$role.neutral.light-4",
       "type": "color",
       "description": "Token para bordas e linhas padrões usado nos principais componentes no estado hover"
     },
-    "$border-active": {
+    "$active": {
       "value": "$role.brand.primary-1",
       "type": "color",
       "description": "Token para bordas e linhas padrões usado nos principais componentes no estado ativo"
     },
-    "$border-selected": {
+    "$selected": {
       "value": "$role.brand.primary-1",
       "type": "color",
       "description": "Token para bordas e linhas no estado selecionado"
     },
-    "$border-disabled": {
+    "$disabled": {
       "value": "$role.neutral.light-3",
       "type": "color",
       "description": "Bordas em componentes desabilitados"
     }
   },
   "border.inverse": {
-    "$border-inverse-default": {
+    "$default": {
       "value": "$role.neutral.light-5",
       "type": "color",
       "description": "Bordas no modo inverso"
     },
-    "$border-inverse-card": {
+    "$card": {
       "value": "$role.neutral.dark-3",
       "type": "color",
       "description": "Token para componentes que atuam como cards com conteúdo interno modo inverso"
     },
-    "$border-inverse-accent": {
+    "$accent": {
       "value": "$role.brand.primary-1",
       "type": "color",
       "description": "Borda com cor de destaque"
     },
-    "$border-inverse-subtle": {
+    "$subtle": {
       "value": "$role.neutral.dark-4",
       "type": "color",
       "description": "Token para linhas divisórias entre categorias, filtros e colunas."
     },
-    "$border-inverse-hover": {
+    "$hover": {
       "value": "$role.neutral.light-4",
       "type": "color",
       "description": "Token para bordas e linhas padrões usado nos principais componentes no estado hover modo inverso"
     },
-    "$border-inverse-active": {
+    "$active": {
       "value": "$role.neutral.light-1",
       "type": "color",
       "description": "Token para bordas e linhas padrões usado nos principais componentes no estado hover modo inverso"
     },
-    "$border-inverse-selected": {
+    "$selected": {
       "value": "$role.neutral.light-1",
       "type": "color",
       "description": "Token para bordas e linhas no estado selecionado"
     },
-    "$border-inverse-disabled": {
+    "$disabled": {
       "value": "$role.neutral.dark-5",
       "type": "color",
       "description": "Bordas e linhas em componentes desabilitados modo inverso"
     }
   },
   "feedback": {
-    "$feedback-negative-container": {
+    "$negative-container": {
       "value": "$role.feedback.negative-1",
       "type": "color",
-      "description": "color-feedback-negative-pure\n\nErro\nEstados inválidos para container e bordas"
+      "description": "color-negative-pure\n\nErro\nEstados inválidos para container e bordas"
     },
-    "$feedback-negative-container-hover": {
+    "$negative-container-hover": {
       "value": "$role.feedback.negative-2",
       "type": "color",
       "description": "Erro\nEstados inválidos para container e bordas no estado hover"
     },
-    "$feedback-negative-container-active": {
+    "$negative-container-active": {
       "value": "$role.feedback.negative-2",
       "type": "color",
       "description": "Erro\nEstados inválidos para container e bordas no estado ativo"
     },
-    "$feedback-negative-text": {
+    "$negative-text": {
       "value": "$role.feedback.negative-1",
       "type": "color",
       "description": "Erro\nEstados inválidos para texto"
     },
-    "$feedback-negative-text-hover": {
+    "$negative-text-hover": {
       "value": "$role.feedback.negative-1",
       "type": "color",
       "description": "Erro\nEstados inválidos para texto no estado de hover"
     },
-    "$feedback-negative-text-active": {
+    "$negative-text-active": {
       "value": "$role.feedback.negative-1",
       "type": "color",
       "description": "Erro\nEstados inválidos para texto no estado ativo"
     },
-    "$feedback-positive-container": {
+    "$positive-container": {
       "value": "$role.feedback.positive-1",
       "type": "color",
-      "description": "color-feedback-positive-pure\n\npositive\nOn para containers"
+      "description": "color-positive-pure\n\npositive\nOn para containers"
     },
-    "$feedback-positive-text": {
+    "$positive-text": {
       "value": "$role.feedback.positive-1",
       "type": "color",
       "description": "positive\nOn para textos"
     },
-    "$feedback-warning-container": {
+    "$warning-container": {
       "value": "$role.feedback.warning-1",
       "type": "color",
-      "description": "color-feedback-warning-pure\n\nAtenção\nCuidado"
+      "description": "color-warning-pure\n\nAtenção\nCuidado"
     },
-    "$feedback-warning-text": {
+    "$warning-text": {
       "value": "$role.feedback.warning-1",
       "type": "color",
       "description": "Atenção\nOn para textos"
     }
   },
   "feedback.inverse": {
-    "$feedback-inverse-negative-container": {
+    "$negative-container": {
       "value": "$role.feedback.negative-1",
       "type": "color",
       "description": "Erro\nEstados inválidos para container e bordas"
     },
-    "$feedback-inverse-negative-container-hover": {
+    "$negative-container-hover": {
       "value": "$role.feedback.negative-2",
       "type": "color",
       "description": "Erro\nEstados inválidos para container e bordasno estado hover"
     },
-    "$feedback-inverse-negative-container-active": {
+    "$negative-container-active": {
       "value": "$role.feedback.negative-2",
       "type": "color",
       "description": "Erro\nEstados inválidos para container e bordas no estado ativo"
     },
-    "$feedback-inverse-negative-text": {
+    "$negative-text": {
       "value": "$role.feedback.negative-1",
       "type": "color",
       "description": "Erro\nEstados inválidos para texto"
     },
-    "$feedback-inverse-negative-text-hover": {
+    "$negative-text-hover": {
       "value": "$role.feedback.negative-2",
       "type": "color",
       "description": "Erro\nEstados inválidos para texto no estado de hover"
     },
-    "$feedback-inverse-negative-text-active": {
+    "$negative-text-active": {
       "value": "$role.feedback.negative-1",
       "type": "color",
       "description": "Erro\nEstados inválidos para texto no estado ativo"
     },
-    "$feedback-inverse-positive-container": {
+    "$positive-container": {
       "value": "$role.feedback.positive-1",
       "type": "color",
       "description": "positive\nOn"
     },
-    "$feedback-inverse-positive-text": {
+    "$positive-text": {
       "value": "$role.feedback.positive-1",
       "type": "color",
       "description": "positive\nOn para textos"
     },
-    "$feedback-inverse-warning-container": {
+    "$warning-container": {
       "value": "$role.feedback.warning-1",
       "type": "color",
-      "description": "color-feedback-warning-light\n\nAtenção\nCuidado"
+      "description": "color-warning-light\n\nAtenção\nCuidado"
     },
-    "$feedback-inverse-warning-text": {
+    "$warning-text": {
       "value": "$role.feedback.warning-1",
       "type": "color",
       "description": ""
     }
   },
   "background": {
-    "$background": {
+    "$default": {
       "value": "$role.neutral.light-1",
       "type": "color",
       "description": "neutral-light-1\n\nPlano de fundo da página padrão"
     },
-    "$background-brand": {
+    "$brand": {
       "value": "$role.brand.primary-1",
       "type": "color",
       "description": "brand-primary-1\n\nCor de fundo de recurso para uso da marca"
     },
-    "$background-overlay": {
+    "$overlay": {
       "value": "$role.neutral.dark-4",
       "type": "color",
       "description": "opacity-intense\n\nFundos Overlay"
     }
   },
   "background.inverse": {
-    "$background-inverse": {
+    "$default-inverse": {
       "value": "$role.neutral.dark-1",
       "type": "color",
       "description": "Fundos de alto contraste"
     }
   },
   "link": {
-    "$link-primary": {
+    "$primary": {
       "value": "$role.neutral.dark-1",
       "type": "color",
       "description": "Cor para link primário em links primários em menus, headers, e componentes principais"
     },
-    "$link-primary-hover": {
+    "$primary-hover": {
       "value": "$role.brand.primary-2",
       "type": "color",
       "description": "Cor para link no estado hover"
     },
-    "$link-primary-visited": {
+    "$primary-visited": {
       "value": "$role.brand.primary-3",
       "type": "color",
       "description": "Links visitados\nEstado Ativo"
     },
-    "$link-secondary": {
+    "$secondary": {
       "value": "$role.brand.primary-1",
       "type": "color",
       "description": "Cor para link secundário em corpos de texto com destaque"
     },
-    "$link-secondary-hover": {
+    "$secondary-hover": {
       "value": "$role.brand.primary-2",
       "type": "color",
       "description": "Cor para link no estado hover secundário"
     },
-    "$link-secondary-visited": {
+    "$secondary-visited": {
       "value": "$role.brand.primary-3",
       "type": "color",
       "description": "Links visitados\nEstado Ativo"
     }
   },
   "link.inverse": {
-    "$link-inverse-primary": {
+    "$primary": {
       "value": "$role.neutral.light-1",
       "type": "color",
-      "description": "color-feedback-link-light\n\nCor para link default modo inverso"
+      "description": "Cor para link default modo inverso"
     },
-    "$link-inverse-primary-hover": {
+    "$primary-hover": {
       "value": "$role.brand.primary-2",
       "type": "color",
       "description": "Cor para link no estado hover modo inverso"
     },
-    "$link-inverse-primary-visited": {
+    "$primary-visited": {
       "value": "$role.brand.primary-3",
       "type": "color",
       "description": "Links visitados\nEstado Ativo\nModo inverso"
     },
-    "$link-inverse-secondary": {
+    "$secondary": {
       "value": "$role.brand.primary-1",
       "type": "color",
       "description": "Cor para link secundário em corpos de texto com destaque modo inverso"
     },
-    "$link-inverse-secondary-hover": {
+    "$secondary-hover": {
       "value": "$role.brand.primary-2",
       "type": "color",
       "description": "Cor para link no estado hover modo inverso"
     },
-    "$link-inverse-secondary-visited": {
+    "$secondary-visited": {
       "value": "$role.brand.primary-2",
       "type": "color",
       "description": "Links visitados\nEstado Ativo\nModo inverso"
