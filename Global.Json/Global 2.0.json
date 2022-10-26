@@ -148,8 +148,8 @@
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
+        "textCase": "{default}",
+        "textDecoration": "{none}"
       },
       "type": "typography",
       "description": "$typestyle-tittle"
@@ -163,8 +163,8 @@
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
+        "textCase": "{default}",
+        "textDecoration": "{none}"
       },
       "type": "typography",
       "description": "$typestyle-subtittle"
@@ -178,8 +178,8 @@
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
+        "textCase": "{default}",
+        "textDecoration": "{none}"
       },
       "type": "typography",
       "description": "$typestyle-body"
@@ -193,8 +193,8 @@
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
+        "textCase": "{default}",
+        "textDecoration": "{none}"
       },
       "type": "typography",
       "description": "$typestyle-body-sm"
@@ -208,8 +208,8 @@
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
+        "textCase": "{default}",
+        "textDecoration": "{none}"
       },
       "type": "typography",
       "description": "$typestyle-caption"
@@ -762,8 +762,8 @@
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
+        "textCase": "{default}",
+        "textDecoration": "{none}"
       },
       "type": "typography",
       "description": "$typestyle-display-lg"
@@ -777,8 +777,8 @@
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
+        "textCase": "{default}",
+        "textDecoration": "{none}"
       },
       "type": "typography",
       "description": "$typestyle-display-md"
@@ -792,8 +792,8 @@
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
+        "textCase": "{default}",
+        "textDecoration": "{none}"
       },
       "type": "typography",
       "description": "$typestyle-display-sm"
@@ -809,8 +809,8 @@
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
+        "textCase": "{default}",
+        "textDecoration": "{none}"
       },
       "type": "typography",
       "description": "$typestyle-headline-lg"
@@ -824,8 +824,8 @@
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
+        "textCase": "{default}",
+        "textDecoration": "{none}"
       },
       "type": "typography",
       "description": "$typestyle-headline-md"
@@ -839,8 +839,8 @@
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
+        "textCase": "{default}",
+        "textDecoration": "{none}"
       },
       "type": "typography",
       "description": "$typestyle-headline-sm"
@@ -854,8 +854,8 @@
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
+        "textCase": "{default}",
+        "textDecoration": "{none}"
       },
       "type": "typography",
       "description": "$typestyle-subheadline"
@@ -871,8 +871,8 @@
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.uppercase}",
-        "textDecoration": "{textDecoration.none}"
+        "textCase": "{uppercase}",
+        "textDecoration": "{none}"
       },
       "type": "typography",
       "description": "$typestyle-button-md"
@@ -886,28 +886,24 @@
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.uppercase}",
-        "textDecoration": "{textDecoration.none}"
+        "textCase": "{uppercase}",
+        "textDecoration": "{none}"
       },
       "type": "typography",
       "description": "$typestyle-button-sm"
     }
   },
-  "textCase": {
-    "none": {
-      "value": "none",
-      "type": "textCase"
-    },
-    "uppercase": {
-      "value": "uppercase",
-      "type": "textCase"
-    }
+  "default": {
+    "value": "none",
+    "type": "textCase"
   },
-  "textDecoration": {
-    "none": {
-      "value": "none",
-      "type": "textDecoration"
-    }
+  "uppercase": {
+    "value": "uppercase",
+    "type": "textCase"
+  },
+  "none": {
+    "value": "none",
+    "type": "textDecoration"
   },
   "radius-default": {
     "value": "0",
@@ -1154,5 +1150,13 @@
         "type": "color"
       }
     }
+  },
+  "underline": {
+    "value": "underline",
+    "type": "textDecoration"
+  },
+  "line-through": {
+    "value": "line-through",
+    "type": "textDecoration"
   }
 }
