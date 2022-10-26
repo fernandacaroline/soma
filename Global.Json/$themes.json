@@ -116,9 +116,9 @@
       "Link Inverse.$link-inverse-secondary-visited": "S:81bc79d9f3a7996df1a9ff0f4753be1df7c3bb37,",
       "Opacity.80% $opacity-intense": "S:1d30f7b8bc706012d4f3a17bf8c07081b99d7ab7,",
       "Gradient.Linear Shadow": "S:56bee75710f36856c991158abf5e31f00c384e3e,",
-      "$shadow-light": "S:d5852fd3a268db021a0255a12a0c19fab23a0c81,",
-      "$shadow-md": "S:0c2737fa0243b95ff59e865d29be143f6e1a9fae,",
-      "$shadow-intense": "S:2681a05006157220aac661a9f8c88a1936f80aa1,"
+      "shadow-light": "S:d5852fd3a268db021a0255a12a0c19fab23a0c81,",
+      "shadow-md": "S:0c2737fa0243b95ff59e865d29be143f6e1a9fae,",
+      "shadow-intense": "S:2681a05006157220aac661a9f8c88a1936f80aa1,"
     }
   },
   {
@@ -239,9 +239,9 @@
       "Opacity.80% $opacity-intense": "S:1d30f7b8bc706012d4f3a17bf8c07081b99d7ab7,",
       "Gradient.Linear Shadow": "S:56bee75710f36856c991158abf5e31f00c384e3e,",
       "Link.$link-secondary-visited": "S:00f098b4ded70b61072dab3f4eb1fcdcf663b17b,",
-      "$shadow-light": "S:d5852fd3a268db021a0255a12a0c19fab23a0c81,",
-      "$shadow-md": "S:0c2737fa0243b95ff59e865d29be143f6e1a9fae,",
-      "$shadow-intense": "S:2681a05006157220aac661a9f8c88a1936f80aa1,"
+      "shadow-light": "S:d5852fd3a268db021a0255a12a0c19fab23a0c81,",
+      "shadow-md": "S:0c2737fa0243b95ff59e865d29be143f6e1a9fae,",
+      "shadow-intense": "S:2681a05006157220aac661a9f8c88a1936f80aa1,"
     }
   },
   {
