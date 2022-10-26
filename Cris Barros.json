@@ -841,15 +841,15 @@
     "type": "boxShadow"
   },
   "font-family-primary": {
-    "value": "futura",
+    "value": "futura-lt",
     "type": "fontFamilies"
   },
   "font-family-secondary": {
-    "value": "futura",
+    "value": "futura-lt",
     "type": "fontFamilies"
   },
   "font-family-terciary": {
-    "value": "futura",
+    "value": "futura-lt",
     "type": "fontFamilies"
   },
   "weight": {
