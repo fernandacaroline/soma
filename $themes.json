@@ -257,17 +257,17 @@
       "icon.inverse.$primary": "S:f7c28391fe52131d393b815b3849a474e2e242d7,",
       "border.inverse.$default": "S:016cecba2630e7e541aa3de4db8170651269186a,",
       "link.primary-hover": "S:4601831415497125d35e8c43934b4a4483947a1f,",
-      "text.typestyle-tittle": "S:33ca562303854cef88de96ac98e46f65d9a64bdb,",
-      "text.typestyle-subtittle": "S:f193a3428eee4af3346dcd6ce9886e314613a9f8,",
-      "text.typestyle-body": "S:ee23dd676f65cd28335dd55f8796a9fd1c1dbfc1,",
-      "text.typestyle-body-sm": "S:322c0ca9f7190e172b67e3c3b4f6f211e45bb0da,",
-      "text.typestyle-caption": "S:f5bfd2e625e08955ccdd2c03c1b32484d82d20cf,",
       "shadow-light": "S:43fd26d163adf3bd7be042187a85d248d5bb6d36,",
       "shadow-md": "S:5544b69a4a8719781b94f8700acbcdc8be64b023,",
       "shadow-intense": "S:bbf49f5b490fcd3f304c724721417ba5134f1e83,",
       "shadow-default": "S:ef46f6176bf2af0be569acf8eaec179c317e8b79,",
       "background.default": "S:1aaa4858a2fbdd897bf4efa1965f1308ed8c0e9f,",
-      "background.inverse.default-inverse": "S:80708d1a62f833ee8d095ec503a6719e98c01741,"
+      "background.inverse.default-inverse": "S:80708d1a62f833ee8d095ec503a6719e98c01741,",
+      "text.title": "S:33ca562303854cef88de96ac98e46f65d9a64bdb,",
+      "text.subtitle": "S:f193a3428eee4af3346dcd6ce9886e314613a9f8,",
+      "text.body": "S:ee23dd676f65cd28335dd55f8796a9fd1c1dbfc1,",
+      "text.body-small": "S:322c0ca9f7190e172b67e3c3b4f6f211e45bb0da,",
+      "text.caption": "S:f5bfd2e625e08955ccdd2c03c1b32484d82d20cf,"
     }
   }
 ]

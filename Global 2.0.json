@@ -247,7 +247,7 @@
       "type": "color",
       "description": "color-typography-1-dark\n\nTexto desabilitado"
     },
-    "typestyle-tittle": {
+    "title": {
       "value": {
         "fontFamily": "{font-family-primary}",
         "fontWeight": "{weight.bold}",
@@ -262,7 +262,7 @@
       "type": "typography",
       "description": "$typestyle-tittle"
     },
-    "typestyle-subtittle": {
+    "subtitle": {
       "value": {
         "fontFamily": "{font-family-primary}",
         "fontWeight": "{weight.regular}",
@@ -277,7 +277,7 @@
       "type": "typography",
       "description": "$typestyle-subtittle"
     },
-    "typestyle-body": {
+    "body": {
       "value": {
         "fontFamily": "{font-family-primary}",
         "fontWeight": "{weight.regular}",
@@ -292,7 +292,7 @@
       "type": "typography",
       "description": "$typestyle-body"
     },
-    "typestyle-body-sm": {
+    "body-small": {
       "value": {
         "fontFamily": "{font-family-primary}",
         "fontWeight": "{weight.regular}",
@@ -307,7 +307,7 @@
       "type": "typography",
       "description": "$typestyle-body-sm"
     },
-    "typestyle-caption": {
+    "caption": {
       "value": {
         "fontFamily": "{font-family-primary}",
         "fontWeight": "{weight.regular}",
