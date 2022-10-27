@@ -923,7 +923,8 @@
       },
       "type": "typography",
       "description": "$typestyle-button-sm"
-    },
+    }
+  },"paragraph": {
     "title": {
       "value": {
         "fontFamily": "{font-family-primary}",
