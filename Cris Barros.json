@@ -263,7 +263,6 @@
         "description": "\"value\"\n\nTexto desabilitado"
       }
     }
-  
   },
   "icon": {
     "primary": {
@@ -733,8 +732,8 @@
         "type": "typography",
         "description": "$typestyle-button-sm"
       }
-    
-    },"paragraph": {
+    },
+    "paragraph": {
       "title": {
         "value": {
           "fontFamily": "{font-family-primary}",
@@ -809,9 +808,9 @@
         },
         "type": "typography",
         "description": "$typestyle-caption"
-        }
+      }
     }
-},
+  },
   "shadow-light": {
     "value": {
       "x": "0",
