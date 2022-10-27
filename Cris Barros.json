@@ -609,7 +609,7 @@
         "type": "typography",
         "description": "$typestyle-display-lg"
       },
-      "display-medium": {
+      "medium": {
         "value": {
           "fontFamily": "{font-family-primary}",
           "fontWeight": "{weight.regular}",
