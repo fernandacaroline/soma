@@ -118,7 +118,21 @@
       "Shadow.Medium": "S:0c2737fa0243b95ff59e865d29be143f6e1a9fae,",
       "Shadow.Intense": "S:2681a05006157220aac661a9f8c88a1936f80aa1,",
       "background.inverse.default": "S:a5f200bba3ae9347f4b46338727288b5a4c12c7c,",
-      "display.large": "S:097e6aa883faef5d267341e11b802a32d9e917d3,"
+      "display.large": "S:097e6aa883faef5d267341e11b802a32d9e917d3,",
+      "typestyle.display.large": "S:097e6aa883faef5d267341e11b802a32d9e917d3,",
+      "typestyle.display.medium": "S:b2fec54221112bff79635e4122a5de56005de82e,",
+      "typestyle.display.small": "S:c9d40bd41aa881c18fcf222d5b8d34307100dd20,",
+      "typestyle.headline.large": "S:9937155e740fa7ab99f4aa0ec4f775446c2988b2,",
+      "typestyle.headline.medium": "S:7060303b9147deebf8519c323e5334211de86655,",
+      "typestyle.headline.small": "S:2164664871e091bf96eb8198bcb308d7e541020d,",
+      "typestyle.headline.subheadline": "S:397edbd026742db7aa27caa946ce0717166fa4ab,",
+      "typestyle.button.medium": "S:9139769f2c93972426261ab570a69ba53c4de8b0,",
+      "typestyle.button.small": "S:4ac314a6f0e43d5130d979838e00f3f3433f46fd,",
+      "typestyle.paragraph.title": "S:2819299a182735653fed5671e004117a0a910c62,",
+      "typestyle.paragraph.subtitle": "S:7738e335d4961c1352b5eb825f4c8a5d7e752d5e,",
+      "typestyle.paragraph.body": "S:f37c26bc7072ee2ab21cf906a8aacec6bb16ae8d,",
+      "typestyle.paragraph.body-small": "S:cfe7185f05ac1ad237393993de75474cc4f44428,",
+      "typestyle.paragraph.caption": "S:7df37aef1da494013f686f758468c3de40cf506c,"
     }
   },
   {
