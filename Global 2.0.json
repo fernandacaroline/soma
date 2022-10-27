@@ -859,7 +859,7 @@
     "type": "paragraphSpacing"
   },
   "display": {
-    "display-large": {
+    "large": {
       "value": {
         "fontFamily": "{font-family-primary}",
         "fontWeight": "{weight.regular}",

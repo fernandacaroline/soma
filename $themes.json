@@ -7,7 +7,6 @@
       "Cris Barros": "enabled"
     },
     "$figmaStyleReferences": {
-      "display.display-large": "S:097e6aa883faef5d267341e11b802a32d9e917d3,",
       "display.display-medium": "S:b2fec54221112bff79635e4122a5de56005de82e,",
       "display.display-small": "S:c9d40bd41aa881c18fcf222d5b8d34307100dd20,",
       "headline.headline-large": "S:9937155e740fa7ab99f4aa0ec4f775446c2988b2,",
@@ -118,7 +117,8 @@
       "Shadow.Light": "S:d5852fd3a268db021a0255a12a0c19fab23a0c81,",
       "Shadow.Medium": "S:0c2737fa0243b95ff59e865d29be143f6e1a9fae,",
       "Shadow.Intense": "S:2681a05006157220aac661a9f8c88a1936f80aa1,",
-      "background.inverse.default": "S:a5f200bba3ae9347f4b46338727288b5a4c12c7c,"
+      "background.inverse.default": "S:a5f200bba3ae9347f4b46338727288b5a4c12c7c,",
+      "display.large": "S:097e6aa883faef5d267341e11b802a32d9e917d3,"
     }
   },
   {
@@ -129,7 +129,6 @@
       "Cris Barros": "disabled"
     },
     "$figmaStyleReferences": {
-      "display.display-large": "S:a7717842b3e0e5e5c8bb670a42b6110be73da938,",
       "display.display-medium": "S:1eab7fbf93443110e66f176b128d89eb0a0d9bc1,",
       "display.display-small": "S:08fca6198ea1e5d8050a14641fcc5896b2e49b02,",
       "headline.headline-large": "S:3bd76ce547bdd64acf3ef829ae65b119ec60cdee,",
@@ -267,7 +266,8 @@
       "text.subtitle": "S:f193a3428eee4af3346dcd6ce9886e314613a9f8,",
       "text.body": "S:ee23dd676f65cd28335dd55f8796a9fd1c1dbfc1,",
       "text.body-small": "S:322c0ca9f7190e172b67e3c3b4f6f211e45bb0da,",
-      "text.caption": "S:f5bfd2e625e08955ccdd2c03c1b32484d82d20cf,"
+      "text.caption": "S:f5bfd2e625e08955ccdd2c03c1b32484d82d20cf,",
+      "display.large": "S:a7717842b3e0e5e5c8bb670a42b6110be73da938,"
     }
   }
 ]
