@@ -267,7 +267,21 @@
       "text.body": "S:ee23dd676f65cd28335dd55f8796a9fd1c1dbfc1,",
       "text.body-small": "S:322c0ca9f7190e172b67e3c3b4f6f211e45bb0da,",
       "text.caption": "S:f5bfd2e625e08955ccdd2c03c1b32484d82d20cf,",
-      "display.large": "S:a7717842b3e0e5e5c8bb670a42b6110be73da938,"
+      "display.large": "S:a7717842b3e0e5e5c8bb670a42b6110be73da938,",
+      "typestyle.display.large": "S:a7717842b3e0e5e5c8bb670a42b6110be73da938,",
+      "typestyle.display.medium": "S:1eab7fbf93443110e66f176b128d89eb0a0d9bc1,",
+      "typestyle.display.small": "S:08fca6198ea1e5d8050a14641fcc5896b2e49b02,",
+      "typestyle.headline.large": "S:3bd76ce547bdd64acf3ef829ae65b119ec60cdee,",
+      "typestyle.headline.medium": "S:9499a25616735495129f0131fb6aa15cbc0b8ffe,",
+      "typestyle.headline.small": "S:5b59057b776822c08ad89e801998ccc65ff40e02,",
+      "typestyle.headline.subheadline": "S:82d9fec5ff4231a619fd7886b7a81db7f3cb49f9,",
+      "typestyle.button.medium": "S:dcc8d20f68df8be6e4cff69d4842b803c63cf834,",
+      "typestyle.button.small": "S:61eac5861cc75d9fd253e14daa90ee5a24c799c7,",
+      "typestyle.paragraph.title": "S:33ca562303854cef88de96ac98e46f65d9a64bdb,",
+      "typestyle.paragraph.subtitle": "S:f193a3428eee4af3346dcd6ce9886e314613a9f8,",
+      "typestyle.paragraph.body": "S:ee23dd676f65cd28335dd55f8796a9fd1c1dbfc1,",
+      "typestyle.paragraph.body-small": "S:322c0ca9f7190e172b67e3c3b4f6f211e45bb0da,",
+      "typestyle.paragraph.caption": "S:f5bfd2e625e08955ccdd2c03c1b32484d82d20cf,"
     }
   }
 ]

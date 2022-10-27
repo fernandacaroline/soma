@@ -246,7 +246,6 @@
       "value": "{role.neutral.dark-5}",
       "type": "color",
       "description": "color-typography-1-dark\n\nTexto desabilitado"
-    
     },
     "inverse": {
       "primary": {
@@ -925,7 +924,8 @@
         "type": "typography",
         "description": "$typestyle-button-sm"
       }
-    },"paragraph": {
+    },
+    "paragraph": {
       "title": {
         "value": {
           "fontFamily": "{font-family-primary}",
