@@ -139,7 +139,7 @@
       "description": "Cor de fundo secundária estado hover"
     },
     "secondary-active": {
-      "value": "#d6d6d6",
+      "value": "#8179E2",
       "type": "color",
       "description": "Cor de fundo secundária  estado ativo"
     },
