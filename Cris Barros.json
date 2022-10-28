@@ -310,7 +310,7 @@
   },
   "border": {
     "default": {
-      "value": "{role.neutral.dark-2}",
+      "value": "{role.neutral.dark-3}",
       "type": "color",
       "description": "\"Value\"\n\nToken para bordas e linhas padrões usado nos principais componentes no estado default"
     },

@@ -109,7 +109,7 @@
   },
   "container": {
     "primary": {
-      "value": "{role.brand.primary-1}",
+      "value": "{role.neutral.light-1}",
       "type": "color",
       "description": "Cor de fundo primária"
     },
@@ -144,12 +144,12 @@
       "description": "Cor de fundo secundária  estado ativo"
     },
     "secondary-selected": {
-      "value": "{role.brand.primary-1}",
+      "value": "{role.neutral.light-3}",
       "type": "color",
       "description": "Cor de fundo secundária  estado selecionado"
     },
     "checked": {
-      "value": "{role.brand.primary-1}",
+      "value": "{role.neutral.light-3}",
       "type": "color",
       "description": "Para componentes com versões habilitadas e desabilitadas\nCheckbox\nRadio Button\nToggle"
     },
@@ -330,7 +330,7 @@
   },
   "border": {
     "default": {
-      "value": "{role.neutral.light-3}",
+      "value": "{role.neutral.light-2}",
       "type": "color",
       "description": "Token para bordas e linhas padrões usado nos principais componentes no estado default"
     },
