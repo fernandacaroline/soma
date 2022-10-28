@@ -355,6 +355,18 @@
         "type": "color",
         "description": "Icones primários modo inverso\nElementos primários modo inverso"
       }
+    },
+    "primary-hover": {
+      "value": "#171717",
+      "type": "color"
+    },
+    "primary-active": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "primary-selected": {
+      "value": "#ffffff",
+      "type": "color"
     }
   },
   "border": {
