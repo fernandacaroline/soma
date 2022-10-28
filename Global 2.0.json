@@ -281,31 +281,7 @@
         "value": "#bdbdbd",
         "type": "color",
         "description": "Texto desabilitado"
-      },
-      "primary-hover": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "primary-active": {
-        "value": "#070707",
-        "type": "color"
-      },
-      "primary-selected": {
-        "value": "#070707",
-        "type": "color"
       }
-    },
-    "primary-hover": {
-      "value": "#171717",
-      "type": "color"
-    },
-    "primary-active": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "primary-selected": {
-      "value": "#ffffff",
-      "type": "color"
     }
   },
   "icon": {
@@ -355,18 +331,6 @@
         "type": "color",
         "description": "Icones primários modo inverso\nElementos primários modo inverso"
       }
-    },
-    "primary-hover": {
-      "value": "#171717",
-      "type": "color"
-    },
-    "primary-active": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "primary-selected": {
-      "value": "#ffffff",
-      "type": "color"
     }
   },
   "border": {
