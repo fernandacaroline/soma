@@ -747,7 +747,7 @@
     }
   },
   "shadow": {
-    "df": {
+    "default": {
       "value": {
         "x": "0",
         "y": "0",
@@ -925,7 +925,7 @@
     }
   },
   "letter-spacing": {
-    "df": {
+    "default": {
       "value": "0%",
       "type": "letterSpacing"
     }
@@ -1157,7 +1157,7 @@
     }
   },
   "text-case": {
-    "df": {
+    "default": {
       "value": "none",
       "type": "textCase"
     },
@@ -1181,7 +1181,7 @@
     }
   },
   "border-radius": {
-    "df": {
+    "default": {
       "value": "0",
       "type": "borderRadius",
       "description": "Valor de borda principal {Em casos em que a marca não tem valores small, medium ou large utilizar a escala default."
@@ -1200,7 +1200,7 @@
     }
   },
   "border-width": {
-    "df": {
+    "default": {
       "value": "1",
       "type": "borderWidth",
       "description": "Border Width Default\n"
