@@ -959,8 +959,8 @@
           "letterSpacing": "{letter-spacing.default}",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
-          "textCase": "{text-case.text-case-default}",
-          "textDecoration": "{text-decoration.text-decoration-none}"
+          "textCase": "{text-case.default}",
+          "textDecoration": "{text-decoration.none}"
         },
         "type": "typography",
         "description": "$typestyle-display-lg"
