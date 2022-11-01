@@ -1,5 +1,5 @@
 {
-"color-roles": {
+  "color-roles": {
     "brand": {
       "primary-1": {
         "value": "#8179E2",
@@ -107,7 +107,7 @@
       }
     }
   },
-"color":{
+  "color": {
     "action": {
       "container": {
         "primary": {
@@ -758,19 +758,19 @@
       }
     }
   },
-"shadow": {  
-  "shadow-default": {
-    "value": {
-      "x": "0",
-      "y": "0",
-      "blur": "8",
-      "spread": "0",
-      "color": "{background.inverse.default-inverse}",
-      "type": "dropShadow"
+  "shadow": {
+    "shadow-default": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "8",
+        "spread": "0",
+        "color": "{background.inverse.default-inverse}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     },
-    "type": "boxShadow"
-  },
-  "shadow-light": {
+    "shadow-light": {
       "value": {
         "x": "0",
         "y": "0",
@@ -804,7 +804,7 @@
       "type": "boxShadow"
     }
   },
-"font-family": {
+  "font-family": {
     "font-family-primary": {
       "value": "Roboto",
       "type": "fontFamilies"
@@ -816,9 +816,9 @@
     "font-family-terciary": {
       "value": "Roboto",
       "type": "fontFamilies"
-    }  
+    }
   },
-"weight": {
+  "weight": {
     "regular": {
       "value": "Regular",
       "type": "fontWeights"
@@ -836,7 +836,7 @@
       "type": "fontWeights"
     }
   },
-"font-size": {
+  "font-size": {
     "font-size-xxus": {
       "value": "10",
       "type": "fontSizes"
@@ -886,7 +886,7 @@
       "type": "fontSizes"
     }
   },
-"line-height": {
+  "line-height": {
     "line-height-xxus": {
       "value": "90%",
       "type": "lineHeights"
@@ -936,19 +936,19 @@
       "type": "lineHeights"
     }
   },
-"letter-spacing": {
+  "letter-spacing": {
     "letter-spacing-default": {
       "value": "0%",
       "type": "letterSpacing"
     }
   },
-"paragraph-spacing": {
+  "paragraph-spacing": {
     "paragraph-spacing-default": {
       "value": "0",
       "type": "paragraphSpacing"
     }
   },
-"typestyle": {
+  "typestyle": {
     "display": {
       "large": {
         "value": {
@@ -1168,7 +1168,7 @@
       }
     }
   },
-"text-case": {
+  "text-case": {
     "text-case-default": {
       "value": "none",
       "type": "textCase"
@@ -1178,21 +1178,21 @@
       "type": "textCase"
     }
   },
-"text-decoration": {
-  "text-decoration-underline": {
-    "value": "underline",
-    "type": "textDecoration"
-  },
-  "text-decoration-line-through": {
-    "value": "line-through",
-    "type": "textDecoration"
-  },
+  "text-decoration": {
+    "text-decoration-underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    },
+    "text-decoration-line-through": {
+      "value": "line-through",
+      "type": "textDecoration"
+    },
     "text-decoration-none": {
       "value": "none",
       "type": "textDecoration"
     }
   },
-"border-radius": {
+  "border-radius": {
     "radius-default": {
       "value": "0",
       "type": "borderRadius",
@@ -1211,7 +1211,7 @@
       "type": "borderRadius"
     }
   },
-"border-width": {
+  "border-width": {
     "border-width-default": {
       "value": "1",
       "type": "borderWidth",
@@ -1238,7 +1238,7 @@
       "description": "Border Width X Large"
     }
   },
-"opacity": {
+  "opacity": {
     "opacity-none": {
       "value": "0",
       "type": "opacity",
@@ -1265,7 +1265,7 @@
       "description": "Elemento com opacidade Semi-Opaca"
     }
   },
-"spacing": {
+  "spacing": {
     "spacing-1": {
       "value": "1",
       "type": "spacing"
