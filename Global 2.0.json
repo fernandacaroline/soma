@@ -747,7 +747,7 @@
     }
   },
   "shadow": {
-    "default": {
+    "df": {
       "value": {
         "x": "0",
         "y": "0",
@@ -925,7 +925,7 @@
     }
   },
   "letter-spacing": {
-    "default": {
+    "df": {
       "value": "0%",
       "type": "letterSpacing"
     }
@@ -1157,7 +1157,7 @@
     }
   },
   "text-case": {
-    "default": {
+    "df": {
       "value": "none",
       "type": "textCase"
     },
@@ -1181,26 +1181,26 @@
     }
   },
   "border-radius": {
-    "default": {
+    "df": {
       "value": "0",
       "type": "borderRadius",
       "description": "Valor de borda principal {Em casos em que a marca não tem valores small, medium ou large utilizar a escala default."
     },
-    "small": {
+    "sm": {
       "value": "4",
       "type": "borderRadius"
     },
-    "medium": {
+    "md": {
       "value": "8",
       "type": "borderRadius"
     },
-    "large": {
+    "lg": {
       "value": "24",
       "type": "borderRadius"
     }
   },
   "border-width": {
-    "default": {
+    "df": {
       "value": "1",
       "type": "borderWidth",
       "description": "Border Width Default\n"
