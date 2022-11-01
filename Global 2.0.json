@@ -107,7 +107,7 @@
       }
     }
   },
-  "color":{
+  "color": {
     "action": {
       "container": {
         "primary": {
@@ -744,18 +744,6 @@
           "description": "Links visitados\nEstado Ativo\nModo inverso"
         }
       }
-    },
-    "opacity": {
-      "80% $opacity-intense": {
-        "value": "{role.neutral.light-1cc}",
-        "type": "color"
-      }
-    },
-    "gradient": {
-      "Linear Shadow": {
-        "value": "linear-gradient(180deg, #00000000 0%, #0000004d 100%)",
-        "type": "color"
-      }
     }
   },
   "shadow": {
@@ -765,7 +753,7 @@
         "y": "0",
         "blur": "8",
         "spread": "0",
-        "color": "{background.inverse.default-inverse}",
+        "color": "{color.background.inverse.primary}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -776,7 +764,7 @@
         "y": "0",
         "blur": "16",
         "spread": "0",
-        "color": "{background.inverse.default-inverse}",
+        "color": "{color.background.inverse.primary}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -787,7 +775,7 @@
         "y": "0",
         "blur": "24",
         "spread": "0",
-        "color": "{background.inverse.default-inverse}",
+        "color": "{color.background.inverse.primary}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -798,7 +786,7 @@
         "y": "0",
         "blur": "24",
         "spread": "0",
-        "color": "{background.inverse.default-inverse}",
+        "color": "{color.background.inverse.primary}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -952,15 +940,15 @@
     "display": {
       "large": {
         "value": {
-          "fontFamily": "{font-family-primary}",
+          "fontFamily": "{font-family.font-family-primary}",
           "fontWeight": "{weight.regular}",
-          "lineHeight": "{line-height-xxs}",
-          "fontSize": "{font-size-xxl}",
-          "letterSpacing": "{letter-spacing-default}",
-          "paragraphSpacing": "{paragraph-spacing-default}",
+          "lineHeight": "{line-height.line-height-xxs}",
+          "fontSize": "{font-size.font-size-xxl}",
+          "letterSpacing": "{letter-spacing.letter-spacing-default}",
+          "paragraphSpacing": "{paragraph-spacing.paragraph-spacing-default}",
           "paragraphIndent": "",
-          "textCase": "{text-case-default}",
-          "textDecoration": "{text-decoration-none}"
+          "textCase": "{text-case.text-case-default}",
+          "textDecoration": "{text-decoration.text-decoration-none}"
         },
         "type": "typography",
         "description": "$typestyle-display-lg"
