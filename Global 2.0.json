@@ -756,7 +756,8 @@
         "color": "{color.background.inverse.primary}",
         "type": "dropShadow"
       },
-      "type": "boxShadow"
+      "type": "boxShadow",
+      "description": "shadow default"
     },
     "light": {
       "value": {
@@ -767,7 +768,8 @@
         "color": "{color.background.inverse.primary}",
         "type": "dropShadow"
       },
-      "type": "boxShadow"
+      "type": "boxShadow",
+      "description": "shadow light"
     },
     "medium": {
       "value": {
@@ -778,7 +780,8 @@
         "color": "{color.background.inverse.primary}",
         "type": "dropShadow"
       },
-      "type": "boxShadow"
+      "type": "boxShadow",
+      "description": "shadow medium"
     },
     "intense": {
       "value": {
@@ -789,7 +792,8 @@
         "color": "{color.background.inverse.primary}",
         "type": "dropShadow"
       },
-      "type": "boxShadow"
+      "type": "boxShadow",
+      "description": "shadow intense"
     }
   },
   "font-family": {
@@ -1184,19 +1188,22 @@
     "default": {
       "value": "0",
       "type": "borderRadius",
-      "description": "Valor de borda principal {Em casos em que a marca não tem valores small, medium ou large utilizar a escala default."
+      "description": "border radius default"
     },
     "sm": {
       "value": "4",
-      "type": "borderRadius"
+      "type": "borderRadius",
+      "description": "border radius small"
     },
     "md": {
       "value": "8",
-      "type": "borderRadius"
+      "type": "borderRadius",
+      "description": "border radius medium"
     },
     "lg": {
       "value": "24",
-      "type": "borderRadius"
+      "type": "borderRadius",
+      "description": "border radius large"
     }
   },
   "border-width": {
@@ -1254,12 +1261,12 @@
     }
   },
   "spacing": {
-    "1": {
-      "value": "1",
-      "type": "spacing"
-    },
     "0": {
       "value": "0",
+      "type": "spacing"
+    },
+    "1": {
+      "value": "1",
       "type": "spacing"
     },
     "2": {
