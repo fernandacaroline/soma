@@ -132,7 +132,7 @@
             "description": "Cor de fundo secundária estado hover"
           },
           "secondary-active": {
-            "value": "{role.neutral.primary-2}",
+            "value": "{role.neutral.light-2}",
             "type": "color",
             "description": "Cor de fundo secundária  estado ativo"
           },
