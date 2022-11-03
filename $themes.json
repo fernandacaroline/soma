@@ -2,10 +2,7 @@
   {
     "id": "3a04511f0a8c673d7d37dbbf1cbf5bd15b09cff2",
     "name": "Cris Barros Light",
-    "selectedTokenSets": {
-      "Global 2.0": "disabled",
-      "Cris Barros 2.0": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {
       "display.display-medium": "S:b2fec54221112bff79635e4122a5de56005de82e,",
       "display.display-small": "S:c9d40bd41aa881c18fcf222d5b8d34307100dd20,",
@@ -285,7 +282,7 @@
     "id": "fab4dca30de83df589e524f0e26059be9b5a703a",
     "name": "Global Light",
     "selectedTokenSets": {
-      "Global 2.0": "enabled"
+      "Global": "enabled"
     },
     "$figmaStyleReferences": {
       "display.display-medium": "S:1eab7fbf93443110e66f176b128d89eb0a0d9bc1,",
