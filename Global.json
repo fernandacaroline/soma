@@ -645,11 +645,6 @@
           "type": "color",
           "description": "Fundos de alto contraste"
         }
-      },
-      "brand-2": {
-        "value": "{role.neutral.light-2}",
-        "type": "color",
-        "description": "Fundos de seções (footer)"
       }
     },
     "link": {
