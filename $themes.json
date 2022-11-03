@@ -658,7 +658,8 @@
       "shadow.default": "S:9f7cc48dc148a55b99478554703473d25b94d44c,",
       "shadow.light": "S:bf31e251abfcf1fa78998aa9847e63136bd49b27,",
       "shadow.medium": "S:46ea4723484a33890ef9ddbe198204a4548d5500,",
-      "shadow.intense": "S:521114301c7216a3f8cd735a27ae99badad48511,"
+      "shadow.intense": "S:521114301c7216a3f8cd735a27ae99badad48511,",
+      "color.background.brand-2": "S:3518ffa2e1ac8614729ebd58f276a26641701f81,"
     }
   }
 ]
