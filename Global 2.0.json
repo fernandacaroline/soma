@@ -125,11 +125,6 @@
           "type": "color",
           "description": "Cor de fundo primária estado ativo"
         },
-        "primary-selected": {
-          "value": "{role.brand.primary-3}",
-          "type": "color",
-          "description": "Cor de fundo primária estado selecionado"
-        },
         "secondary": {
           "value": "{role.neutral.light-1}",
           "type": "color",
@@ -144,11 +139,6 @@
           "value": "{role.brand.primary-1}",
           "type": "color",
           "description": "Cor de fundo secundária  estado ativo"
-        },
-        "secondary-selected": {
-          "value": "{role.brand.primary-1}",
-          "type": "color",
-          "description": "Cor de fundo secundária  estado selecionado"
         },
         "checked": {
           "value": "{role.brand.primary-1}",
@@ -225,11 +215,6 @@
             "type": "color",
             "description": "Cor de fundo primária estado ativo"
           },
-          "primary-selected": {
-            "value": "{role.neutral.light-5}",
-            "type": "color",
-            "description": "Cor de fundo primária estado selecionado"
-          },
           "secondary": {
             "value": "{role.neutral.dark-1}",
             "type": "color",
@@ -244,11 +229,6 @@
             "value": "{role.neutral.dark-2}",
             "type": "color",
             "description": "Cor de fundo secundária  estado ativo"
-          },
-          "secondary-selected": {
-            "value": "{role.neutral.dark-2}",
-            "type": "color",
-            "description": "Cor de fundo secundária  estado selecionado"
           },
           "checked": {
             "value": "{role.neutral.light-1}",
@@ -337,18 +317,6 @@
           "value": "{role.neutral.light-1}",
           "type": "color",
           "description": "Textos primários,  Títulos  Itens do header Informações principais"
-        },
-        "primary-hover": {
-          "value": "{role.neutral.light-1}",
-          "type": "color"
-        },
-        "primary-active": {
-          "value": "{role.neutral.light-1}",
-          "type": "color"
-        },
-        "primary-selected": {
-          "value": "{role.neutral.light-1}",
-          "type": "color"
         },
         "secondary": {
           "value": "{role.neutral.light-3}",
@@ -452,17 +420,17 @@
         "type": "color",
         "description": "Token para bordas e linhas padrões usado nos principais componentes no estado ativo"
       },
-      "selected": {
-        "value": "{role.brand.primary-1}",
-        "type": "color",
-        "description": "Token para bordas e linhas no estado selecionado"
-      },
       "disabled": {
         "value": "{role.neutral.light-3}",
         "type": "color",
         "description": "Bordas em componentes desabilitados"
       },
       "inverse": {
+        "default": {
+          "value": "{role.neutral.light-5}",
+          "type": "color",
+          "description": "Bordas no modo inverso"
+        },
         "card": {
           "value": "{role.neutral.dark-3}",
           "type": "color",
@@ -488,20 +456,10 @@
           "type": "color",
           "description": "Token para bordas e linhas padrões usado nos principais componentes no estado hover modo inverso"
         },
-        "selected": {
-          "value": "{role.neutral.light-1}",
-          "type": "color",
-          "description": "Token para bordas e linhas no estado selecionado"
-        },
         "disabled": {
           "value": "{role.neutral.dark-5}",
           "type": "color",
           "description": "Bordas e linhas em componentes desabilitados modo inverso"
-        },
-        "default": {
-          "value": "{role.neutral.light-5}",
-          "type": "color",
-          "description": "Bordas no modo inverso"
         }
       }
     },
