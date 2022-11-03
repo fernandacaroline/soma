@@ -12,6 +12,10 @@
       "primary-3": {
         "value": "#4C487E",
         "type": "color"
+      },
+      "primary-4": {
+        "value": "#E3E2ED",
+        "type": "color"
       }
     },
     "neutral": {
@@ -647,7 +651,7 @@
         }
       },
       "brand-2": {
-        "value": "{role.neutral.light-2}",
+        "value": "{role.brand.primary-4}",
         "type": "color",
         "description": "Fundos de seções (footer)"
       }
