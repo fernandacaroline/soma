@@ -1017,10 +1017,10 @@
         "value": {
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{weight.medium}",
-          "lineHeight": "{line-height.us}",
+          "lineHeight": "{line-height.xxus}",
           "fontSize": "{font-size.xxus}",
           "letterSpacing": "{letter-spacing.default}",
-          "paragraphSpacing": " {paragraph-spacing.default}",
+          "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
           "textCase": "{text-case.uppercase}",
           "textDecoration": "{text-decoration.none}"
