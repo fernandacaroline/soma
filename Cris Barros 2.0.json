@@ -132,7 +132,7 @@
             "description": "Cor de fundo secundária estado hover"
           },
           "secondary-active": {
-            "value": "{role.brand.primary-2}",
+            "value": "{role.neutral.primary-2}",
             "type": "color",
             "description": "Cor de fundo secundária  estado ativo"
           },
@@ -164,7 +164,7 @@
             "description": "textos e ícones usados nos componentes de ação estado ativo primário"
           },
           "primary-disabled": {
-            "value": "{role.neutral.dark-4}",
+            "value": "{role.neutral.light-4}",
             "type": "color",
             "description": "textos e ícones usados nos componentes de ação no estado desabilitado primário"
           },
@@ -304,7 +304,7 @@
           "description": "Placeholder Legendas Frases de suporte sem destaque"
         },
         "disabled": {
-          "value": "{role.neutral.linght-3}",
+          "value": "{role.neutral.light-3}",
           "type": "color",
           "description": "color-typography-1-dark  Texto desabilitado"
         },
