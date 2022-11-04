@@ -2,15 +2,15 @@
   "role": {
     "brand": {
       "primary-1": {
-        "value": "#8179E2",
+        "value": "#333333",
         "type": "color"
       },
-      "primary-2": {
-        "value": "#ACA9C9",
+      "secondary-1": {
+        "value": "#EAEEDC",
         "type": "color"
       },
-      "primary-3": {
-        "value": "#4C487E",
+      "secondary-2": {
+        "value": "#F2FBFF",
         "type": "color"
       }
     },
@@ -654,7 +654,7 @@
         "description": "Cor para link primário em links primários em menus, headers, e componentes principais"
       },
       "primary-visited": {
-        "value": "{role.brand.primary-3}",
+        "value": "{role.brand.secondary-1}",
         "type": "color",
         "description": "Links visitados Estado Ativo"
       },
@@ -674,7 +674,7 @@
         "description": "Cor para link no estado hover secundário"
       },
       "secondary-visited": {
-        "value": "{role.brand.primary-3}",
+        "value": "{role.brand.secondary-1}",
         "type": "color",
         "description": "Links visitados Estado Ativo"
       },
@@ -764,15 +764,15 @@
   },
   "font-family": {
     "primary": {
-      "value": "Roboto",
+      "value": "GalanoGrotesque-Regular",
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "Roboto",
+      "value": "GalanoGrotesque-Regular",
       "type": "fontFamilies"
     },
     "terciary": {
-      "value": "Roboto",
+      "value": "GalanoGrotesque-Regular",
       "type": "fontFamilies"
     }
   },

@@ -663,7 +663,7 @@
         "description": "Cor para link primário em links primários em menus, headers, e componentes principais"
       },
       "primary-visited": {
-        "value": "{role.brand.primary-3}",
+        "value": "{role.brand.secondary-1}",
         "type": "color",
         "description": "Links visitados Estado Ativo"
       },
@@ -683,7 +683,7 @@
         "description": "Cor para link no estado hover secundário"
       },
       "secondary-visited": {
-        "value": "{role.brand.primary-3}",
+        "value": "{role.brand.secondary-1}",
         "type": "color",
         "description": "Links visitados Estado Ativo"
       },
