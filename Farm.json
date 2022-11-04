@@ -2,15 +2,15 @@
   "role": {
     "brand": {
       "primary-1": {
-        "value": "#333333",
+        "value": "#8179E2",
         "type": "color"
       },
-      "secondary-1": {
-        "value": "#EAEEDC",
+      "primary-2": {
+        "value": "#ACA9C9",
         "type": "color"
       },
-      "secondary-2": {
-        "value": "#F2FBFF",
+      "primary-3": {
+        "value": "#4C487E",
         "type": "color"
       }
     },
@@ -654,7 +654,7 @@
         "description": "Cor para link primário em links primários em menus, headers, e componentes principais"
       },
       "primary-visited": {
-        "value": "{role.brand.secondary-1}",
+        "value": "{role.brand.primary-3}",
         "type": "color",
         "description": "Links visitados Estado Ativo"
       },
@@ -674,7 +674,7 @@
         "description": "Cor para link no estado hover secundário"
       },
       "secondary-visited": {
-        "value": "{role.brand.secondary-1}",
+        "value": "{role.brand.primary-3}",
         "type": "color",
         "description": "Links visitados Estado Ativo"
       },
@@ -764,15 +764,15 @@
   },
   "font-family": {
     "primary": {
-      "value": "GalanoGrotesque-Regular",
+      "value": "Roboto",
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "GalanoGrotesque-Regular",
+      "value": "Roboto",
       "type": "fontFamilies"
     },
     "terciary": {
-      "value": "GalanoGrotesque-Regular",
+      "value": "Roboto",
       "type": "fontFamilies"
     }
   },
@@ -1170,6 +1170,10 @@
       "value": "24",
       "type": "borderRadius",
       "description": "border radius large"
+    },
+    "pill": {
+      "value": "500",
+      "type": "borderRadius"
     }
   },
   "border-width": {
