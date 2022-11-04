@@ -867,19 +867,19 @@
       "type": "lineHeights"
     },
     "sm": {
-      "value": "140%",
+      "value": "72",
       "type": "lineHeights"
     },
     "md": {
-      "value": "150%",
+      "value": "80",
       "type": "lineHeights"
     },
     "lg": {
-      "value": "160%",
+      "value": "88",
       "type": "lineHeights"
     },
     "xl": {
-      "value": "170%",
+      "value": "94",
       "type": "lineHeights"
     },
     "xxl": {
@@ -887,11 +887,11 @@
       "type": "lineHeights"
     },
     "xxxl": {
-      "value": "190%",
+      "value": "100",
       "type": "lineHeights"
     },
     "ul": {
-      "value": "200%",
+      "value": "110",
       "type": "lineHeights"
     }
   },
