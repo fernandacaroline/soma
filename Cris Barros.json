@@ -1158,23 +1158,19 @@
       "description": "border radius default"
     },
     "sm": {
-      "value": "0",
+      "value": "4",
       "type": "borderRadius",
       "description": "border radius small"
     },
     "md": {
-      "value": "0",
+      "value": "8",
       "type": "borderRadius",
       "description": "border radius medium"
     },
     "lg": {
-      "value": "0",
+      "value": "24",
       "type": "borderRadius",
       "description": "border radius large"
-    },
-    "pill": {
-      "value": "0",
-      "type": "borderRadius"
     }
   },
   "border-width": {
