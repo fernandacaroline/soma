@@ -1171,6 +1171,10 @@
       "value": "24",
       "type": "borderRadius",
       "description": "border radius large"
+    },
+    "pill": {
+      "value": "500",
+      "type": "borderRadius"
     }
   },
   "border-width": {
