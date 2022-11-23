@@ -3,7 +3,8 @@
     "id": "fab4dca30de83df589e524f0e26059be9b5a703a",
     "name": "Global Light",
     "selectedTokenSets": {
-      "Global": "enabled"
+      "Global": "enabled",
+      "Farm": "disabled"
     },
     "$figmaStyleReferences": {
       "display.display-medium": "S:1eab7fbf93443110e66f176b128d89eb0a0d9bc1,",
@@ -373,7 +374,8 @@
     "id": "3a04511f0a8c673d7d37dbbf1cbf5bd15b09cff2",
     "name": "Cris Barros Light",
     "selectedTokenSets": {
-      "Cris Barros": "enabled"
+      "Cris Barros": "enabled",
+      "Farm": "disabled"
     },
     "$figmaStyleReferences": {
       "display.display-medium": "S:b2fec54221112bff79635e4122a5de56005de82e,",
@@ -656,7 +658,8 @@
     "name": "Farm",
     "selectedTokenSets": {
       "Cris Barros": "disabled",
-      "Global": "disabled"
+      "Global": "disabled",
+      "Farm": "disabled"
     },
     "$figmaStyleReferences": {
       "color.action.container.primary": "S:9c79e4e8cb66677d836b2ddd8163d8d79ffa4bbb,",
