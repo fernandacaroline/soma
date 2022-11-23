@@ -2,19 +2,15 @@
   "role": {
     "brand": {
       "primary-1": {
-        "value": "#8179E2",
+        "value": "#333333",
         "type": "color"
       },
-      "primary-2": {
-        "value": "#ACA9C9",
+      "secondary-1": {
+        "value": "#EAEEDC",
         "type": "color"
       },
-      "primary-3": {
-        "value": "#4C487E",
-        "type": "color"
-      },
-      "primary-4": {
-        "value": "#E3E2ED",
+      "secondary-2": {
+        "value": "#F2FBFF",
         "type": "color"
       }
     },
@@ -24,89 +20,49 @@
         "type": "color"
       },
       "light-3": {
-        "value": "#D6D6D6",
+        "value": "#E5E5E5",
         "type": "color"
       },
       "light-4": {
         "value": "#BDBDBD",
         "type": "color"
       },
-      "light-5": {
-        "value": "#a7a7a7",
-        "type": "color"
-      },
       "dark-1": {
-        "value": "#171717",
+        "value": "#333333",
         "type": "color"
       },
       "dark-2": {
-        "value": "#545454",
-        "type": "color"
-      },
-      "dark-3": {
-        "value": "#7d7d7d",
-        "type": "color"
-      },
-      "dark-4": {
-        "value": "#a5a5a5",
+        "value": "#999999",
         "type": "color"
       },
       "light-2": {
-        "value": "#eaeaea",
-        "type": "color"
-      },
-      "dark-5": {
-        "value": "#7B7B7B",
+        "value": "#f5f5f5",
         "type": "color"
       }
     },
     "feedback": {
       "negative-1": {
-        "value": "#C52518",
+        "value": "#FE6F66",
         "type": "color"
       },
       "negative-2": {
-        "value": "#A03127",
+        "value": "#F94F44",
         "type": "color"
       },
       "negative-3": {
-        "value": "#4E1813",
+        "value": "#FFF3F2",
         "type": "color"
       },
       "positive-1": {
-        "value": "#148A6A",
+        "value": "#23A484",
         "type": "color"
       },
       "positive-2": {
-        "value": "#28CEA1",
+        "value": "#138267",
         "type": "color"
       },
       "positive-3": {
-        "value": "#09644B",
-        "type": "color"
-      },
-      "warning-1": {
-        "value": "#FCDA4D",
-        "type": "color"
-      },
-      "warning-2": {
-        "value": "#CBB144",
-        "type": "color"
-      },
-      "warning-3": {
-        "value": "#9E8418",
-        "type": "color"
-      },
-      "information-1": {
-        "value": "#2989CF",
-        "type": "color"
-      },
-      "information-2": {
-        "value": "#61AADE",
-        "type": "color"
-      },
-      "information-3": {
-        "value": "#2989CF",
+        "value": "#F1FcF9",
         "type": "color"
       }
     }
@@ -773,15 +729,15 @@
   },
   "font-family": {
     "primary": {
-      "value": "Roboto",
+      "value": "GalanoGrotesque-Regular",
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "Roboto",
+      "value": "GalanoGrotesque-Regular",
       "type": "fontFamilies"
     },
     "terciary": {
-      "value": "Roboto",
+      "value": "GalanoGrotesque-Regular",
       "type": "fontFamilies"
     }
   },
@@ -922,7 +878,7 @@
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{weight.regular}",
           "lineHeight": "{line-height.xxs}",
-          "fontSize": "{font-size.xxl}",
+          "fontSize": "{font-size.xl}",
           "letterSpacing": "{letter-spacing.default}",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
@@ -952,9 +908,9 @@
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{weight.regular}",
           "lineHeight": "{line-height.us}",
-          "fontSize": "{font-size.lg}",
+          "fontSize": "{font-size.xl}",
           "letterSpacing": "{letter-spacing.default}",
-          "paragraphSpacing": " {paragraph-spacing.default}",
+          "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
           "textCase": "{text-case.default}",
           "textDecoration": "{text-decoration.none}"
@@ -967,9 +923,9 @@
       "large": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{weight.bold}",
+          "fontWeight": "{weight.regular}",
           "lineHeight": "{line-height.us}",
-          "fontSize": "{font-size.md}",
+          "fontSize": "{font-size.xl}",
           "letterSpacing": "{letter-spacing.default}",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
@@ -982,11 +938,11 @@
       "medium": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{weight.light}",
+          "fontWeight": "{weight.regular}",
           "lineHeight": "{line-height.us}",
-          "fontSize": "{font-size.md}",
+          "fontSize": "{font-size.lg}",
           "letterSpacing": "{letter-spacing.default}",
-          "paragraphSpacing": " {paragraph-spacing.default}",
+          "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
           "textCase": "{text-case.default}",
           "textDecoration": "{text-decoration.none}"
@@ -997,11 +953,11 @@
       "small": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{weight.bold}",
+          "fontWeight": "{weight.regular}",
           "lineHeight": "{line-height.us}",
-          "fontSize": "{font-size.xs}",
+          "fontSize": "{font-size.md}",
           "letterSpacing": "{letter-spacing.default}",
-          "paragraphSpacing": " {paragraph-spacing.default}",
+          "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
           "textCase": "{text-case.default}",
           "textDecoration": "{text-decoration.none}"
@@ -1014,9 +970,9 @@
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{weight.regular}",
           "lineHeight": "{line-height.us}",
-          "fontSize": "{font-size.xs}",
+          "fontSize": "{font-size.md}",
           "letterSpacing": "{letter-spacing.default}",
-          "paragraphSpacing": " {paragraph-spacing.default}",
+          "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
           "textCase": "{text-case.default}",
           "textDecoration": "{text-decoration.none}"
@@ -1029,7 +985,7 @@
       "medium": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{weight.medium}",
+          "fontWeight": "{weight.regular}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.us}",
           "letterSpacing": "{letter-spacing.default}",
@@ -1044,11 +1000,11 @@
       "small": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{weight.medium}",
+          "fontWeight": "{weight.regular}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.xus}",
           "letterSpacing": "{letter-spacing.default}",
-          "paragraphSpacing": " {paragraph-spacing.default}",
+          "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
           "textCase": "{text-case.uppercase}",
           "textDecoration": "{text-decoration.none}"
@@ -1061,11 +1017,11 @@
       "title": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{weight.bold}",
+          "fontWeight": "{weight.regular}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.xxs}",
           "letterSpacing": "{letter-spacing.default}",
-          "paragraphSpacing": " {paragraph-spacing.default}",
+          "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
           "textCase": "{text-case.default}",
           "textDecoration": "{text-decoration.none}"
@@ -1137,7 +1093,7 @@
   },
   "text-case": {
     "default": {
-      "value": "none",
+      "value": "lowercase",
       "type": "textCase"
     },
     "uppercase": {
@@ -1161,7 +1117,7 @@
   },
   "border-radius": {
     "default": {
-      "value": "0",
+      "value": "500",
       "type": "borderRadius",
       "description": "border radius default"
     },
@@ -1176,7 +1132,7 @@
       "description": "border radius medium"
     },
     "lg": {
-      "value": "24",
+      "value": "16",
       "type": "borderRadius",
       "description": "border radius large"
     },
