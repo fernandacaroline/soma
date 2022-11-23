@@ -392,7 +392,7 @@
           "description": "Bordas no modo inverso"
         },
         "card": {
-          "value": "{role.neutral.dark-3}",
+          "value": "{role.neutral.dark-1}",
           "type": "color",
           "description": "Token para componentes que atuam como cards com conteúdo interno modo inverso"
         },
@@ -402,7 +402,7 @@
           "description": "Borda com cor de destaque"
         },
         "subtle": {
-          "value": "{role.neutral.dark-4}",
+          "value": "{role.neutral.dark-2}",
           "type": "color",
           "description": "Token para linhas divisórias entre categorias, filtros e colunas."
         },
@@ -417,7 +417,7 @@
           "description": "Token para bordas e linhas padrões usado nos principais componentes no estado hover modo inverso"
         },
         "disabled": {
-          "value": "{role.neutral.dark-5}",
+          "value": "{role.neutral.dark-2}",
           "type": "color",
           "description": "Bordas e linhas em componentes desabilitados modo inverso"
         }
