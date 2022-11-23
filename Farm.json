@@ -76,12 +76,12 @@
           "description": "Cor de fundo primária"
         },
         "primary-hover": {
-          "value": "{role.brand.primary-2}",
+          "value": "{role.neutral.light-1}",
           "type": "color",
           "description": "Cor de fundo primária estado hover"
         },
         "primary-active": {
-          "value": "{role.brand.primary-2}",
+          "value": "{role.neutral.light-2}",
           "type": "color",
           "description": "Cor de fundo primária estado ativo"
         },
@@ -91,12 +91,12 @@
           "description": "Cor de fundo secundária "
         },
         "secondary-hover": {
-          "value": "{role.neutral.light-3}",
+          "value": "{role.brand.primary-1}",
           "type": "color",
           "description": "Cor de fundo secundária estado hover"
         },
         "secondary-active": {
-          "value": "{role.brand.primary-1}",
+          "value": "{role.neutral.light-1}",
           "type": "color",
           "description": "Cor de fundo secundária  estado ativo"
         },
@@ -106,7 +106,7 @@
           "description": "toggle, check-box e radio-button"
         },
         "disabled": {
-          "value": "{role.neutral.light-2}",
+          "value": "{role.neutral.light-3}",
           "type": "color",
           "description": "Cor de fundo desabilitado"
         }
@@ -118,17 +118,17 @@
           "description": "textos e ícones usados nos componentes de ação estado default primário"
         },
         "primary-hover": {
-          "value": "{role.neutral.light-1}",
+          "value": "{role.neutral.dark-1}",
           "type": "color",
           "description": "textos e ícones usados nos componentes de ação estado hover primário"
         },
         "primary-active": {
-          "value": "{role.neutral.light-1}",
+          "value": "{role.neutral.dark-1}",
           "type": "color",
           "description": "textos e ícones usados nos componentes de ação estado ativo primário"
         },
         "primary-disabled": {
-          "value": "{role.neutral.dark-3}",
+          "value": "{role.neutral.dark-2}",
           "type": "color",
           "description": "textos e ícones usados nos componentes de ação no estado desabilitado primário"
         },
@@ -138,17 +138,17 @@
           "description": "textos e ícones usados nos componentes de ação no estado default secundário"
         },
         "secondary-hover": {
-          "value": "{role.neutral.dark-1}",
+          "value": "{role.neutral.light-1}",
           "type": "color",
           "description": "textos e ícones usados nos componentes de ação no estado hover secundário"
         },
         "secondary-active": {
-          "value": "{role.neutral.light-1}",
+          "value": "{role.neutral.dark-1}",
           "type": "color",
           "description": "textos e ícones usados nos componentes de ação no estado ativo secundário"
         },
         "secondary-disabled": {
-          "value": "{role.neutral.dark-3}",
+          "value": "{role.neutral.dark-2}",
           "type": "color",
           "description": "textos e ícones usados nos componentes de ação no estado desabilitado secundário"
         },
@@ -166,12 +166,12 @@
             "description": "Cor de fundo primária"
           },
           "primary-hover": {
-            "value": "{role.neutral.light-3}",
+            "value": "{role.neutral.dark-1}",
             "type": "color",
             "description": "Cor de fundo primária estado hover"
           },
           "primary-active": {
-            "value": "{role.neutral.light-4}",
+            "value": "{role.neutral.dark-1}",
             "type": "color",
             "description": "Cor de fundo primária estado ativo"
           },
@@ -181,12 +181,12 @@
             "description": "Cor de fundo secundária"
           },
           "secondary-hover": {
-            "value": "{role.neutral.dark-3}",
+            "value": "{role.neutral.light-1}",
             "type": "color",
             "description": "Cor de fundo secundária estado hover"
           },
           "secondary-active": {
-            "value": "{role.neutral.dark-2}",
+            "value": "{role.neutral.dark-1}",
             "type": "color",
             "description": "Cor de fundo secundária  estado ativo"
           },
@@ -196,7 +196,7 @@
             "description": "Para componentes com versões habilitadas e desabilitadas Checkbox Radio Button Toggle"
           },
           "disabled": {
-            "value": "{role.neutral.light-4}",
+            "value": "{role.neutral.dark-2}",
             "type": "color",
             "description": "Cor de fundo desabilitado"
           }
@@ -207,19 +207,19 @@
             "type": "color"
           },
           "primary-hover": {
-            "value": "{role.neutral.dark-1}",
+            "value": "{role.neutral.light-1}",
             "type": "color"
           },
           "primary-active": {
-            "value": "{role.neutral.dark-1}",
+            "value": "{role.neutral.light-1}",
             "type": "color"
           },
           "primary-disabled": {
-            "value": "{role.neutral.dark-3}",
+            "value": "{role.neutral.light-1}",
             "type": "color"
           },
           "secondary": {
-            "value": "{role.neutral.light-1}",
+            "value": "{role.neutral.dark-1}",
             "type": "color"
           },
           "secondary-hover": {
@@ -227,15 +227,15 @@
             "type": "color"
           },
           "secondary-active": {
-            "value": "{role.neutral.light-1}",
+            "value": "{role.neutral.dark-1}",
             "type": "color"
           },
           "secondary-disabled": {
-            "value": "{role.neutral.dark-3}",
+            "value": "{role.neutral.dark-1}",
             "type": "color"
           },
           "checked": {
-            "value": "{role.neutral.light-1}",
+            "value": "{role.neutral.dark-1}",
             "type": "color"
           }
         }
@@ -263,12 +263,12 @@
         "description": "Preço com desconto"
       },
       "support": {
-        "value": "{role.neutral.dark-5}",
+        "value": "{role.neutral.dark-2}",
         "type": "color",
         "description": "Placeholder Legendas Frases de suporte sem destaque"
       },
       "disabled": {
-        "value": "{role.neutral.dark-5}",
+        "value": "{role.neutral.dark-2}",
         "type": "color",
         "description": "color-typography-1-dark  Texto desabilitado"
       },
@@ -322,7 +322,7 @@
         "description": "Ícones em destaque"
       },
       "disabled": {
-        "value": "{role.neutral.dark-5}",
+        "value": "{role.neutral.dark-2}",
         "type": "color",
         "description": "Ícone desabilitado"
       },
@@ -343,7 +343,7 @@
           "description": "Ícones em destaque modo inverso"
         },
         "disabled": {
-          "value": "{role.neutral.light-5}",
+          "value": "{role.neutral.dark-1}",
           "type": "color",
           "description": "Ícone desabilitado modo inverso"
         }
@@ -387,7 +387,7 @@
       },
       "inverse": {
         "default": {
-          "value": "{role.neutral.light-5}",
+          "value": "{role.neutral.dark-1}",
           "type": "color",
           "description": "Bordas no modo inverso"
         },
@@ -482,23 +482,23 @@
       },
       "warning": {
         "container": {
-          "value": "{role.feedback.warning-1}",
+          "value": "{role.feedback.negative-1}",
           "type": "color",
           "description": "color-warning-pure  Atenção Cuidado"
         },
         "text": {
-          "value": "{role.feedback.warning-1}",
+          "value": "{role.feedback.negative-1}",
           "type": "color",
           "description": "Atenção On para textos"
         }
       },
       "info": {
         "container": {
-          "value": "{role.feedback.information-1}",
+          "value": "{role.brand.primary-1}",
           "type": "color"
         },
         "text": {
-          "value": "{role.feedback.information-1}",
+          "value": "{role.brand.primary-1}",
           "type": "color"
         }
       },
@@ -561,23 +561,22 @@
         },
         "warning": {
           "container": {
-            "value": "{role.feedback.warning-1}",
+            "value": "{role.feedback.negative-1}",
             "type": "color",
             "description": "color-warning-light  Atenção Cuidado"
           },
           "text": {
-            "value": "{role.feedback.warning-1}",
-            "type": "color",
-            "description": ""
+            "value": "{role.feedback.negative-1}",
+            "type": "color"
           }
         },
         "info": {
           "container": {
-            "value": "{role.feedback.information-1}",
+            "value": "{role.neutral.light-1}",
             "type": "color"
           },
           "text": {
-            "value": "{role.feedback.information-1}",
+            "value": "{role.neutral.light-1}",
             "type": "color"
           }
         }
@@ -595,7 +594,7 @@
         "description": "brand-primary-1  Cor de fundo de recurso para uso da marca"
       },
       "overlay": {
-        "value": "{role.neutral.dark-4}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "opacity-intense  Fundos Overlay"
       },
@@ -607,7 +606,7 @@
         }
       },
       "brand-2": {
-        "value": "{role.brand.primary-4}",
+        "value": "{role.neutral.light-3}",
         "type": "color",
         "description": "Fundos de seções (footer)"
       }
@@ -619,12 +618,12 @@
         "description": "Cor para link primário em links primários em menus, headers, e componentes principais"
       },
       "primary-visited": {
-        "value": "{role.brand.primary-2}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Links visitados Estado Ativo"
       },
       "primary-hover": {
-        "value": "{role.brand.primary-2}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Cor para link no estado hover"
       },
@@ -634,7 +633,7 @@
         "description": "Cor para link secundário em corpos de texto com destaque"
       },
       "secondary-hover": {
-        "value": "{role.brand.primary-2}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Cor para link no estado hover secundário"
       },
@@ -650,27 +649,27 @@
           "description": "Cor para link default modo inverso"
         },
         "primary-hover": {
-          "value": "{role.brand.primary-2}",
+          "value": "{role.neutral.light-1}",
           "type": "color",
           "description": "Cor para link no estado hover modo inverso"
         },
         "primary-visited": {
-          "value": "{role.brand.primary-2}",
+          "value": "{role.neutral.light-1}",
           "type": "color",
           "description": "Links visitados Estado Ativo Modo inverso"
         },
         "secondary": {
-          "value": "{role.brand.primary-1}",
+          "value": "{role.neutral.light-1}",
           "type": "color",
           "description": "Cor para link secundário em corpos de texto com destaque modo inverso"
         },
         "secondary-hover": {
-          "value": "{role.brand.primary-2}",
+          "value": "{role.neutral.light-1}",
           "type": "color",
           "description": "Cor para link no estado hover modo inverso"
         },
         "secondary-visited": {
-          "value": "{role.brand.primary-2}",
+          "value": "{role.neutral.light-1}",
           "type": "color",
           "description": "Links visitados Estado Ativo Modo inverso"
         }
