@@ -133,7 +133,7 @@
           "description": "textos e ícones usados nos componentes de ação no estado desabilitado primário"
         },
         "secondary": {
-          "value": "{role.neutral.light-1}",
+          "value": "{role.neutral.dark-1}",
           "type": "color",
           "description": "textos e ícones usados nos componentes de ação no estado default secundário"
         },
@@ -143,7 +143,7 @@
           "description": "textos e ícones usados nos componentes de ação no estado hover secundário"
         },
         "secondary-active": {
-          "value": "{role.neutral.light-1}",
+          "value": "{role.neutral.dark-1}",
           "type": "color",
           "description": "textos e ícones usados nos componentes de ação no estado ativo secundário"
         },
@@ -181,7 +181,7 @@
             "description": "Cor de fundo secundária"
           },
           "secondary-hover": {
-            "value": "{role.neutral.light-1}",
+            "value": "{role.neutral.dark-1}",
             "type": "color",
             "description": "Cor de fundo secundária estado hover"
           },
