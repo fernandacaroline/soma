@@ -138,7 +138,7 @@
           "description": "textos e ícones usados nos componentes de ação no estado default secundário"
         },
         "secondary-hover": {
-          "value": "{role.neutral.dark-1}",
+          "value": "{role.neutral.light-1}",
           "type": "color",
           "description": "textos e ícones usados nos componentes de ação no estado hover secundário"
         },
