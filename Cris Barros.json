@@ -412,7 +412,7 @@
         "description": "Token para bordas e linhas padrões usado nos principais componentes no estado hover"
       },
       "active": {
-        "value": "{role.neutral.dark-2}",
+        "value": "{role.neutral.dark-1}",
         "type": "color",
         "description": "Token para bordas e linhas padrões usado nos principais componentes no estado ativo"
       },
