@@ -4,7 +4,8 @@
     "name": "Global Light",
     "selectedTokenSets": {
       "Global": "enabled",
-      "Farm": "disabled"
+      "Farm": "disabled",
+      "Fábula": "disabled"
     },
     "$figmaStyleReferences": {
       "display.display-medium": "S:1eab7fbf93443110e66f176b128d89eb0a0d9bc1,",
@@ -375,7 +376,8 @@
     "name": "Cris Barros Light",
     "selectedTokenSets": {
       "Cris Barros": "enabled",
-      "Farm": "disabled"
+      "Farm": "disabled",
+      "Fábula": "disabled"
     },
     "$figmaStyleReferences": {
       "display.display-medium": "S:b2fec54221112bff79635e4122a5de56005de82e,",
@@ -659,7 +661,8 @@
     "selectedTokenSets": {
       "Cris Barros": "disabled",
       "Global": "disabled",
-      "Farm": "enabled"
+      "Farm": "enabled",
+      "Fábula": "disabled"
     },
     "$figmaStyleReferences": {
       "color.action.container.primary": "S:bf49e4bad3a8fdf53ee05c5522078bea8496b183,",

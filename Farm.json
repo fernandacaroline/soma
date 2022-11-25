@@ -1317,5 +1317,63 @@
       "value": "80",
       "type": "spacing"
     }
+  },
+  "product": {
+    "principal-1": {
+      "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2882620-708-1062/309683_19994_1-VESTIDO-TULE-FENDA-PEGANDO-FOGO.jpg?v=637989439615830000",
+      "type": "asset"
+    },
+    "principal-2": {
+      "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2882640-708-1062/309683_19994_2-VESTIDO-TULE-FENDA-PEGANDO-FOGO.jpg?v=637989439762470000",
+      "type": "asset"
+    },
+    "principal-3": {
+      "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2882660-1350-2025/309683_19994_3-VESTIDO-TULE-FENDA-PEGANDO-FOGO.jpg?v=637989439930470000",
+      "type": "asset"
+    },
+    "principal-4": {
+      "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2882682-708-1062/309683_19994_5-VESTIDO-TULE-FENDA-PEGANDO-FOGO.jpg?v=637989440113400000",
+      "type": "asset"
+    },
+    "card-1": {
+      "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2867358-708-1062/304778_19292_1-VESTIDO-LONGO-ESTAMPADO-DINAMARCA.jpg?v=637973884482500000",
+      "type": "asset"
+    },
+    "card-2": {
+      "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2865043-708-1062/304977_19515_1-VESTIDO-MIDI-ESTAMPADO-JARDINEIRA.jpg?v=637968538768730000",
+      "type": "asset"
+    },
+    "card-3": {
+      "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2870613-708-1062/304481_01014_1-VESTIDO-MIDI-BOTOES-COM-MANGA.jpg?v=637977492728900000",
+      "type": "asset"
+    },
+    "card-4": {
+      "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2890614-708-1062/308354_19994_1-VESTIDO-CURTO-ESTAMPADO-SOL-DE-VERAO.jpg?v=638005946268930000",
+      "type": "asset"
+    },
+    "card-5": {
+      "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2913916-708-1062/308133_19966_1-VESTIDO-MIDI-ESTAMPADO-PRAIA-DIVERTIDA.jpg?v=638034682283530000",
+      "type": "asset"
+    },
+    "card-6": {
+      "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2828223-708-1062/304433_01014_1-VESTIDO-CURTO-COM-MANGA-E-LASTEX.jpg?v=637940934938630000",
+      "type": "asset"
+    },
+    "card-7": {
+      "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2873112-708-1062/304801_19274_1-VESTIDO-CROPPED-ESTAMPADO-NO-MEU-JARDIM.jpg?v=637982226695870000",
+      "type": "asset"
+    },
+    "card-8": {
+      "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2845030-708-1062/305593_0024_1-VESTIDO-CROPPED-MIX-LAISE.jpg?v=637945516001030000",
+      "type": "asset"
+    },
+    "card-9": {
+      "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2376217-708-1062/287540_8235_1-VESTIDO-CROPPED-LAISE.jpg?v=637418700405700000",
+      "type": "asset"
+    },
+    "card-10": {
+      "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2892950-708-1062/307869_19899_1-VESTIDO-CURTO-ESTAMPADO-BRISA-DE-VERAO.jpg?v=638006846134330000",
+      "type": "asset"
+    }
   }
 }
