@@ -1116,7 +1116,7 @@
   },
   "border-radius": {
     "default": {
-      "value": "8",
+      "value": "16",
       "type": "borderRadius",
       "description": "border radius default"
     },
