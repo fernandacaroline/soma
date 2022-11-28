@@ -1328,7 +1328,7 @@
       "type": "asset"
     },
     "principal-3": {
-      "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2882660-1350-2025/309683_19994_3-VESTIDO-TULE-FENDA-PEGANDO-FOGO.jpg?v=637989439930470000",
+      "value": "https://lojafabula.vteximg.com.br/arquivos/ids/625391-799-1000/513855_20385_1-SHORT-SAIA-SITIO.jpg?v=638042105702830000",
       "type": "asset"
     },
     "principal-4": {
@@ -1344,7 +1344,7 @@
       "type": "asset"
     },
     "card-3": {
-      "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2870613-708-1062/304481_01014_1-VESTIDO-MIDI-BOTOES-COM-MANGA.jpg?v=637977492728900000",
+      "value": "https://lojafabula.vteximg.com.br/arquivos/ids/625391-799-1000/513855_20385_1-SHORT-SAIA-SITIO.jpg?v=638042105702830000",
       "type": "asset"
     },
     "card-4": {
@@ -1356,7 +1356,7 @@
       "type": "asset"
     },
     "card-6": {
-      "value": "https://lojafabula.vteximg.com.br/arquivos/ids/626069-700-910/513857_20383_2-VESTIDO-GATOMIA.jpg?v=638048305570900000",
+      "value": "https://lojafabula.vteximg.com.br/arquivos/ids/625331-799-1000/513853_20381_1-SHORT-SAIA-BOLONCA.jpg?v=638042104623330000",
       "type": "asset"
     },
     "card-7": {
@@ -1364,7 +1364,7 @@
       "type": "asset"
     },
     "card-8": {
-      "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2845030-708-1062/305593_0024_1-VESTIDO-CROPPED-MIX-LAISE.jpg?v=637945516001030000",
+      "value": "https://lojafabula.vteximg.com.br/arquivos/ids/626091-799-1000/513897_14013_1-BLUSA-CHAMEGO.jpg?v=638048305754370000",
       "type": "asset"
     },
     "card-9": {
@@ -1378,7 +1378,7 @@
   },
   "brand": {
     "logo": {
-      "value": "https://github.com/fernandacaroline/soma/blob/main/color=dark,%20type=svg,%20Brand=Fa%CC%81bula.png?raw=true",
+      "value": "https://raw.githubusercontent.com/fernandacaroline/soma/main/color%3Ddark%2C%20type%3Dsvg%2C%20Brand%3DFa%CC%81bula.png",
       "type": "asset"
     }
   }

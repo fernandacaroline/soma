@@ -1415,7 +1415,7 @@
   },
   "brand": {
     "logo": {
-      "value": "https://github.com/fernandacaroline/soma/blob/main/color=dark,%20type=svg,%20Brand=CrisBarros.png?raw=true",
+      "value": "https://raw.githubusercontent.com/fernandacaroline/soma/main/color%3Ddark%2C%20type%3Dsvg%2C%20Brand%3DCrisBarros.png",
       "type": "asset"
     }
   }
