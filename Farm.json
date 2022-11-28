@@ -1375,5 +1375,11 @@
       "value": "https://lojafarm.vteximg.com.br/arquivos/ids/2892950-708-1062/307869_19899_1-VESTIDO-CURTO-ESTAMPADO-BRISA-DE-VERAO.jpg?v=638006846134330000",
       "type": "asset"
     }
+  },
+  "brand": {
+    "logo": {
+      "value": "https://github.com/fernandacaroline/soma/blob/main/color=dark,%20type=svg,%20Brand=Farm.png?raw=true",
+      "type": "asset"
+    }
   }
 }

@@ -1375,5 +1375,11 @@
       "value": "https://lojafabula.vteximg.com.br/arquivos/ids/625309-799-1000/513851_20382_1-SHORT-MALHA-GATOMIA.jpg?v=638042104199500000",
       "type": "asset"
     }
+  },
+  "brand": {
+    "logo": {
+      "value": "https://github.com/fernandacaroline/soma/blob/main/color=dark,%20type=svg,%20Brand=Fa%CC%81bula.png?raw=true",
+      "type": "asset"
+    }
   }
 }

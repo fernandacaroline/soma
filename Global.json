@@ -1362,5 +1362,11 @@
       "value": "80",
       "type": "spacing"
     }
+  },
+  "brand": {
+    "logo": {
+      "value": "https://github.com/fernandacaroline/soma/blob/main/color=dark,%20type=svg,%20Brand=Soma.png?raw=true",
+      "type": "asset"
+    }
   }
 }

@@ -1412,5 +1412,11 @@
       "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/419995-1400-2100/34VE684TA_0227_1-VESTIDO.jpg?v=637955180167170000",
       "type": "asset"
     }
+  },
+  "brand": {
+    "logo": {
+      "value": "https://github.com/fernandacaroline/soma/blob/main/color=dark,%20type=svg,%20Brand=CrisBarros.png?raw=true",
+      "type": "asset"
+    }
   }
 }
