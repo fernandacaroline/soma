@@ -728,15 +728,15 @@
   },
   "font-family": {
     "primary": {
-      "value": "GalanoGrotesque-Regular",
+      "value": "Hero New",
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "GalanoGrotesque-Regular",
+      "value": "Hero New",
       "type": "fontFamilies"
     },
     "terciary": {
-      "value": "GalanoGrotesque-Regular",
+      "value": "Hero New",
       "type": "fontFamilies"
     }
   },
@@ -952,7 +952,7 @@
       "small": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{weight.regular}",
+          "fontWeight": "{weight.bold}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.md}",
           "letterSpacing": "{letter-spacing.default}",
