@@ -588,6 +588,11 @@
         "type": "color",
         "description": "neutral-light-1  Plano de fundo da página padrão"
       },
+      "brand-2": {
+        "value": "{role.neutral.light-3}",
+        "type": "color",
+        "description": "Fundos de seções (footer)"
+      },
       "brand": {
         "value": "{role.brand.primary-1}",
         "type": "color",
@@ -604,11 +609,6 @@
           "type": "color",
           "description": "Fundos de alto contraste"
         }
-      },
-      "brand-2": {
-        "value": "{role.neutral.light-3}",
-        "type": "color",
-        "description": "Fundos de seções (footer)"
       }
     },
     "link": {
