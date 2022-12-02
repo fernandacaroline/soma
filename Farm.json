@@ -6,7 +6,7 @@
         "type": "color"
       },
       "secondary-1": {
-        "value": "#EAEEDC",
+        "value": "#FFF8E6",
         "type": "color"
       },
       "secondary-2": {
@@ -606,7 +606,7 @@
         }
       },
       "brand-2": {
-        "value": "{role.neutral.light-3}",
+        "value": "{role.brand.secondary-1}",
         "type": "color",
         "description": "Fundos de seções (footer)"
       }
