@@ -5,7 +5,9 @@
     "selectedTokenSets": {
       "Global": "enabled",
       "Farm": "disabled",
-      "Fabula": "disabled"
+      "Fabula": "disabled",
+      "Maria Filo": "disabled",
+      "Foxton": "disabled"
     },
     "$figmaStyleReferences": {
       "display.display-medium": "S:1eab7fbf93443110e66f176b128d89eb0a0d9bc1,",
@@ -377,7 +379,9 @@
     "selectedTokenSets": {
       "Cris Barros": "enabled",
       "Farm": "disabled",
-      "Fabula": "disabled"
+      "Fabula": "disabled",
+      "Maria Filo": "disabled",
+      "Foxton": "disabled"
     },
     "$figmaStyleReferences": {
       "display.display-medium": "S:b2fec54221112bff79635e4122a5de56005de82e,",
@@ -662,7 +666,9 @@
       "Cris Barros": "disabled",
       "Global": "disabled",
       "Farm": "disabled",
-      "Fabula": "enabled"
+      "Fabula": "enabled",
+      "Maria Filo": "disabled",
+      "Foxton": "disabled"
     },
     "$figmaStyleReferences": {
       "typestyle.display.large": "S:35c5a8c8779ca4611451d7856ae212849fecd2a8,",
@@ -807,7 +813,9 @@
       "Cris Barros": "disabled",
       "Global": "disabled",
       "Farm": "enabled",
-      "Fabula": "disabled"
+      "Fabula": "disabled",
+      "Maria Filo": "disabled",
+      "Foxton": "disabled"
     },
     "$figmaStyleReferences": {
       "color.action.container.primary": "S:bf49e4bad3a8fdf53ee05c5522078bea8496b183,",
