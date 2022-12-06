@@ -3,12 +3,7 @@
     "id": "fab4dca30de83df589e524f0e26059be9b5a703a",
     "name": "Global Light",
     "selectedTokenSets": {
-      "Global": "enabled",
-      "Farm": "disabled",
-      "Fabula": "disabled",
-      "Maria Filo": "disabled",
-      "Foxton": "disabled",
-      "Animale": "disabled"
+      "Global": "enabled"
     },
     "$figmaStyleReferences": {
       "display.display-medium": "S:1eab7fbf93443110e66f176b128d89eb0a0d9bc1,",
@@ -378,12 +373,7 @@
     "id": "3a04511f0a8c673d7d37dbbf1cbf5bd15b09cff2",
     "name": "Cris Barros Light",
     "selectedTokenSets": {
-      "Cris Barros": "enabled",
-      "Farm": "disabled",
-      "Fabula": "disabled",
-      "Maria Filo": "disabled",
-      "Foxton": "disabled",
-      "Animale": "disabled"
+      "Cris Barros": "enabled"
     },
     "$figmaStyleReferences": {
       "display.display-medium": "S:b2fec54221112bff79635e4122a5de56005de82e,",
@@ -666,12 +656,7 @@
     "name": "Fabula",
     "selectedTokenSets": {
       "Cris Barros": "disabled",
-      "Global": "disabled",
-      "Farm": "disabled",
-      "Fabula": "enabled",
-      "Maria Filo": "disabled",
-      "Foxton": "disabled",
-      "Animale": "disabled"
+      "Global": "disabled"
     },
     "$figmaStyleReferences": {
       "typestyle.display.large": "S:35c5a8c8779ca4611451d7856ae212849fecd2a8,",
@@ -814,12 +799,7 @@
     "name": "Farm",
     "selectedTokenSets": {
       "Cris Barros": "disabled",
-      "Global": "disabled",
-      "Farm": "enabled",
-      "Fabula": "disabled",
-      "Maria Filo": "disabled",
-      "Foxton": "disabled",
-      "Animale": "disabled"
+      "Global": "disabled"
     },
     "$figmaStyleReferences": {
       "color.action.container.primary": "S:bf49e4bad3a8fdf53ee05c5522078bea8496b183,",
@@ -977,12 +957,7 @@
     "name": "Maria Filo",
     "selectedTokenSets": {
       "Cris Barros": "disabled",
-      "Global": "disabled",
-      "Farm": "disabled",
-      "Fabula": "disabled",
-      "Maria Filo": "enabled",
-      "Foxton": "disabled",
-      "Animale": "disabled"
+      "Global": "disabled"
     },
     "$figmaStyleReferences": {
       "typestyle.display.large": "S:433df90b5af36936c085b982e75084f05a332c6a,",
