@@ -950,7 +950,7 @@
       "medium": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{weight.regular}",
+          "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.xxs}",
           "fontSize": "{font-size.xl}",
           "letterSpacing": "{letter-spacing.default}",
@@ -982,7 +982,7 @@
       "large": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{weight.bold}",
+          "fontWeight": "{font-weight.bold}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.md}",
           "letterSpacing": "{letter-spacing.default}",
@@ -1012,11 +1012,11 @@
       "small": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{weight.bold}",
+          "fontWeight": "{font-weight.bold}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.xs}",
           "letterSpacing": "{letter-spacing.default}",
-          "paragraphSpacing": " {paragraph-spacing.default}",
+          "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
           "textCase": "{text-case.default}",
           "textDecoration": "{text-decoration.none}"
@@ -1044,7 +1044,7 @@
       "medium": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{weight.medium}",
+          "fontWeight": "{font-weight.medium}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.us}",
           "letterSpacing": "{letter-spacing.default}",
@@ -1106,11 +1106,11 @@
       "body": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{weight.regular}",
+          "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.xxl}",
           "fontSize": "{font-size.us}",
           "letterSpacing": "{letter-spacing.default}",
-          "paragraphSpacing": " {paragraph-spacing.default}",
+          "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
           "textCase": "{text-case.default}",
           "textDecoration": "{text-decoration.none}"
