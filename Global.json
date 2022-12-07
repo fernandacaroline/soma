@@ -375,25 +375,25 @@
       }
     },
     "background": {
-      "primary": {
+      "page": {
         "value": "{role.neutral.light-1}",
         "type": "color",
         "description": "neutral-light-1  Plano de fundo da página padrão"
       },
       "brand": {
-        "value": "{role.brand.primary-1}",
+        "value": "{role.neutral.dark-1}",
         "type": "color",
-        "description": "brand-primary-1  Cor de fundo de recurso para uso da marca"
+        "description": "brand-primary-1  \nCor de fundo de recurso para uso da marca\nLogo"
+      },
+      "brand-2": {
+        "value": "{role.brand.primary-4}",
+        "type": "color",
+        "description": "Fundo de sessão destaque sutil"
       },
       "overlay": {
         "value": "{role.neutral.dark-4}",
         "type": "color",
         "description": "opacity-intense  Fundos Overlay"
-      },
-      "brand-2": {
-        "value": "{role.brand.primary-4}",
-        "type": "color",
-        "description": "Fundos de seções (footer)"
       }
     },
     "link": {
@@ -684,10 +684,23 @@
       }
     },
     "background": {
-      "primary": {
+      "page": {
         "value": "{role.neutral.dark-1}",
         "type": "color",
         "description": "Fundos de alto contraste"
+      },
+      "brand": {
+        "value": "{role.neutral.light-1}",
+        "type": "color"
+      },
+      "brand-2": {
+        "value": "{role.neutral.dark-5}",
+        "type": "color",
+        "description": "Fundo de sessão destaque sutil"
+      },
+      "overlay": {
+        "value": "{role.neutral.dark-5}",
+        "type": "color"
       }
     },
     "link": {
@@ -730,7 +743,7 @@
         "y": "0",
         "blur": "8",
         "spread": "0",
-        "color": "{inverse.background.primary}",
+        "color": "{inverse.background.page}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -742,7 +755,7 @@
         "y": "0",
         "blur": "16",
         "spread": "0",
-        "color": "{inverse.background.primary}",
+        "color": "{inverse.background.page}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -754,7 +767,7 @@
         "y": "0",
         "blur": "24",
         "spread": "0",
-        "color": "{inverse.background.primary}",
+        "color": "{inverse.background.page}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -766,7 +779,7 @@
         "y": "0",
         "blur": "24",
         "spread": "0",
-        "color": "{inverse.background.primary}",
+        "color": "{inverse.background.page}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
