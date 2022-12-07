@@ -567,41 +567,41 @@
       }
     },
     "border": {
-        "default": {
-          "value": "{role.neutral.light-5}",
-          "type": "color",
-          "description": "Bordas no modo inverso"
-        },
-        "card": {
-          "value": "{role.neutral.dark-3}",
-          "type": "color",
-          "description": "Token para componentes que atuam como cards com conteúdo interno modo inverso"
-        },
-        "accent": {
-          "value": "{role.brand.primary-1}",
-          "type": "color",
-          "description": "Borda com cor de destaque"
-        },
-        "subtle": {
-          "value": "{role.neutral.dark-4}",
-          "type": "color",
-          "description": "Token para linhas divisórias entre categorias, filtros e colunas."
-        },
-        "hover": {
-          "value": "{role.neutral.light-4}",
-          "type": "color",
-          "description": "Token para bordas e linhas padrões usado nos principais componentes no estado hover modo inverso"
-        },
-        "active": {
-          "value": "{role.neutral.light-1}",
-          "type": "color",
-          "description": "Token para bordas e linhas padrões usado nos principais componentes no estado hover modo inverso"
-        },
-        "disabled": {
-          "value": "{role.neutral.dark-5}",
-          "type": "color",
-          "description": "Bordas e linhas em componentes desabilitados modo inverso"
-        }
+      "default": {
+        "value": "{role.neutral.light-5}",
+        "type": "color",
+        "description": "Bordas no modo inverso"
+      },
+      "card": {
+        "value": "{role.neutral.dark-3}",
+        "type": "color",
+        "description": "Token para componentes que atuam como cards com conteúdo interno modo inverso"
+      },
+      "accent": {
+        "value": "{role.brand.primary-1}",
+        "type": "color",
+        "description": "Borda com cor de destaque"
+      },
+      "subtle": {
+        "value": "{role.neutral.dark-4}",
+        "type": "color",
+        "description": "Token para linhas divisórias entre categorias, filtros e colunas."
+      },
+      "hover": {
+        "value": "{role.neutral.light-4}",
+        "type": "color",
+        "description": "Token para bordas e linhas padrões usado nos principais componentes no estado hover modo inverso"
+      },
+      "active": {
+        "value": "{role.neutral.light-1}",
+        "type": "color",
+        "description": "Token para bordas e linhas padrões usado nos principais componentes no estado hover modo inverso"
+      },
+      "disabled": {
+        "value": "{role.neutral.dark-5}",
+        "type": "color",
+        "description": "Bordas e linhas em componentes desabilitados modo inverso"
+      }
     },
     "feedback": {
       "negative": {
