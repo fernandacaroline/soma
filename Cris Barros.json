@@ -251,7 +251,7 @@
     },
     "border": {
       "default": {
-        "value": "{role.neutral.dark-2}",
+        "value": "{role.neutral.light-4}",
         "type": "color",
         "description": "Token para bordas e linhas padrões usado nos principais componentes no estado default"
       },
@@ -738,7 +738,7 @@
         "y": "0",
         "blur": "16",
         "spread": "0",
-        "color": "{role.neutral.dark-1}",
+        "color": "{role.neutral.light-3}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
