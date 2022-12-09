@@ -1029,7 +1029,7 @@
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.medium}",
           "lineHeight": "{line-height.xxus}",
-          "fontSize": "{font-size.xxus}",
+          "fontSize": "{font-size.us}",
           "letterSpacing": "{letter-spacing.default}",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
