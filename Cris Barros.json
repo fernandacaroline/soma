@@ -1164,17 +1164,17 @@
       "description": "border radius default"
     },
     "sm": {
-      "value": "4",
+      "value": "0",
       "type": "borderRadius",
       "description": "border radius small"
     },
     "md": {
-      "value": "8",
+      "value": "0",
       "type": "borderRadius",
       "description": "border radius medium"
     },
     "lg": {
-      "value": "24",
+      "value": "0",
       "type": "borderRadius",
       "description": "border radius large"
     },
