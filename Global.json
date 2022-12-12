@@ -1201,6 +1201,10 @@
     }
   },
   "border-width": {
+    "none": {
+      "value": "0",
+      "type": "borderWidth"
+    },
     "default": {
       "value": "1",
       "type": "borderWidth",
@@ -1212,7 +1216,7 @@
       "description": "Border Width Small"
     },
     "md": {
-      "value": "1",
+      "value": "1,5",
       "type": "borderWidth",
       "description": "Border Width Medium "
     },
