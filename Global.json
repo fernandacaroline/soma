@@ -753,8 +753,8 @@
       "value": {
         "x": "0",
         "y": "0",
-        "blur": "8",
-        "spread": "0",
+        "blur": "24",
+        "spread": "-6",
         "color": "{role.neutral.light-5}",
         "type": "dropShadow"
       },
@@ -766,8 +766,8 @@
         "x": "0",
         "y": "0",
         "blur": "24",
-        "spread": "0",
-        "color": "{inverse.background.page}",
+        "spread": "-8",
+        "color": "{role.neutral.dark-5}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -778,8 +778,8 @@
         "x": "0",
         "y": "0",
         "blur": "24",
-        "spread": "0",
-        "color": "{inverse.background.page}",
+        "spread": "-6",
+        "color": "{role.neutral.dark-3}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
