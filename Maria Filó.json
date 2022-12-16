@@ -362,7 +362,7 @@
         "description": "brand-primary-1  \nCor de fundo de recurso para uso da marca\nLogo"
       },
       "brand-2": {
-        "value": "{role.neutral.light-4}",
+        "value": "{role.neutral.light-1}",
         "type": "color",
         "description": "Fundo de sessão destaque sutil"
       },
