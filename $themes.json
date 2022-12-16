@@ -2,10 +2,7 @@
   {
     "id": "3a04511f0a8c673d7d37dbbf1cbf5bd15b09cff2",
     "name": "Cris Barros Light",
-    "selectedTokenSets": {
-      "Cris Barros": "enabled",
-      "Maria Filó": "disabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {
       "display.display-medium": "S:b2fec54221112bff79635e4122a5de56005de82e,",
       "display.display-small": "S:c9d40bd41aa881c18fcf222d5b8d34307100dd20,",
@@ -341,10 +338,7 @@
   {
     "id": "fab4dca30de83df589e524f0e26059be9b5a703a",
     "name": "Global Light",
-    "selectedTokenSets": {
-      "Global": "enabled",
-      "Maria Filó": "disabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {
       "display.display-medium": "S:1eab7fbf93443110e66f176b128d89eb0a0d9bc1,",
       "display.display-small": "S:08fca6198ea1e5d8050a14641fcc5896b2e49b02,",
@@ -776,11 +770,7 @@
   {
     "id": "5e3afab8cc09fabd891e6fef0255de5b9b1be4ce",
     "name": "MariaFilo",
-    "selectedTokenSets": {
-      "Cris Barros": "disabled",
-      "Global": "disabled",
-      "Maria Filó": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {
       "typestyle.display.large": "S:10b9ea5cab514db74240f42fe76866372c9c01ae,",
       "typestyle.display.medium": "S:09b81682bde5730068dfc133d726097f4cae3975,",
