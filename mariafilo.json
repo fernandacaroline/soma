@@ -245,7 +245,7 @@
         "description": "Token para componentes que atuam como cards com conteúdo interno"
       },
       "accent": {
-        "value": "{role.neutral.dark-1}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Borda com cor de destaque"
       },
@@ -260,7 +260,7 @@
         "description": "Token para bordas e linhas padrões usado nos principais componentes no estado hover"
       },
       "active": {
-        "value": "{role.neutral.dark-2}",
+        "value": "{role.neutral.dark-1}",
         "type": "color",
         "description": "Token para bordas e linhas padrões usado nos principais componentes no estado ativo"
       },
