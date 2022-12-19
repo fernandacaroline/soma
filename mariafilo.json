@@ -559,7 +559,7 @@
         "description": "Borda com cor de destaque"
       },
       "subtle": {
-        "value": "{role.neutral.light-2}",
+        "value": "{role.neutral.light-3}",
         "type": "color",
         "description": "Token para linhas divisórias entre categorias, filtros e colunas."
       },
