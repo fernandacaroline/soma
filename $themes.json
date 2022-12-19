@@ -770,7 +770,9 @@
   {
     "id": "5e3afab8cc09fabd891e6fef0255de5b9b1be4ce",
     "name": "MariaFilo",
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "mariafilo": "enabled"
+    },
     "$figmaStyleReferences": {
       "typestyle.display.large": "S:10b9ea5cab514db74240f42fe76866372c9c01ae,",
       "typestyle.display.medium": "S:09b81682bde5730068dfc133d726097f4cae3975,",
