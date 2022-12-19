@@ -245,7 +245,7 @@
         "description": "Token para componentes que atuam como cards com conteúdo interno"
       },
       "accent": {
-        "value": "{role.brand.primary-1}",
+        "value": "{role.neutral.dark-1}",
         "type": "color",
         "description": "Borda com cor de destaque"
       },
