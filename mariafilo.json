@@ -394,7 +394,7 @@
         "description": "Cor para link secundário em corpos de texto com destaque"
       },
       "secondary-hover": {
-        "value": "{role.brand.primary-1}",
+        "value": "{role.neutral.dark-3}",
         "type": "color",
         "description": "Cor para link no estado hover secundário"
       },
