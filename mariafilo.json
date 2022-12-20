@@ -223,7 +223,7 @@
         "description": "Icones secundários Icones usados acompanhados a textos secundários como Elementos secundários"
       },
       "accent": {
-        "value": "{role.neutral.dark-1}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Ícones em destaque"
       },
@@ -1051,11 +1051,11 @@
       "title": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{font-weight.bold}",
+          "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.xxs}",
           "letterSpacing": "{letter-spacing.default}",
-          "paragraphSpacing": " {paragraph-spacing.default}",
+          "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
           "textCase": "{text-case.default}",
           "textDecoration": "{text-decoration.none}"
