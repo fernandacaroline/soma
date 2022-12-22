@@ -921,10 +921,10 @@
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.xxs}",
           "fontSize": "{font-size.xxl}",
-          "letterSpacing": "{letter-spacing.default}",
+          "letterSpacing": "4%",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
-          "textCase": "{text-case.default}",
+          "textCase": "{text-case.uppercase}",
           "textDecoration": "{text-decoration.none}"
         },
         "type": "typography",
@@ -936,10 +936,10 @@
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.xxs}",
           "fontSize": "{font-size.xl}",
-          "letterSpacing": "{letter-spacing.default}",
+          "letterSpacing": "4%",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
-          "textCase": "{text-case.default}",
+          "textCase": "{text-case.uppercase}",
           "textDecoration": "{text-decoration.none}"
         },
         "type": "typography",
@@ -951,10 +951,10 @@
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.lg}",
-          "letterSpacing": "{letter-spacing.default}",
-          "paragraphSpacing": " {paragraph-spacing.default}",
+          "letterSpacing": "4%",
+          "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
-          "textCase": "{text-case.default}",
+          "textCase": "{text-case.uppercase}",
           "textDecoration": "{text-decoration.none}"
         },
         "type": "typography",
@@ -965,13 +965,13 @@
       "large": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{font-weight.bold}",
+          "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.md}",
-          "letterSpacing": "{letter-spacing.default}",
+          "letterSpacing": "4%",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
-          "textCase": "{text-case.default}",
+          "textCase": "{text-case.uppercase}",
           "textDecoration": "{text-decoration.none}"
         },
         "type": "typography",
@@ -980,13 +980,13 @@
       "medium": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{font-weight.light}",
+          "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.md}",
-          "letterSpacing": "{letter-spacing.default}",
-          "paragraphSpacing": " {paragraph-spacing.default}",
+          "letterSpacing": "4%",
+          "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
-          "textCase": "{text-case.default}",
+          "textCase": "{text-case.uppercase}",
           "textDecoration": "{text-decoration.none}"
         },
         "type": "typography",
@@ -995,13 +995,13 @@
       "small": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{font-weight.bold}",
+          "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.xs}",
-          "letterSpacing": "{letter-spacing.default}",
+          "letterSpacing": "4%",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
-          "textCase": "{text-case.default}",
+          "textCase": "{text-case.uppercase}",
           "textDecoration": "{text-decoration.none}"
         },
         "type": "typography",
@@ -1013,10 +1013,10 @@
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.xs}",
-          "letterSpacing": "{letter-spacing.default}",
-          "paragraphSpacing": " {paragraph-spacing.default}",
+          "letterSpacing": "4%",
+          "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
-          "textCase": "{text-case.default}",
+          "textCase": "{text-case.uppercase}",
           "textDecoration": "{text-decoration.none}"
         },
         "type": "typography",
@@ -1059,7 +1059,7 @@
       "title": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{font-weight.regular}",
+          "fontWeight": "{font-weight.medium}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.xxs}",
           "letterSpacing": "{letter-spacing.default}",
