@@ -1156,7 +1156,7 @@
       "description": "border radius default"
     },
     "sm": {
-      "value": "4",
+      "value": "0",
       "type": "borderRadius",
       "description": "border radius small"
     },
