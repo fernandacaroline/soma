@@ -371,7 +371,7 @@
         "description": "Fundo de sessão destaque sutil"
       },
       "overlay": {
-        "value": "{role.neutral.light-2}",
+        "value": "{role.neutral.dark-1}",
         "type": "color",
         "description": "opacity-intense  Fundos Overlay"
       }
@@ -448,7 +448,7 @@
           "description": "Para componentes com versões habilitadas e desabilitadas Checkbox Radio Button Toggle"
         },
         "disabled": {
-          "value": "{role.neutral.light-2}",
+          "value": "{role.neutral.light-4}",
           "type": "color",
           "description": "Cor de fundo desabilitado"
         }
@@ -541,7 +541,7 @@
         "description": "Ícones em destaque modo inverso"
       },
       "disabled": {
-        "value": "{role.neutral.light-3}",
+        "value": "{role.neutral.light-4}",
         "type": "color",
         "description": "Ícone desabilitado modo inverso"
       }
@@ -578,7 +578,7 @@
         "description": "Token para bordas e linhas padrões usado nos principais componentes no estado hover modo inverso"
       },
       "disabled": {
-        "value": "{role.neutral.light-2}",
+        "value": "{role.neutral.light-4}",
         "type": "color",
         "description": "Bordas e linhas em componentes desabilitados modo inverso"
       }
@@ -613,17 +613,17 @@
           "type": "color"
         },
         "text": {
-          "value": "{role.feedback.negative-2}",
+          "value": "{role.feedback.negative-3}",
           "type": "color",
           "description": "Erro Estados inválidos para texto"
         },
         "text-hover": {
-          "value": "{role.feedback.negative-2}",
+          "value": "{role.feedback.negative-3}",
           "type": "color",
           "description": "Erro Estados inválidos para texto no estado de hover"
         },
         "text-active": {
-          "value": "{role.feedback.negative-2}",
+          "value": "{role.feedback.negative-3}",
           "type": "color",
           "description": "Erro Estados inválidos para texto no estado ativo"
         },
