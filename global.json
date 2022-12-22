@@ -337,6 +337,10 @@
           "value": "{role.feedback.negative-1}",
           "type": "color",
           "description": "Erro Estados inválidos para texto no estado ativo"
+        },
+        "border": {
+          "value": "{role.feedback.negative-1}",
+          "type": "color"
         }
       },
       "positive": {
@@ -646,6 +650,10 @@
           "value": "{role.feedback.negative-1}",
           "type": "color",
           "description": "Erro Estados inválidos para texto no estado ativo"
+        },
+        "border": {
+          "value": "{role.feedback.negative-1}",
+          "type": "color"
         }
       },
       "positive": {
