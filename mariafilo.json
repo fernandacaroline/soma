@@ -1422,5 +1422,27 @@
       "value": "https://mariafilo.vteximg.com.br/arquivos/ids/359023-1000-1300/1512808_2608_2-CALCA-ROLOTE-AMARRACAO.jpg?v=637958394733130000",
       "type": "asset"
     }
+  },
+  "icon-size": {
+    "x-small": {
+      "value": "12",
+      "type": "sizing"
+    },
+    "small": {
+      "value": "16",
+      "type": "sizing"
+    },
+    "medium": {
+      "value": "24",
+      "type": "sizing"
+    },
+    "large": {
+      "value": "32",
+      "type": "sizing"
+    },
+    "x-large": {
+      "value": "40",
+      "type": "sizing"
+    }
   }
 }
