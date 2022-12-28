@@ -504,7 +504,7 @@
         "description": "ubtítulos Informações secundárias ao título Label Input Descrição de produto Corpo de texto"
       },
       "accent": {
-        "value": "{role.neutral.light-1}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Informação em destaque {brand} Item em destaque no menu"
       },
@@ -536,7 +536,7 @@
         "description": "Icones secundários modo inverso Elementos primários modo inverso"
       },
       "accent": {
-        "value": "{role.neutral.dark-1}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Ícones em destaque modo inverso"
       },
@@ -558,7 +558,7 @@
         "description": "Token para componentes que atuam como cards com conteúdo interno modo inverso"
       },
       "accent": {
-        "value": "{role.neutral.dark-1}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Borda com cor de destaque"
       },
