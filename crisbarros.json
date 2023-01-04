@@ -1430,5 +1430,27 @@
       "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/419995-1400-2100/34VE684TA_0227_1-VESTIDO.jpg?v=637955180167170000",
       "type": "asset"
     }
+  },
+  "icon-size": {
+    "x-small": {
+      "value": "12",
+      "type": "sizing"
+    },
+    "small": {
+      "value": "16",
+      "type": "sizing"
+    },
+    "medium": {
+      "value": "20",
+      "type": "sizing"
+    },
+    "large": {
+      "value": "32",
+      "type": "sizing"
+    },
+    "x-large": {
+      "value": "40",
+      "type": "sizing"
+    }
   }
 }
