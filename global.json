@@ -1447,5 +1447,27 @@
       "value": "https://github.dev/fernandacaroline/soma/blob/430de398cdd0c0edb5ecf206f4607a3bc1b18878/image.png",
       "type": "asset"
     }
+  },
+  "icon-size": {
+    "x-small": {
+      "value": "12",
+      "type": "sizing"
+    },
+    "small": {
+      "value": "16",
+      "type": "sizing"
+    },
+    "medium": {
+      "value": "24",
+      "type": "sizing"
+    },
+    "large": {
+      "value": "32",
+      "type": "sizing"
+    },
+    "x-large": {
+      "value": "40",
+      "type": "sizing"
+    }
   }
 }
