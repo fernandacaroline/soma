@@ -406,15 +406,15 @@
         "type": "color",
         "description": "Cor para link primário em links primários em menus, headers, e componentes principais"
       },
+        "primary-hover": {
+        "value": "{role.brand.primary-2}",
+        "type": "color",
+        "description": "Cor para link no estado hover"
+      },
       "primary-visited": {
         "value": "{role.brand.primary-2}",
         "type": "color",
         "description": "Links visitados Estado Ativo"
-      },
-      "primary-hover": {
-        "value": "{role.brand.primary-2}",
-        "type": "color",
-        "description": "Cor para link no estado hover"
       },
       "secondary": {
         "value": "{role.brand.primary-1}",
@@ -751,7 +751,7 @@
         "y": "0",
         "blur": "8",
         "spread": "0",
-        "color": "{inverse.background.page}",
+        "color": "{role.neutral.light-4}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
