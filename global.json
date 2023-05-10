@@ -796,7 +796,7 @@
   },
   "font-family": {
     "primary": {
-      "value": "Roboto",
+      "value": "Inter",
       "type": "fontFamilies"
     },
     "secondary": {
