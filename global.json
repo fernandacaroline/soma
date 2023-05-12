@@ -2,7 +2,7 @@
   "role": {
     "brand": {
       "primary-1": {
-        "value": "#2c294e",
+        "value": "#302d52",
         "type": "color"
       },
       "primary-2": {
@@ -115,7 +115,7 @@
     "action": {
       "container": {
         "primary": {
-          "value": "#2f2040",
+          "value": "{role.brand.primary-1}",
           "type": "color",
           "description": "Cor de fundo primária"
         },
