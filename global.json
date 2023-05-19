@@ -1161,7 +1161,7 @@
       "medium": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{font-weight.medium}",
+          "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.us}",
           "letterSpacing": "{letter-spacing.default}",
@@ -1176,7 +1176,7 @@
       "small": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{font-weight.medium}",
+          "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.xus}",
           "letterSpacing": "{letter-spacing.default}",
