@@ -938,7 +938,9 @@
       "shadow.default": "S:98f43d4658555e6b0c2eed58588cfe38d79dfb67,",
       "shadow.light": "S:7ecc7b6d8b2c931357fc27d518e3747a3fa47e7a,",
       "shadow.medium": "S:e1598e5aee42ab37862bc28b1c993ac152dc77ee,",
-      "shadow.intense": "S:192ee6ad1a5d395579af68a5769ee36389b40753,"
+      "shadow.intense": "S:192ee6ad1a5d395579af68a5769ee36389b40753,",
+      "typestyle.link.medium": "S:b119378e3447f1936b71ddf968d0242a1c0d93aa,",
+      "typestyle.link.small": "S:6f85befe0c0ea1de3ee292b95d53bb76fcc45ee5,"
     }
   }
 ]

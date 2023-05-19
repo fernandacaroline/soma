@@ -1156,6 +1156,38 @@
         "type": "typography",
         "description": "$typestyle-caption"
       }
+    },
+    "link": {
+      "medium": {
+        "value": {
+          "fontFamily": "{font-family.primary}",
+          "fontWeight": "{font-weight.medium}",
+          "lineHeight": "{line-height.us}",
+          "fontSize": "{font-size.us}",
+          "letterSpacing": "{letter-spacing.default}",
+          "paragraphSpacing": "{paragraph-spacing.default}",
+          "paragraphIndent": "",
+          "textCase": "{text-case.default}",
+          "textDecoration": "{text-decoration.none}"
+        },
+        "type": "typography",
+        "description": "$typestyle-link-md"
+      },
+      "small": {
+        "value": {
+          "fontFamily": "{font-family.primary}",
+          "fontWeight": "{font-weight.medium}",
+          "lineHeight": "{line-height.us}",
+          "fontSize": "{font-size.xus}",
+          "letterSpacing": "{letter-spacing.default}",
+          "paragraphSpacing": "{paragraph-spacing.default}",
+          "paragraphIndent": "",
+          "textCase": "{text-case.default}",
+          "textDecoration": "{text-decoration.none}"
+        },
+        "type": "typography",
+        "description": "$typestyle-link-sm"
+      }
     }
   },
   "text-case": {
