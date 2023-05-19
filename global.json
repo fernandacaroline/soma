@@ -728,7 +728,7 @@
         "description": "Links visitados Estado Ativo Modo inverso"
       },
       "secondary": {
-        "value": "{role.brand.primary-1}",
+        "value": "{role.neutral.light-3}",
         "type": "color",
         "description": "Cor para link secundário em corpos de texto com destaque modo inverso"
       },
