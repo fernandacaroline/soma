@@ -417,7 +417,7 @@
         "description": "Cor para link no estado hover"
       },
       "secondary": {
-        "value": "{role.brand.primary-1}",
+        "value": "{role.neutral.dark-2}",
         "type": "color",
         "description": "Cor para link secundário em corpos de texto com destaque"
       },
