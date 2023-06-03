@@ -264,7 +264,7 @@
         "description": "Token para bordas e linhas padrões usado nos principais componentes no estado default"
       },
       "card": {
-        "value": "{role.neutral.light-3}",
+        "value": "{role.neutral.light-2}",
         "type": "color",
         "description": "Token para componentes que atuam como cards com conteúdo interno"
       },
