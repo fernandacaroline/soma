@@ -406,15 +406,15 @@
         "type": "color",
         "description": "Cor para link primário em links primários em menus, headers, e componentes principais"
       },
-      "primary-visited": {
-        "value": "{role.brand.primary-2}",
-        "type": "color",
-        "description": "Links visitados Estado Ativo"
-      },
       "primary-hover": {
-        "value": "{role.brand.primary-1}",
+        "value": "{role.neutral.dark-2}",
         "type": "color",
         "description": "Cor para link no estado hover"
+      },
+      "primary-visited": {
+        "value": "{role.brand.primary-1}",
+        "type": "color",
+        "description": "Links visitados Estado Ativo"
       },
       "secondary": {
         "value": "{role.neutral.dark-2}",
@@ -422,7 +422,7 @@
         "description": "Cor para link secundário em corpos de texto com destaque"
       },
       "secondary-hover": {
-        "value": "{role.brand.primary-2}",
+        "value": "{role.neutral.dark-1}",
         "type": "color",
         "description": "Cor para link no estado hover secundário"
       },
