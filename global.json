@@ -6,7 +6,7 @@
         "type": "color"
       },
       "primary-2": {
-        "value": "#ACA9C9",
+        "value": "#a4a3ab",
         "type": "color"
       },
       "primary-3": {
@@ -40,7 +40,7 @@
         "type": "color"
       },
       "dark-2": {
-        "value": "#6f6f6f",
+        "value": "#424242",
         "type": "color"
       },
       "dark-3": {
@@ -182,7 +182,7 @@
           "description": "textos e ícones usados nos componentes de ação no estado default secundário"
         },
         "secondary-hover": {
-          "value": "{role.neutral.dark-1}",
+          "value": "{role.neutral.dark-2}",
           "type": "color",
           "description": "textos e ícones usados nos componentes de ação no estado hover secundário"
         },
@@ -269,7 +269,7 @@
         "description": "Token para componentes que atuam como cards com conteúdo interno"
       },
       "accent": {
-        "value": "{role.brand.primary-2}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Borda com cor de destaque"
       },
@@ -412,7 +412,7 @@
         "description": "Links visitados Estado Ativo"
       },
       "primary-hover": {
-        "value": "{role.brand.primary-2}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Cor para link no estado hover"
       },
