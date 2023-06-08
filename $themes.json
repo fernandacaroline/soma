@@ -935,7 +935,9 @@
       "inverse.background.page": "S:2d3a49784a5e69826a8d3356283ccb22aa9d9885,",
       "color.feedback.negative.border": "S:bf37fd0375a2fa0ea14ba2109213f2f702a11413,",
       "inverse.feedback.negative.border": "S:be86ccea98fcf34346dbfbf3502345aa09724f7f,",
-      "inverse.background.brand": "S:078f993dd3d38b22805e905a9513630788869242,"
+      "inverse.background.brand": "S:078f993dd3d38b22805e905a9513630788869242,",
+      "typestyle.link.medium": "S:273cc9e2286df91cd6815ab7c043ca5a8fa40885,",
+      "typestyle.link.small": "S:475f4c33b142e532122e3ec64b40b31342dfe2dd,"
     },
     "selectedTokenSets": {
       "crisbarros": "enabled"
