@@ -499,7 +499,7 @@
           "type": "color"
         },
         "secondary-disabled": {
-          "value": "{role.neutral.dark-1}",
+          "value": "{role.neutral.dark-2}",
           "type": "color"
         },
         "checked": {

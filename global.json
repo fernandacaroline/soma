@@ -2,11 +2,11 @@
   "role": {
     "brand": {
       "primary-1": {
-        "value": "#302d52",
+        "value": "#8179E2",
         "type": "color"
       },
       "primary-2": {
-        "value": "#a4a3ab",
+        "value": "#ACA9C9",
         "type": "color"
       },
       "primary-3": {
@@ -36,11 +36,11 @@
         "type": "color"
       },
       "dark-1": {
-        "value": "#1a1a1a",
+        "value": "#171717",
         "type": "color"
       },
       "dark-2": {
-        "value": "#7c7c7c",
+        "value": "#545454",
         "type": "color"
       },
       "dark-3": {
@@ -52,11 +52,11 @@
         "type": "color"
       },
       "light-2": {
-        "value": "#efefef",
+        "value": "#eaeaea",
         "type": "color"
       },
       "dark-5": {
-        "value": "#bcbcbc",
+        "value": "#7B7B7B",
         "type": "color"
       }
     },
@@ -182,7 +182,7 @@
           "description": "textos e ícones usados nos componentes de ação no estado default secundário"
         },
         "secondary-hover": {
-          "value": "{role.neutral.dark-2}",
+          "value": "{role.neutral.dark-1}",
           "type": "color",
           "description": "textos e ícones usados nos componentes de ação no estado hover secundário"
         },
@@ -215,7 +215,7 @@
         "description": "Subtítulos Informações secundárias ao título Label Input Descrição de produto Corpo de texto"
       },
       "accent": {
-        "value": "{role.brand.primary-2}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Informação em destaque {brand} Item em destaque no menu"
       },
@@ -247,7 +247,7 @@
         "description": "Icones secundários Icones usados acompanhados a textos secundários como Elementos secundários"
       },
       "accent": {
-        "value": "{role.brand.primary-2}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Ícones em destaque"
       },
@@ -264,7 +264,7 @@
         "description": "Token para bordas e linhas padrões usado nos principais componentes no estado default"
       },
       "card": {
-        "value": "{role.neutral.light-2}",
+        "value": "{role.neutral.light-3}",
         "type": "color",
         "description": "Token para componentes que atuam como cards com conteúdo interno"
       },
@@ -406,23 +406,23 @@
         "type": "color",
         "description": "Cor para link primário em links primários em menus, headers, e componentes principais"
       },
-      "primary-hover": {
-        "value": "{role.neutral.dark-2}",
-        "type": "color",
-        "description": "Cor para link no estado hover"
-      },
       "primary-visited": {
-        "value": "{role.brand.primary-1}",
+        "value": "{role.brand.primary-2}",
         "type": "color",
         "description": "Links visitados Estado Ativo"
       },
+      "primary-hover": {
+        "value": "{role.brand.primary-2}",
+        "type": "color",
+        "description": "Cor para link no estado hover"
+      },
       "secondary": {
-        "value": "{role.neutral.dark-2}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Cor para link secundário em corpos de texto com destaque"
       },
       "secondary-hover": {
-        "value": "{role.neutral.dark-1}",
+        "value": "{role.brand.primary-2}",
         "type": "color",
         "description": "Cor para link no estado hover secundário"
       },
@@ -528,7 +528,7 @@
         "description": "ubtítulos Informações secundárias ao título Label Input Descrição de produto Corpo de texto"
       },
       "accent": {
-        "value": "{role.brand.primary-2}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Informação em destaque {brand} Item em destaque no menu"
       },
@@ -560,7 +560,7 @@
         "description": "Icones secundários modo inverso Elementos primários modo inverso"
       },
       "accent": {
-        "value": "{role.brand.primary-2}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Ícones em destaque modo inverso"
       },
@@ -582,7 +582,7 @@
         "description": "Token para componentes que atuam como cards com conteúdo interno modo inverso"
       },
       "accent": {
-        "value": "{role.brand.primary-2}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Borda com cor de destaque"
       },
@@ -728,7 +728,7 @@
         "description": "Links visitados Estado Ativo Modo inverso"
       },
       "secondary": {
-        "value": "{role.neutral.light-3}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Cor para link secundário em corpos de texto com destaque modo inverso"
       },
@@ -796,7 +796,7 @@
   },
   "font-family": {
     "primary": {
-      "value": "Inter",
+      "value": "Roboto",
       "type": "fontFamilies"
     },
     "secondary": {
@@ -1155,38 +1155,6 @@
         },
         "type": "typography",
         "description": "$typestyle-caption"
-      }
-    },
-    "link": {
-      "medium": {
-        "value": {
-          "fontFamily": "{font-family.primary}",
-          "fontWeight": "{font-weight.regular}",
-          "lineHeight": "{line-height.us}",
-          "fontSize": "{font-size.us}",
-          "letterSpacing": "{letter-spacing.default}",
-          "paragraphSpacing": "{paragraph-spacing.default}",
-          "paragraphIndent": "",
-          "textCase": "{text-case.default}",
-          "textDecoration": "{text-decoration.none}"
-        },
-        "type": "typography",
-        "description": "$typestyle-link-md"
-      },
-      "small": {
-        "value": {
-          "fontFamily": "{font-family.primary}",
-          "fontWeight": "{font-weight.regular}",
-          "lineHeight": "{line-height.us}",
-          "fontSize": "{font-size.xus}",
-          "letterSpacing": "{letter-spacing.default}",
-          "paragraphSpacing": "{paragraph-spacing.default}",
-          "paragraphIndent": "",
-          "textCase": "{text-case.default}",
-          "textDecoration": "{text-decoration.none}"
-        },
-        "type": "typography",
-        "description": "$typestyle-link-sm"
       }
     }
   },
