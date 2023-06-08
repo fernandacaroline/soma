@@ -212,7 +212,7 @@
         "description": "Informação em destaque {brand} Item em destaque no menu"
       },
       "sale": {
-        "value": "{role.brand.secondary-3}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Preço com desconto"
       },
