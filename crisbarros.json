@@ -734,7 +734,7 @@
         "y": "0",
         "blur": "16",
         "spread": "-3",
-        "color": "{role.neutral.light-4}",
+        "color": "{role.neutral.light-3}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
