@@ -525,7 +525,7 @@
         "description": "Informação em destaque {brand} Item em destaque no menu"
       },
       "sale": {
-        "value": "{role.brand.secondary-3}",
+        "value": "{role.neutral.light-1}",
         "type": "color",
         "description": "Preço com desconto"
       },
@@ -1426,6 +1426,18 @@
     },
     "card-2": {
       "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/465669-1920-2880/35VE647POB_00677_5-VESTIDO-EMILIANA.jpg?v=638131079730930000",
+      "type": "asset"
+    },
+    "card-3": {
+      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/465620-1920-2880/35VE647POB_00677_2-VESTIDO-EMILIANA.jpg?v=638131079354930000",
+      "type": "asset"
+    },
+    "card-4": {
+      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/465644-1920-2880/35VE647POB_00677_4-VESTIDO-EMILIANA.jpg?v=638131079539300000",
+      "type": "asset"
+    },
+    "card-5": {
+      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/472281-1920-2880/35VE647POB_00677_3-VESTIDO-EMILIANA.jpg?v=638169192515800000",
       "type": "asset"
     }
   },
