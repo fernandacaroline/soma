@@ -525,7 +525,7 @@
         "description": "Informação em destaque {brand} Item em destaque no menu"
       },
       "sale": {
-        "value": "{role.brand.secondary-3}",
+        "value": "{role.neutral.light-1}",
         "type": "color",
         "description": "Preço com desconto"
       },
