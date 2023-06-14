@@ -525,7 +525,7 @@
         "description": "Informação em destaque {brand} Item em destaque no menu"
       },
       "sale": {
-        "value": "{role.neutral.light-1}",
+        "value": "{role.brand.secondary-3}",
         "type": "color",
         "description": "Preço com desconto"
       },
@@ -1405,61 +1405,27 @@
       "type": "spacing"
     }
   },
+  "banner": {
+    "tv-desk": {
+      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/475306/1_CB_BANNER_HOME_HEADER_AW23_DESK.jpg?v=638211323352300000",
+      "type": "asset"
+    },
+    "tv-mob": {
+      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/475307/1_CB_BANNER_HOME_HEADER_AW23_MOB.jpg?v=638211324509000000",
+      "type": "asset"
+    },
+    "1:1": {
+      "value": "https://s3.amazonaws.com/cdncrisbarros.e-thinkers.com.br/2023/maio/31/3_CB_BANNER_HOME_CARROSSEL-2_AW23_DESK.jpg",
+      "type": "asset"
+    }
+  },
   "product": {
-    "principal-1": {
-      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/419714-1400-2100/34VE673GGE_00274_1-VESTIDO.jpg?v=637955177351070000",
-      "type": "asset"
-    },
-    "principal-2": {
-      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/419737-1400-2100/34VE673GGE_00274_2-VESTIDO.jpg?v=637955177565800000",
-      "type": "asset"
-    },
-    "principal-3": {
-      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/419759-1400-2100/34VE673GGE_00274_3-VESTIDO.jpg?v=637955177788130000",
-      "type": "asset"
-    },
-    "principal-4": {
-      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/419783-1400-2100/34VE673GGE_00274_4-VESTIDO.jpg?v=637955178014070000",
-      "type": "asset"
-    },
     "card-1": {
-      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/419110-1400-2100/34VE650CCE_00289_1-VESTIDO.jpg?v=637955170633200000",
+      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/465597-1920-2880/35VE647POB_00677_1-VESTIDO-EMILIANA.jpg?v=638131079195770000",
       "type": "asset"
     },
     "card-2": {
-      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/418830-1400-2100/34VE641AMB_00229_1-VESTIDO.jpg?v=637955167995630000",
-      "type": "asset"
-    },
-    "card-3": {
-      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/411907-1400-2100/34VE600CO_00252_1-VESTIDO-DE-COURO-MIDI.jpg?v=637955088485970000",
-      "type": "asset"
-    },
-    "card-4": {
-      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/419680-1400-2100/34VE669LL_00252_1-VESTIDO.jpg?v=637955176991770000",
-      "type": "asset"
-    },
-    "card-5": {
-      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/420235/34VE691TEB_00239_1-VESTIDO-ANGELICA.jpg?v=637955182557300000",
-      "type": "asset"
-    },
-    "card-6": {
-      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/425998-1400-2100/34VE601YUB_00203_1--VESTIDO-ETIENNE.jpg?v=637971168050570000",
-      "type": "asset"
-    },
-    "card-7": {
-      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/419867-1400-2100/34VE674GGE_00402_1-VESTIDO.jpg?v=637955178796800000",
-      "type": "asset"
-    },
-    "card-8": {
-      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/427743-1400-2100/34VE215TC_00242_1-VESTIDO-EUMENIA.jpg?v=637988400088030000",
-      "type": "asset"
-    },
-    "card-9": {
-      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/418739-1400-2100/34VE640AVB_00025_1-VESTIDO-LABREA.jpg?v=637955167097070000",
-      "type": "asset"
-    },
-    "card-10": {
-      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/419995-1400-2100/34VE684TA_0227_1-VESTIDO.jpg?v=637955180167170000",
+      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/465669-1920-2880/35VE647POB_00677_5-VESTIDO-EMILIANA.jpg?v=638131079730930000",
       "type": "asset"
     }
   },
@@ -1483,6 +1449,36 @@
     "x-large": {
       "value": "40",
       "type": "sizing"
+    }
+  },
+  "product-2": {
+    "card-1": {
+      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/388090-1920-2880/33CQ283CO_00185_1-CASAQUETO-DE-COURO.jpg?v=637799401021500000",
+      "type": "asset"
+    },
+    "card-2": {
+      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/388168-1920-2880/33CQ283CO_00185_2-CASAQUETO-DE-COURO.jpg?v=637799401501830000",
+      "type": "asset"
+    }
+  },
+  "product-3": {
+    "card-1": {
+      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/466573-1920-2880/35VE699CO_0005_1-VESTIDO-DE-COURO-AMEDEA.jpg?v=638131087043130000",
+      "type": "asset"
+    },
+    "card-2": {
+      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/466617-1920-2880/35VE699CO_0005_4-VESTIDO-DE-COURO-AMEDEA.jpg?v=638131087374830000",
+      "type": "asset"
+    }
+  },
+  "product-4": {
+    "card-1": {
+      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/458845-1920-2880/35CA571CO_00301_1-CALCA-DE-COURO-TEDA.jpg?v=638131014579200000",
+      "type": "asset"
+    },
+    "card-2": {
+      "value": "https://lojacrisbarros.vteximg.com.br/arquivos/ids/458868-1920-2880/35CA571CO_00301_2-CALCA-DE-COURO-TEDA.jpg?v=638131014904470000",
+      "type": "asset"
     }
   }
 }
