@@ -1422,64 +1422,6 @@
       "type": "spacing"
     }
   },
-  "product": {
-    "principal-1": {
-      "value": "https://github.dev/fernandacaroline/soma/blob/430de398cdd0c0edb5ecf206f4607a3bc1b18878/image.png",
-      "type": "asset"
-    },
-    "principal-2": {
-      "value": "https://github.dev/fernandacaroline/soma/blob/430de398cdd0c0edb5ecf206f4607a3bc1b18878/image.png",
-      "type": "asset"
-    },
-    "principal-3": {
-      "value": "https://github.dev/fernandacaroline/soma/blob/430de398cdd0c0edb5ecf206f4607a3bc1b18878/image.png",
-      "type": "asset"
-    },
-    "principal-4": {
-      "value": "https://github.dev/fernandacaroline/soma/blob/430de398cdd0c0edb5ecf206f4607a3bc1b18878/image.png",
-      "type": "asset"
-    },
-    "card-1": {
-      "value": "https://github.dev/fernandacaroline/soma/blob/430de398cdd0c0edb5ecf206f4607a3bc1b18878/image.png",
-      "type": "asset"
-    },
-    "card-2": {
-      "value": "https://github.dev/fernandacaroline/soma/blob/430de398cdd0c0edb5ecf206f4607a3bc1b18878/image.png",
-      "type": "asset"
-    },
-    "card-3": {
-      "value": "https://github.dev/fernandacaroline/soma/blob/430de398cdd0c0edb5ecf206f4607a3bc1b18878/image.png",
-      "type": "asset"
-    },
-    "card-4": {
-      "value": "https://github.dev/fernandacaroline/soma/blob/430de398cdd0c0edb5ecf206f4607a3bc1b18878/image.png",
-      "type": "asset"
-    },
-    "card-5": {
-      "value": "https://github.dev/fernandacaroline/soma/blob/430de398cdd0c0edb5ecf206f4607a3bc1b18878/image.png",
-      "type": "asset"
-    },
-    "card-6": {
-      "value": "https://github.dev/fernandacaroline/soma/blob/430de398cdd0c0edb5ecf206f4607a3bc1b18878/image.png",
-      "type": "asset"
-    },
-    "card-7": {
-      "value": "https://github.dev/fernandacaroline/soma/blob/430de398cdd0c0edb5ecf206f4607a3bc1b18878/image.png",
-      "type": "asset"
-    },
-    "card-8": {
-      "value": "https://github.dev/fernandacaroline/soma/blob/430de398cdd0c0edb5ecf206f4607a3bc1b18878/image.png",
-      "type": "asset"
-    },
-    "card-9": {
-      "value": "https://github.dev/fernandacaroline/soma/blob/430de398cdd0c0edb5ecf206f4607a3bc1b18878/image.png",
-      "type": "asset"
-    },
-    "card-10": {
-      "value": "https://github.dev/fernandacaroline/soma/blob/430de398cdd0c0edb5ecf206f4607a3bc1b18878/image.png",
-      "type": "asset"
-    }
-  },
   "icon-size": {
     "x-small": {
       "value": "12",
