@@ -4,7 +4,11 @@
       "primary-1": {
         "value": "#BB9059",
         "type": "color"
-      }
+      },
+        "primary-2": {
+          "value": "#F6EAD6",
+          "type": "color"
+     }
     },
     "neutral": {
       "light-1": {
