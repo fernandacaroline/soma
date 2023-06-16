@@ -8,7 +8,15 @@
         "primary-2": {
           "value": "#F6EAD6",
           "type": "color"
-     }
+      },
+        "primary-3": {
+        "value": "#ECE6E0",
+        "type": "color"
+      },
+        "primary-4": {
+        "value": "#2D2D30",
+        "type": "color"
+      }
     },
     "neutral": {
       "light-1": {
@@ -24,7 +32,7 @@
         "type": "color"
       },
       "light-4": {
-        "value": "#969696",
+        "value": "#757575",
         "type": "color"
       },
       "dark-1": {
@@ -32,17 +40,17 @@
         "type": "color"
       },
       "dark-2": {
-        "value": "#595959",
+        "value": "#2D2D30",
         "type": "color"
       },
       "dark-3": {
-        "value": "#757575",
+        "value": "#595959",
         "type": "color"
       }
     },
     "feedback": {
       "negative-1": {
-        "value": "#AD0000",
+        "value": "#8C4146",
         "type": "color"
       },
       "negative-2": {
@@ -54,39 +62,39 @@
         "type": "color"
       },
       "positive-1": {
-        "value": "#1A6600",
+        "value": "#3E533B",
         "type": "color"
       },
       "positive-2": {
-        "value": "#F9FFF5",
+        "value": "#F0FAEF",
         "type": "color"
       },
       "positive-3": {
-        "value": "#B4DDA6",
+        "value": "#98A896",
         "type": "color"
       },
       "warning-1": {
-        "value": "#F9A533",
+        "value": "#BEA13B",
         "type": "color"
       },
       "warning-2": {
-        "value": "#FAF3E5",
+        "value": "#F9F4E5",
         "type": "color"
       },
       "warning-3": {
-        "value": "#814C04",
+        "value": "#795F04",
         "type": "color"
       },
       "information-1": {
-        "value": "#006075",
+        "value": "#4B6680",
         "type": "color"
       },
       "information-2": {
-        "value": "#E5FFFF",
+        "value": "#E6F1FB",
         "type": "color"
       },
       "information-3": {
-        "value": "#7ADBF0",
+        "value": "#99BFE3",
         "type": "color"
       }
     }
@@ -1173,7 +1181,7 @@
       "description": "border radius small"
     },
     "md": {
-      "value": "8",
+      "value": "0",
       "type": "borderRadius",
       "description": "border radius medium"
     },
@@ -1225,7 +1233,7 @@
       "description": "Opacity: None Torna a opacidade do elemento igual a zero."
     },
     "light": {
-      "value": "20%",
+      "value": "8%",
       "type": "opacity",
       "description": "Opacity Light Elemento com opacidade baixa"
     },
@@ -1437,7 +1445,7 @@
       "type": "sizing"
     },
     "medium": {
-      "value": "20",
+      "value": "24",
       "type": "sizing"
     },
     "large": {
@@ -1446,6 +1454,18 @@
     },
     "x-large": {
       "value": "40",
+      "type": "sizing"
+    },
+    "xx-large": {
+      "value": "48",
+      "type": "sizing"
+    },
+    "xxx-large": {
+      "value": "56",
+      "type": "sizing"
+    },
+    "xtreme": {
+      "value": "64",
       "type": "sizing"
     }
   }
