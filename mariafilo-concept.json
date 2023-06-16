@@ -2,7 +2,7 @@
   "role": {
     "brand": {
       "primary-1": {
-        "value": "#BB9059",
+        "value": "#BB8F59",
         "type": "color"
       },
       "primary-2": {
@@ -170,12 +170,12 @@
           "description": "textos e ícones usados nos componentes de ação no estado default secundário"
         },
         "secondary-hover": {
-          "value": "{role.neutral.dark-1}",
+          "value": "{role.neutral.dark-2}",
           "type": "color",
           "description": "textos e ícones usados nos componentes de ação no estado hover secundário"
         },
         "secondary-active": {
-          "value": "{role.neutral.dark-1}",
+          "value": "{role.neutral.dark-2}",
           "type": "color",
           "description": "textos e ícones usados nos componentes de ação no estado ativo secundário"
         },
@@ -193,27 +193,27 @@
     },
     "text": {
       "primary": {
-        "value": "{role.neutral.dark-1}",
+        "value": "{role.neutral.dark-2}",
         "type": "color",
         "description": "Textos primários,  Títulos  Informações principais"
       },
       "secondary": {
-        "value": "{role.neutral.dark-2}",
+        "value": "{role.neutral.dark-3}",
         "type": "color",
         "description": "Subtítulos Informações secundárias ao título Label Input Descrição de produto Corpo de texto"
       },
       "accent": {
-        "value": "{role.brand.primary-1}",
+        "value": "{role.brand.brand-1}",
         "type": "color",
         "description": "Informação em destaque {brand} Item em destaque no menu"
       },
       "sale": {
-        "value": "{role.neutral.dark-1}",
+        "value": "{role.neutral.dark-2}",
         "type": "color",
         "description": "Preço com desconto"
       },
       "support": {
-        "value": "{role.neutral.dark-3}",
+        "value": "{role.neutral.light-4}",
         "type": "color",
         "description": "Placeholder Legendas Frases de suporte sem destaque"
       },
@@ -225,12 +225,12 @@
     },
     "icon": {
       "primary": {
-        "value": "{role.neutral.dark-1}",
+        "value": "{role.neutral.dark-2}",
         "type": "color",
         "description": "Icones primários Icones usados acompanhados a textos primários Elementos primários"
       },
       "secondary": {
-        "value": "{role.neutral.light-3}",
+        "value": "{role.neutral.dark-3}",
         "type": "color",
         "description": "Icones secundários Icones usados acompanhados a textos secundários como Elementos secundários"
       },
@@ -267,12 +267,12 @@
         "description": "Token para linhas divisórias entre categorias, filtros e colunas."
       },
       "hover": {
-        "value": "{role.neutral.dark-3}",
+        "value": "{role.neutral.light-4}",
         "type": "color",
         "description": "Token para bordas e linhas padrões usado nos principais componentes no estado hover"
       },
       "active": {
-        "value": "{role.neutral.dark-1}",
+        "value": "{role.neutral.dark-2}",
         "type": "color",
         "description": "Token para bordas e linhas padrões usado nos principais componentes no estado ativo"
       },
@@ -285,17 +285,17 @@
     "feedback": {
       "negative": {
         "container": {
-          "value": "{role.feedback.negative-1}",
+          "value": "{role.feedback.negative-3}",
           "type": "color",
           "description": "color-negative-pure  Erro Estados inválidos para container e bordas"
         },
         "container-hover": {
-          "value": "{role.feedback.negative-1}",
+          "value": "{role.feedback.negative-3}",
           "type": "color",
           "description": "Erro Estados inválidos para container e bordas no estado hover"
         },
         "container-active": {
-          "value": "{role.feedback.negative-1}",
+          "value": "{role.feedback.negative-3}",
           "type": "color",
           "description": "Erro Estados inválidos para container e bordas no estado ativo"
         },
@@ -333,7 +333,7 @@
       },
       "positive": {
         "container": {
-          "value": "{role.feedback.positive-1}",
+          "value": "{role.feedback.positive-3}",
           "type": "color",
           "description": "color-positive-pure  positive On para containers"
         },
@@ -357,7 +357,7 @@
       },
       "info": {
         "container": {
-          "value": "{role.feedback.information-1}",
+          "value": "{role.feedback.information-3}",
           "type": "color"
         },
         "text": {
@@ -378,12 +378,12 @@
         "description": "brand-primary-1  \nCor de fundo de recurso para uso da marca\nLogo"
       },
       "brand-2": {
-        "value": "{role.neutral.light-1}",
+        "value": "{role.brand.primary-3}",
         "type": "color",
         "description": "Fundo de sessão destaque sutil"
       },
       "overlay": {
-        "value": "{role.neutral.dark-1}",
+        "value": "{role.neutral.dark-2}",
         "type": "color",
         "description": "opacity-intense  Fundos Overlay"
       }
@@ -395,27 +395,27 @@
         "description": "Cor para link primário em links primários em menus, headers, e componentes principais"
       },
       "primary-visited": {
-        "value": "{role.neutral.dark-2}",
+        "value": "{role.neutral.dark-3}",
         "type": "color",
         "description": "Links visitados Estado Ativo"
       },
       "primary-hover": {
-        "value": "{role.neutral.dark-3}",
+        "value": "{role.neutral.dark-2}",
         "type": "color",
         "description": "Cor para link no estado hover"
       },
       "secondary": {
-        "value": "{role.neutral.dark-2}",
+        "value": "{role.neutral.dark-3}",
         "type": "color",
         "description": "Cor para link secundário em corpos de texto com destaque"
       },
       "secondary-hover": {
-        "value": "{role.neutral.dark-3}",
+        "value": "{role.neutral.light-4}",
         "type": "color",
         "description": "Cor para link no estado hover secundário"
       },
       "secondary-visited": {
-        "value": "{role.neutral.dark-2}",
+        "value": "{role.neutral.light-3}",
         "type": "color",
         "description": "Links visitados Estado Ativo"
       }
@@ -430,7 +430,7 @@
           "description": "Cor de fundo primária"
         },
         "primary-hover": {
-          "value": "{role.neutral.light-1}",
+          "value": "{role.neutral.light-2}",
           "type": "color",
           "description": "Cor de fundo primária estado hover"
         },
@@ -450,7 +450,7 @@
           "description": "Cor de fundo secundária estado hover"
         },
         "secondary-active": {
-          "value": "{role.neutral.light-4}",
+          "value": "{role.neutral.dark-2}",
           "type": "color",
           "description": "Cor de fundo secundária  estado ativo"
         },
@@ -495,7 +495,7 @@
           "type": "color"
         },
         "secondary-disabled": {
-          "value": "{role.neutral.dark-3}",
+          "value": "{role.neutral.light-4}",
           "type": "color"
         },
         "checked": {
@@ -516,7 +516,7 @@
         "description": "ubtítulos Informações secundárias ao título Label Input Descrição de produto Corpo de texto"
       },
       "accent": {
-        "value": "{role.neutral.light-1}",
+        "value": "{role.brand.primary-2}",
         "type": "color",
         "description": "Informação em destaque {brand} Item em destaque no menu"
       },
@@ -526,7 +526,7 @@
         "description": "Preço com desconto"
       },
       "support": {
-        "value": "{role.neutral.light-3}",
+        "value": "{role.neutral.light-2}",
         "type": "color",
         "description": "Placeholder Legendas Frases de suporte sem destaque"
       },
@@ -548,7 +548,7 @@
         "description": "Icones secundários modo inverso Elementos primários modo inverso"
       },
       "accent": {
-        "value": "{role.neutral.dark-1}",
+        "value": "{role.brand.primary-2}",
         "type": "color",
         "description": "Ícones em destaque modo inverso"
       },
@@ -560,32 +560,32 @@
     },
     "border": {
       "default": {
-        "value": "{role.neutral.light-3}",
+        "value": "{role.neutral.dark-3}",
         "type": "color",
         "description": "Bordas no modo inverso"
       },
       "card": {
-        "value": "{role.neutral.light-2}",
+        "value": "{role.neutral.light-4}",
         "type": "color",
         "description": "Token para componentes que atuam como cards com conteúdo interno modo inverso"
       },
       "accent": {
-        "value": "{role.neutral.dark-1}",
+        "value": "{role.brand.primary-2}",
         "type": "color",
         "description": "Borda com cor de destaque"
       },
       "subtle": {
-        "value": "{role.neutral.light-3}",
+        "value": "{role.neutral.dark-3}",
         "type": "color",
         "description": "Token para linhas divisórias entre categorias, filtros e colunas."
       },
       "hover": {
-        "value": "{role.neutral.dark-3}",
+        "value": "{role.neutral.light-4}",
         "type": "color",
         "description": "Token para bordas e linhas padrões usado nos principais componentes no estado hover modo inverso"
       },
       "active": {
-        "value": "{role.neutral.dark-2}",
+        "value": "{role.neutral.light-3}",
         "type": "color",
         "description": "Token para bordas e linhas padrões usado nos principais componentes no estado hover modo inverso"
       },
@@ -640,7 +640,7 @@
           "description": "Erro Estados inválidos para texto no estado ativo"
         },
         "border": {
-          "value": "{role.feedback.negative-1}",
+          "value": "{role.feedback.negative-2}",
           "type": "color"
         }
       },
@@ -689,12 +689,12 @@
         "type": "color"
       },
       "brand-2": {
-        "value": "{role.neutral.dark-2}",
+        "value": "{role.brand.brand-1}",
         "type": "color",
         "description": "Fundo de sessão destaque sutil"
       },
       "overlay": {
-        "value": "{role.neutral.dark-3}",
+        "value": "{role.neutral.light-4}",
         "type": "color"
       }
     },
