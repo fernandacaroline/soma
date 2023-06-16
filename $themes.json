@@ -3,8 +3,7 @@
     "id": "5e3afab8cc09fabd891e6fef0255de5b9b1be4ce",
     "name": "MariaFilo",
     "selectedTokenSets": {
-      "mariafilo": "enabled",
-      "mariafilo-teste": "disabled"
+      "mariafilo": "enabled"
     },
     "$figmaStyleReferences": {
       "typestyle.display.large": "S:10b9ea5cab514db74240f42fe76866372c9c01ae,",
@@ -171,8 +170,7 @@
     "id": "fab4dca30de83df589e524f0e26059be9b5a703a",
     "name": "Global Light",
     "selectedTokenSets": {
-      "global": "enabled",
-      "mariafilo-teste": "disabled"
+      "global": "enabled"
     },
     "$figmaStyleReferences": {
       "display.display-medium": "S:1eab7fbf93443110e66f176b128d89eb0a0d9bc1,",
@@ -942,8 +940,7 @@
       "typestyle.link.small": "S:475f4c33b142e532122e3ec64b40b31342dfe2dd,"
     },
     "selectedTokenSets": {
-      "crisbarros": "enabled",
-      "mariafilo-teste": "disabled"
+      "crisbarros": "enabled"
     }
   },
   {
@@ -1086,9 +1083,7 @@
       "shadow.medium": "S:0d61ece66c370c3f0d619cbfb240b272aee6217d,",
       "shadow.intense": "S:d525e9c05a812878fe87024cc0bee73b98a0ab04,"
     },
-    "selectedTokenSets": {
-      "mariafilo-teste": "enabled"
-    },
+    "selectedTokenSets": {},
     "group": "MF"
   }
 ]

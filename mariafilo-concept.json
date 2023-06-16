@@ -203,7 +203,7 @@
         "description": "Subtítulos Informações secundárias ao título Label Input Descrição de produto Corpo de texto"
       },
       "accent": {
-        "value": "{role.brand.brand-1}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Informação em destaque {brand} Item em destaque no menu"
       },
@@ -689,7 +689,7 @@
         "type": "color"
       },
       "brand-2": {
-        "value": "{role.brand.brand-1}",
+        "value": "{role.brand.primary-1}",
         "type": "color",
         "description": "Fundo de sessão destaque sutil"
       },
@@ -930,7 +930,7 @@
       "large": {
         "value": {
           "fontFamily": "{font-family.primary}",
-          "fontWeight": "{font-weight.regular}",
+          "fontWeight": "{font-weight.light}",
           "lineHeight": "{line-height.xxs}",
           "fontSize": "{font-size.xxl}",
           "letterSpacing": "4%",
