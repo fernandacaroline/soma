@@ -736,9 +736,9 @@
       "value": {
         "x": "0",
         "y": "0",
-        "blur": "8",
-        "spread": "0",
-        "color": "{role.neutral.light-3}",
+        "blur": "16",
+        "spread": "-4",
+        "color": "{role.neutral.light-4}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -748,9 +748,9 @@
       "value": {
         "x": "0",
         "y": "0",
-        "blur": "8",
-        "spread": "-3",
-        "color": "{role.neutral.light-3}",
+        "blur": "16",
+        "spread": "0",
+        "color": "{role.neutral.light-4}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -760,9 +760,9 @@
       "value": {
         "x": "0",
         "y": "0",
-        "blur": "8",
-        "spread": "-8",
-        "color": "{role.neutral.light-3}",
+        "blur": "24",
+        "spread": "2",
+        "color": "{role.neutral.light-4}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -772,9 +772,9 @@
       "value": {
         "x": "0",
         "y": "0",
-        "blur": "16",
-        "spread": "-6",
-        "color": "{role.neutral.light-3}",
+        "blur": "24",
+        "spread": "4",
+        "color": "{role.neutral.light-4}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -917,6 +917,10 @@
     "default": {
       "value": "0%",
       "type": "letterSpacing"
+    },
+    "spaced": {
+      "value": "4%",
+      "type": "letterSpacing"
     }
   },
   "paragraph-spacing": {
@@ -933,7 +937,7 @@
           "fontWeight": "{font-weight.light}",
           "lineHeight": "{line-height.xxs}",
           "fontSize": "{font-size.xxl}",
-          "letterSpacing": "4%",
+          "letterSpacing": "{letter-spacing.spaced}",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
           "textCase": "{text-case.default}",
@@ -948,7 +952,7 @@
           "fontWeight": "{font-weight.light}",
           "lineHeight": "{line-height.xxs}",
           "fontSize": "{font-size.xl}",
-          "letterSpacing": "4%",
+          "letterSpacing": "{letter-spacing.default}",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
           "textCase": "{text-case.uppercase}",
@@ -963,7 +967,7 @@
           "fontWeight": "{font-weight.light}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.lg}",
-          "letterSpacing": "4%",
+          "letterSpacing": "{letter-spacing.spaced}",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
           "textCase": "{text-case.uppercase}",
@@ -980,7 +984,7 @@
           "fontWeight": "{font-weight.light}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.md}",
-          "letterSpacing": "4%",
+          "letterSpacing": "{letter-spacing.default}",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
           "textCase": "{text-case.uppercase}",
@@ -995,7 +999,7 @@
           "fontWeight": "{font-weight.light}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.xs}",
-          "letterSpacing": "4%",
+          "letterSpacing": "{letter-spacing.default}",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
           "textCase": "{text-case.uppercase}",
@@ -1010,11 +1014,11 @@
           "fontWeight": "{font-weight.light}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.xxs}",
-          "letterSpacing": "4%",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
           "textCase": "{text-case.uppercase}",
-          "textDecoration": "{text-decoration.none}"
+          "textDecoration": "{text-decoration.none}",
+          "letterSpacing": "{letter-spacing.spaced}"
         },
         "type": "typography",
         "description": "$typestyle-headline-sm"
@@ -1025,7 +1029,7 @@
           "fontWeight": "{font-weight.light}",
           "lineHeight": "{line-height.us}",
           "fontSize": "{font-size.us}",
-          "letterSpacing": "4%",
+          "letterSpacing": "{letter-spacing.spaced}",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
           "textCase": "{text-case.uppercase}",
