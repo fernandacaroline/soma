@@ -955,7 +955,7 @@
           "letterSpacing": "{letter-spacing.default}",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
-          "textCase": "{text-case.uppercase}",
+          "textCase": "{text-case.default}",
           "textDecoration": "{text-decoration.none}"
         },
         "type": "typography",
@@ -970,7 +970,7 @@
           "letterSpacing": "{letter-spacing.spaced}",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
-          "textCase": "{text-case.uppercase}",
+          "textCase": "{text-case.default}",
           "textDecoration": "{text-decoration.none}"
         },
         "type": "typography",
@@ -987,7 +987,7 @@
           "letterSpacing": "{letter-spacing.default}",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
-          "textCase": "{text-case.uppercase}",
+          "textCase": "{text-case.default}",
           "textDecoration": "{text-decoration.none}"
         },
         "type": "typography",
@@ -1002,7 +1002,7 @@
           "letterSpacing": "{letter-spacing.default}",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
-          "textCase": "{text-case.uppercase}",
+          "textCase": "{text-case.default}",
           "textDecoration": "{text-decoration.none}"
         },
         "type": "typography",
@@ -1016,7 +1016,7 @@
           "fontSize": "{font-size.xxs}",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
-          "textCase": "{text-case.uppercase}",
+          "textCase": "{text-case.default}",
           "textDecoration": "{text-decoration.none}",
           "letterSpacing": "{letter-spacing.spaced}"
         },
@@ -1032,7 +1032,7 @@
           "letterSpacing": "{letter-spacing.spaced}",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
-          "textCase": "{text-case.uppercase}",
+          "textCase": "{text-case.default}",
           "textDecoration": "{text-decoration.none}"
         },
         "type": "typography",
@@ -1049,7 +1049,7 @@
           "letterSpacing": "{letter-spacing.default}",
           "paragraphSpacing": "{paragraph-spacing.default}",
           "paragraphIndent": "",
-          "textCase": "{text-case.uppercase}",
+          "textCase": "{text-case.default}",
           "textDecoration": "{text-decoration.none}"
         },
         "type": "typography",
@@ -1064,7 +1064,7 @@
           "letterSpacing": "{letter-spacing.default}",
           "paragraphSpacing": " {paragraph-spacing.default}",
           "paragraphIndent": "",
-          "textCase": "{text-case.uppercase}",
+          "textCase": "{text-case.default}",
           "textDecoration": "{text-decoration.none}"
         },
         "type": "typography",
