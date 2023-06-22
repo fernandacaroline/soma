@@ -1,8 +1,6 @@
 {
   "tokenSetOrder": [
-    "crisbarros",
     "global",
-    "mariafilo",
-    "mariafilo-concept"
+    "role"
   ]
 }
