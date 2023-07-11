@@ -1160,7 +1160,7 @@
         "value": {
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.regular}",
-          "lineHeight": "{line-height.xus}",
+          "lineHeight": "{line-height.xxus}",
           "fontSize": "{font-size.xus}",
           "letterSpacing": "{letter-spacing.default}",
           "paragraphSpacing": "{paragraph-spacing.default}",
